@@ -10,20 +10,27 @@ This is a resting place for CanberraUAV's documentation and admin files.
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
     minutes/main
-	Subprojects/main
-	logos/main
-	2012 Outback UAV Challenge/main
-	
+    Subprojects/main
+    logos/main
+    2012 Outback UAV Challenge/main
+
+
 Other
 --------------------------
 
 Useful Links
+
 Mailing list (public)
+
 Mailing list (private)
+
 Flickr Photo pool
+
 Youtube account
+
 Main gmail address
+
 
