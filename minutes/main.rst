@@ -1,4 +1,9 @@
 Minutes
 ==========================
 
-Notes and records from our weekly (andhother ) meetings
+Notes and records from our weekly (and other) meetings
+
+(Date)
+------
+* item 1
+* item 2
