@@ -1,0 +1,31 @@
+2013 March 04
+=============
+
+Documentation
+-------------
+ * decided to persist with the new system for the timebeing at least.
+
+
+Insurance
+---------
+ * expired yesterday (2012/04/03)
+ * currently only able to fly at CMAC under MAAA-SGA rules
+ * need to contact organisers WRT insurance associated with the competition
+ * hope it doesn't take as long as last time
+
+Notes from Avalon
+-----------------
+ * OBC competition is having difficulty with their own insurance
+ * possibly related to actuarial costs (small cheese)
+ * what do the licenced commercial UAV companies do? GA-type insurance policy?
+
+DGPS development
+----------------
+ * good progress on the software side
+ * hardware issues - NAK TRCMv2 ? One blocker, may be minor.
+
+Purchases
+---------
+ * New telemaster
+ * electronics purchases = PX4, GPS'
+

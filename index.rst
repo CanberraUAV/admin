@@ -11,10 +11,18 @@ Contents:
     :maxdepth: 3
     :glob:
 
-    minutes/main
     Subprojects/main
 	 logos/main
 	 2012 Outback UAV Challenge/main
+
+
+Meeting Minutes:
+
+.. toctree::
+   :maxdepth: 1 
+   :glob:
+
+   minutes/*
 
 
 Other Useful Links
