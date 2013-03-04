@@ -11,9 +11,9 @@ Contents:
     :maxdepth: 3
     :glob:
 
-    Subprojects/main
-	 logos/main
-	 2012 Outback UAV Challenge/main
+    Subprojects/index
+    logos/index
+    OBC2012/index
 
 
 Meeting Minutes:
