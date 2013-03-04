@@ -5,20 +5,24 @@ Information and documents for the 2012 Challenge
 
 Deliverables
 ------------
-D1 `Word 2010 <Deliverable 1 Report Draft 6 editable.docx>`_, `PDF <Deliverable 1 Report Final.pdf>`_
 
-D2 `Word 2010 <Deliverable 2 Final 2.docx>`_, `PDF <Deliverable 2 Final.pdf>`_
+:download:`D1 (word 2010) <deliverable_1_report_draft_6_editable.docx>`,
+:download:`D1 (PDF) <deliverable_1_report_final.pdf>`
 
-D3 `Word 2010 <Deliverable 3 V4.docx>`_, `PDF <Deliverable 3 V3.pdf>`_
+:download:`D2 (word 2010)<deliverable_2_final_2.docx>`,
+:download:`D2 (PDF)<deliverable_2_final.pdf>`
+
+:download:`D3 (word 2010)<deliverable_3_v4.docx>`,
+:download:`D3 (PDF)<deliverable_3_v3.pdf>`
 
 Procedures and Reference
 ------------------------
 
-Procedures document -`Word 2010  <UAV Procedures.docx>`_
+:download:`Procedures document (word 2010)<uav_procedures.docx>`
 
-Items to bring to testing days - `Word 2010 <Items to bring.docx>`_
+:download:`Items to bring to testing days (word 2010)<items_to_bring.docx>`
 
 After the Challenge
 -------------------
 
-Debrief Document - `Word 2010 <CanberraUAV notes debrief.docx>`_
+:download:`Debrief (word 2010)<canberrauav_notes_debrief.docx>`
