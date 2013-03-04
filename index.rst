@@ -1,11 +1,9 @@
 CanberrraUAV Administrivia
 ==========================
 
-Welcome, first I want to ensure that GitHub's code browser render's RST nicely.
-
-These docs are also rendered to https://canberrauav.readthedocs.org/
-
 This is a resting place for CanberraUAV's documentation and admin files.
+
+These docs can be rendered with sphinx, or accessed online at https://canberrauav.readthedocs.org/
 
 Contents:
 
