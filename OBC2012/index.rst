@@ -3,16 +3,19 @@
 
 CanberraUAV was formed to campeign for the 2012 UAV Outback Challenge, an international amateur UAV search and rescue competition. We won first place and were awarded perfect score for the search component, but suffered a malfunction that prevented us from acomplishing the rescue component.
 
+The 2014 competition was announced on 27/02/2013, we will enter and expect to improve on our 2012 performance.
+
 .. image:: 2012uavchallenge2.jpg
 
-The 2014 competition was announced on 27/02/2013, and we intend to enter it.
+The above image shows the team members present at the awards ceremony on day 3 of the competition, it doesn't include the members that had to travel home before them, or the wider community that contributed to our efforts.
 
 For more information about the event:
  * The official competition web site http://www.uavoutbackchallenge.com.au/
- * Wikipedia article http://en.wikipedia.org/wiki/UAV_Outback_Challenge
+ * CanberraUAV mission statement: http://canberrauav.com/about
+ * OBC Wikipedia article http://en.wikipedia.org/wiki/UAV_Outback_Challenge
  * DIYDrones writeup (technical/enthusiast audience) http://diydrones.com/profiles/blogs/canberrauav-outback-challenge-2012-debrief
  * Sydney Morning Herald (general public audience) http://www.smh.com.au/technology/technology-news/drone-finds-dummy-bushwalker-in-worldfirst-20121005-273lv.html
- * Burnett Times (general public, Kingaroy local paper) http://southburnett.com.au/news2/2012/10/outback-joe-found-but-not-saved/ 
+ * South Burnett Times (general public, Kingaroy local paper) http://southburnett.com.au/news2/2012/10/outback-joe-found-but-not-saved/ 
 
 Deliverables
 ------------
