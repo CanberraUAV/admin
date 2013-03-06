@@ -17,8 +17,7 @@ Deliverables
 
 The competition requires passing various development and documentation milestones prior to the event. These are the documents we submitted:
 
- * :download:`D1 (word 2010) <deliverable_1_report_draft_6_editable.docx>`,
-:download:`D1 (PDF) <deliverable_1_report_final.pdf>`
+ * :download:`D1 (word 2010) <deliverable_1_report_draft_6_editable.docx>`, :download:`D1 (PDF) <deliverable_1_report_final.pdf>`
  * :download:`D2 (word 2010)<deliverable_2_final_2.docx>`, :download:`D2 (PDF)<deliverable_2_final.pdf>`
  * :download:`D3 (word 2010)<deliverable_3_v4.docx>`, :download:`D3 (PDF)<deliverable_3_v3.pdf>`
 
