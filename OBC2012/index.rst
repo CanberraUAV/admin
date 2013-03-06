@@ -1,4 +1,4 @@
-2012 Outback UAV Challenge
+2012 UAV Outback Challenge
 ==========================
 
 CanberraUAV was formed to campeign for the 2012 UAV Outback Challenge, an international amateur UAV search and rescue competition. We won first place and were awarded perfect score for the search component, but suffered a malfunction that prevented us from acomplishing the rescue component.
