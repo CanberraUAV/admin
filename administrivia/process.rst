@@ -1,4 +1,4 @@
-A propsed document management process
+A proposed document management process
 =====================================
 
 The is a bit beurocratic, but it's an attempt to foster common understanding within the group, *without getting in the way*. It might work as-is, but probably will need to evolve to be successful.
@@ -6,17 +6,17 @@ The is a bit beurocratic, but it's an attempt to foster common understanding wit
 The documentation is structured in a way that has an opinion about our management/development process. The pages (representing projects/products/activities) are organised in top level directories based on a model of our "lifecycle". The document generation magic uses the location of the files as information about the status of the project/product/activity.
 
 The top level directories are (currently):
- * in-progres
+ * in-progress
  * new-ideas-issues
  * on-hold
  * lessons
  * administrivia
 
-The administrivia directory is special, it's a kichen draw of stuff that just has to be somewhere.
+The administrivia directory is special, it's a kichen drawer of stuff that just has to be somewhere.
 
 The first assumption is that the documentation is maintained during or soon after - 8PM Mondays, Canberra time.
 
-Second assumption is that the decision making / information management workflow is similar to the following. First, when a new mumble session starts, the scribe coppies administrivia/minutes/minute.rst.template -> administrivia/minutes/TODAYDATE.rst
+Second assumption is that the decision making / information management workflow is similar to the following. First, when a new mumble session starts, the scribe copies administrivia/minutes/minute.rst.template -> administrivia/minutes/TODAYDATE.rst
 
 Then, as each item on the agenda (and for "other business" items that come up):
 
@@ -44,4 +44,4 @@ And:
 
 What I imagined is that anyone would change the actual contents of the pages at any time (or change their file names), but the locations of the files (and hence the status of the product/issue/activity) would only be changed following open group discussion.
 
-I'm not sure how to decide what's a coarse-grained thing deserving it's own page in the documentation, and what's a fine-grained thing that only deserves a github issue (which hopefully would get a mention in the minutes' commit message, hence stay in the loop). Possibly if we try to be sensible it might just work (no specific guidelines).
+I'm not sure how to decide what's a coarse-grained thing deserving its own page in the documentation, and what's a fine-grained thing that only deserves a github issue (which hopefully would get a mention in the minutes' commit message, hence stay in the loop). Possibly if we try to be sensible it might just work (no specific guidelines).
