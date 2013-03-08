@@ -8,21 +8,14 @@ These docs can be rendered with sphinx, or accessed online at https://canberraua
 Contents:
 
 .. toctree::
-    :maxdepth: 3
-    :glob:
-
-    Subprojects/index
-    logos/index
-    OBC2012/index
-
-
-Meeting Minutes:
-
-.. toctree::
-   :maxdepth: 1 
+   :maxdepth: 2
    :glob:
 
-   minutes/*
+   in-progres/index
+   new-ideas-issues/index
+   on-hold/index
+   lessons/index
+   administrivia/index
 
 
 Other Useful Links
