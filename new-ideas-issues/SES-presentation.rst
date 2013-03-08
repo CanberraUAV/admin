@@ -3,6 +3,7 @@ SES Presentation
 
 We have an opportunity to present to the Belconnen SES.
 
+related page: :ref:`obc2012`
 
 Current Capability
 ------------------
