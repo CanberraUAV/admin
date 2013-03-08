@@ -1,7 +1,7 @@
 ADS-B receiver for sense-and-avoid of other aircraft 
 ====================================================
 
-Stage: 3
+:ref:`TRL`: 3
 
 Description: Using an ADS-B reciever to sense and avoid other aircraft in the area 
 

@@ -1,7 +1,7 @@
 Weather Station for CMAC  
 ========================
 
-Stage: 7
+:ref:`TRL`: 7
 
 Description: A remote weather station and camera located at CMAC with a web-based GUI
 

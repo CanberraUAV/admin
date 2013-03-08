@@ -1,7 +1,7 @@
 Ardurover-based truck for launching the X8 
 ==========================================
 
-Stage: 4
+:ref:`TRL`: 4
 
 Description: Using a high-speed RC truck to launch the X8 UAV
 

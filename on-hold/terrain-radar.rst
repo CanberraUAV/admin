@@ -1,7 +1,7 @@
 Radar system for terrain tracking and object avoidance 
 ======================================================
 
-Stage: 2
+:ref:`TRL`: 2
 
 Description: Using a proper RADAR system for height above ground (AGL) detection and avoidance of ground-based obstacles
 

@@ -1,7 +1,7 @@
 D-GPS for increased positioning accuracy 
 ========================================
 
-Stage: 4
+:ref:`TRL`: 4
 
 Description: A cheap Differential GPS (D-GPS) system for increased positioning accuracy
 

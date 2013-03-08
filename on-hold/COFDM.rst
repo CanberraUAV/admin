@@ -1,7 +1,7 @@
 COFDM-based system for digital video transmission 
 =================================================
 
-Stage: 1
+:ref:`TRL`: 1
 
 Description: A long range radio transmission system for high-bandwidth video. Must be ACMA-legal
 
