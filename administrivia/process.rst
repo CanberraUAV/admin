@@ -5,6 +5,8 @@ A proposed document management process
 
 The is a bit beurocratic, but it's an attempt to foster common understanding within the group, *without getting in the way*. It might work as-is, but probably will need to evolve to be successful.
 
+This proposal is related to :ref:`rst-docs`.
+
 The documentation is structured in a way that has an opinion about our management/development process. The pages (representing projects/products/activities) are organised in top level directories based on a model of our "lifecycle". The document generation magic uses the location of the files as information about the status of the project/product/activity.
 
 The top level directories are (currently):

@@ -1,3 +1,5 @@
+.. _lessons:
+
 Lessons Learned
 ===============
 
