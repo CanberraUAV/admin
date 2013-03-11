@@ -7,6 +7,7 @@ Present:
  * Jack
  * Darrell
  * Chris
+ * Matt
  * Jono
 
 Telemaster purchase
@@ -21,5 +22,13 @@ Telemaster purchase
    * >5KG with all the kit; non SGMA rules
    * 15cc > nitro 61 equivelent; non SGMA rules
  * seems like an OBC candidate, maybe at 300m altitude? Different strategies.
+
+DIYDrones order
+---------------
+
+ * had planned to order some px4s, but maybe we don't need to.
+ * anticipate some more UBECs - Tridge has 2 on hand.
+ * might get them locally from EBay.
+ * Need some pre-crimped DF13 cables
 
 
