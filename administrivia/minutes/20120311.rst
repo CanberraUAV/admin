@@ -1,0 +1,25 @@
+2012 March 11
+=============
+
+Present:
+ * Tridge
+ * Steven
+ * Jack
+ * Darrell
+ * Chris
+ * Jono
+
+Telemaster purchase
+--------------------
+
+ * 15cc petrol engine
+ * Has rev counter - wonder what
+ * $300 with digital servos
+ * strut attachment is improved from last one
+ * intention - workhorse,
+ * non SGMA issues: 
+   * >5KG with all the kit; non SGMA rules
+   * 15cc > nitro 61 equivelent; non SGMA rules
+ * seems like an OBC candidate, maybe at 300m altitude? Different strategies.
+
+
