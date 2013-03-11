@@ -20,3 +20,10 @@ It works quite well for extended periods (significantly improved positional accu
 Current scope does not include RTK solution, althought this work is considered a stepping stone to an RTK solution.
 
 The current solution probably has significant room for optimisation, however squashing the occasional poor performance bug is a higher priority, because it makes the prototype unflyable in it's current form.
+
+Development facilities
+-----------------------
+
+Test hardware for RTCM server is mounted suboptimally on tridge's roof. The receivers are subject to quite bad multipath interference, the weatherproofing is possibly inadequate,  and line of sight to satelites is partially blocked by structures and foliage. While the software will be required to work in real world (suboptimal) installations, for the purpose of development/testing a good reception scenario is also required.
+
+Work is underway to construct a secure roof mounted enclosure with more favorable reception characteristics. It will also feature a powered USB hub for simplified cable management and increased flexibility with regard to supported configurations.
