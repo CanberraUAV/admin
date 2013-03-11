@@ -31,4 +31,8 @@ DIYDrones order
  * might get them locally from EBay.
  * Need some pre-crimped DF13 cables
 
+Documentation Stuff
+-------------------
 
+ * review? structure OK
+ * decided to persevere for a few weeks then decide if we want to persist (or not)
