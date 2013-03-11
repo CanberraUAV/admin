@@ -36,3 +36,36 @@ Documentation Stuff
 
  * review? structure OK
  * decided to persevere for a few weeks then decide if we want to persist (or not)
+
+SES meeting
+------------
+
+ * twofold purpose:
+   * requirements discovery (from our side) - how do they think it would work
+   * for them to discover what's possible now
+ * Tridge to bring some planes, Jack to bring the muggin. Maybe leave the wings in the car.
+ * Matt, Tridge, Jack and Chris plan to attend
+
+
+ * new flir camera may be of interest to them (~$300, 160*100)
+ * let's get the thermal camera.
+
+DGPS
+----
+ * meetings last Thursday
+ * software is progressing since then
+ * roof box under construction
+
+Schools program
+---------------
+ * Jack still did the training.
+
+Quadcopter workshop
+-------------------
+ * still progressing, report more next week.
+
+Code Beach
+----------
+ * invitation
+ * http://mabula.net/codebeach2013.html
+
