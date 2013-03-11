@@ -46,15 +46,22 @@ SES meeting
  * Tridge to bring some planes, Jack to bring the muggin. Maybe leave the wings in the car.
  * Matt, Tridge, Jack and Chris plan to attend
 
-
- * new flir camera may be of interest to them (~$300, 160*100)
- * let's get the thermal camera.
+Thermal Camera
+--------------
+ * new low cost thermal camera available in May
+ * designed for medical imageing, possible SAR application
+ * low resolution 160*100
+ * @$300, approximately 10% the cost of base model FLIR camera
+ * $150 pre-purchase through colaborative manufacturing venture
+ * approved expenditure: $150 for pre-purchase 
 
 DGPS
 ----
  * meetings last Thursday
  * software is progressing since then
  * roof box under construction
+ * approve (restospective) refund to Tridge for GPS hardware, approximately $180
+ * approve expenditure of approximately $50 for roof box
 
 Schools program
 ---------------
