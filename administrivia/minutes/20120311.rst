@@ -10,8 +10,47 @@ Present:
  * Matt
  * Jono
 
+in-progress items
+-----------------
+
+Bureaucracy
+^^^^^^^^^^^
+
+ * review? structure OK
+ * decided to persevere for a few weeks then decide if we want to persist (or not)
+
+
+SES meeting
+^^^^^^^^^^^
+
+ * twofold purpose:
+   * requirements discovery (from our side) - how do they think it would work
+   * for them to discover what's possible now
+ * Tridge to bring some planes, Jack to bring the muggin. Maybe leave the wings in the car.
+ * Matt, Tridge, Jack and Chris plan to attend
+
+DGPS
+^^^^
+ * meetings last Thursday
+ * software is progressing since then
+ * roof box under construction
+ * approve (restospective) refund to Tridge for GPS hardware, approximately $180
+ * approve expenditure of approximately $50 for roof box
+
+Schools program
+^^^^^^^^^^^^^^^
+ * Jack did some RC flight training this week.
+
+Quadcopter workshop
+^^^^^^^^^^^^^^^^^^^
+ * still progressing, report more next week.
+
+
+Other business
+--------------
+
 Telemaster purchase
---------------------
+^^^^^^^^^^^^^^^^^^^
 
  * 15cc petrol engine
  * Has rev counter - wonder what
@@ -23,31 +62,19 @@ Telemaster purchase
    * 15cc > nitro 61 equivelent; non SGMA rules
  * seems like an OBC candidate, maybe at 300m altitude? Different strategies.
 
+
 DIYDrones order
----------------
+^^^^^^^^^^^^^^^
 
  * had planned to order some px4s, but maybe we don't need to.
  * anticipate some more UBECs - Tridge has 2 on hand.
  * might get them locally from EBay.
  * Need some pre-crimped DF13 cables
 
-Documentation Stuff
--------------------
-
- * review? structure OK
- * decided to persevere for a few weeks then decide if we want to persist (or not)
-
-SES meeting
-------------
-
- * twofold purpose:
-   * requirements discovery (from our side) - how do they think it would work
-   * for them to discover what's possible now
- * Tridge to bring some planes, Jack to bring the muggin. Maybe leave the wings in the car.
- * Matt, Tridge, Jack and Chris plan to attend
 
 Thermal Camera
---------------
+^^^^^^^^^^^^^^
+
  * new low cost thermal camera available in May
  * designed for medical imageing, possible SAR application
  * low resolution 160*100
@@ -55,24 +82,9 @@ Thermal Camera
  * $150 pre-purchase through colaborative manufacturing venture
  * approved expenditure: $150 for pre-purchase 
 
-DGPS
-----
- * meetings last Thursday
- * software is progressing since then
- * roof box under construction
- * approve (restospective) refund to Tridge for GPS hardware, approximately $180
- * approve expenditure of approximately $50 for roof box
-
-Schools program
----------------
- * Jack still did the training.
-
-Quadcopter workshop
--------------------
- * still progressing, report more next week.
 
 Code Beach
-----------
+^^^^^^^^^^
  * invitation
  * http://mabula.net/codebeach2013.html
 
