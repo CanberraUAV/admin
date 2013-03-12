@@ -10,27 +10,32 @@ Present:
  * Matt
  * Jono
 
-in-progress items
------------------
+Report on in-progress items
+---------------------------
+
 
 Bureaucracy
 ^^^^^^^^^^^
 
- * review? structure OK
- * decided to persevere for a few weeks then decide if we want to persist (or not)
-
+ * formerly known as "github documentation" stuff
+ * includes "proposed process for documenting decisions an activity"
+ * documents have been partially reviewed? structure seems OK.
+ * decided to persevere with the process for a few weeks then decide if we want to persist (or not)
 
 SES meeting
 ^^^^^^^^^^^
 
  * twofold purpose:
-   * requirements discovery (from our side) - how do they think it would work
-   * for them to discover what's possible now
+
+  * requirements discovery (from our side) - how do they think it would work
+  * for them to discover what's possible now
+
  * Tridge to bring some planes, Jack to bring the muggin. Maybe leave the wings in the car.
  * Matt, Tridge, Jack and Chris plan to attend
 
 DGPS
 ^^^^
+
  * meetings last Thursday
  * software is progressing since then
  * roof box under construction
@@ -39,10 +44,12 @@ DGPS
 
 Schools program
 ^^^^^^^^^^^^^^^
+
  * Jack did some RC flight training this week.
 
 Quadcopter workshop
 ^^^^^^^^^^^^^^^^^^^
+
  * still progressing, report more next week.
 
 
@@ -58,8 +65,10 @@ Telemaster purchase
  * strut attachment is improved from last one
  * intention - workhorse,
  * non SGMA issues: 
-   * >5KG with all the kit; non SGMA rules
-   * 15cc > nitro 61 equivelent; non SGMA rules
+
+  * >5KG with all the kit; non SGMA rules
+  * 15cc > nitro 61 equivelent; non SGMA rules
+
  * seems like an OBC candidate, maybe at 300m altitude? Different strategies.
 
 
