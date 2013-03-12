@@ -10,22 +10,26 @@ Developers: Chris, Michael
 You're looking at it :)
 
 Background:
- * After initially looking at trello.com + google docs, we decided to keep our docs in a DVCS repository forbetter security (everyone has a copy, no single point of failure).
+ * After initially looking at trello.com + google docs, we decided to keep our docs in a DVCS repository for better security (everyone has a copy, no single point of failure).
  * Because it's working well for us already with source code, we decided to publish through GitHub
  * Because we use a lot of python, we decided to go with ReStructured Text / Docutils rather than another markup (such as GitHub flavoured MarkDown, for example)
 
 Notes:
  * See related: :ref:`admin-process-proposal`
  * While GitHub sort-of renders ReStructured text, it doesn't process directives so basically it doesn't work. This is why we automatically publish doc-builds at http://canberrauav.readthedocs.org/
- * Currently only one person has admin rights to our account at redthedocs.org, this is a pointless risk.
- * At some stage we should review this experiment and decide if we should persever (shift to :ref:`lessons` or pivot onto another documentation process/system)
+ * Currently only one person has admin rights to our account at readthedocs.org, this is a pointless risk.
+ * At some stage we should review this experiment and decide if we should persevere (shift to :ref:`lessons` or pivot onto another documentation process/system)
 
 .. _admin-process-proposal:
 
 A proposed document management process
 --------------------------------------
 
-The is a bit beurocratic, but it's an attempt to foster common understanding within the group, *without getting in the way*. It might work as-is, but probably will need to evolve to be successful.
+.. spelling::
+
+   TODAYDATE
+
+The is a bit bureaucratic, but it's an attempt to foster common understanding within the group, *without getting in the way*. It might work as-is, but probably will need to evolve to be successful.
 
 This proposal is related to :ref:`rst-docs`.
 
@@ -38,7 +42,7 @@ The top level directories are (currently):
  * lessons
  * administrivia
 
-The administrivia directory is special, it's a kichen drawer of stuff that just has to be somewhere.
+The administrivia directory is special, it's a kitchen drawer of stuff that just has to be somewhere.
 
 The first assumption is that the documentation is maintained during or soon after - 8PM Mondays, Canberra time.
 
@@ -62,11 +66,11 @@ Variations include:
 
 And:
 
-1. discuss existing issue, decide to change status (e.g. from in-proges to on-hold)
-2. git mv in-progres/foo.rst on-hold/foo.rst
+1. discuss existing issue, decide to change status (e.g. from in-progress to on-hold)
+2. git mv in-progress/foo.rst on-hold/foo.rst
 3. edit/save minutes/TODAYDATE.rst
 4. git add minutes/TODAYDATE.rst
-5. git commit -m "change foo from in-progres to on-hold"
+5. git commit -m "change foo from in-progress to on-hold"
 
 What I imagined is that anyone would change the actual contents of the pages at any time (or change their file names), but the locations of the files (and hence the status of the product/issue/activity) would only be changed following open group discussion.
 

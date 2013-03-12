@@ -10,7 +10,7 @@ Current Capability
 
 > what you're capable of doing at the moment?
 
-We essentiually have two capabilities; operational capability to compete in (and win) the OBC competition, and development capability to push the boundaries of what's currently possible with openi-source UAV technology. We use the OBC search and rescue competition to focus our development efforts.
+We essentially have two capabilities; operational capability to compete in (and win) the OBC competition, and development capability to push the boundaries of what's currently possible with open-source UAV technology. We use the OBC search and rescue competition to focus our development efforts.
 
 We have several small scale technology demonstrators showing the major features of our search and rescue capability:
 
@@ -37,7 +37,7 @@ We are currently working on:
  * More user-friendly ground station software
  * Better positioning accuracy for the UAV
  * Reducing and simplifying setup time
- * Increasing overall reliability of systems (especially the autopilot and failsafes)
+ * Increasing overall reliability of systems (especially the autopilot and fail-safe devices)
 
 > What's possible?
 
@@ -54,7 +54,7 @@ We don't know what we don't know. How far are we from being able to work with th
 
  * table-top exercises?
  * field exercises?
- * ... possability of contributing to an actual search?
+ * ... possibility of contributing to an actual search?
 
 Characteristics of a typical SAR operation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

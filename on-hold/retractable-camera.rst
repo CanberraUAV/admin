@@ -1,5 +1,5 @@
-Pan/Tilt/Rectract camera mount 
-==============================
+Pan/Tilt/Retract camera mount 
+=============================
 
 :ref:`TRL`: 1
 

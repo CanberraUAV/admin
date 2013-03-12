@@ -2,7 +2,7 @@ Administrivia
 =============
 
 todo:
- * organisation/comittee details
+ * organisation/committee details
  * ...
 
 .. toctree::

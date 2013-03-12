@@ -3,7 +3,7 @@
 2012 UAV Outback Challenge
 ==========================
 
-CanberraUAV was formed to campeign for the 2012 UAV Outback Challenge, an international amateur UAV search and rescue competition. We won first place and were awarded perfect score for the search component, but suffered a malfunction that prevented us from acomplishing the rescue component.
+CanberraUAV was formed to campaign for the 2012 UAV Outback Challenge, an international amateur UAV search and rescue competition. We won first place and were awarded perfect score for the search component, but suffered a malfunction that prevented us from accomplishing the rescue component.
 
 The 2014 competition was announced on 27/02/2013, we will enter and expect to improve on our 2012 performance.
 
@@ -39,6 +39,6 @@ We also created the following documents for our own use at the competition (and 
 After the Challenge
 -------------------
 
-In adition to Tridge's writeup on DIYDrones, we documented our post-competition review here: 
+In addition to Tridge's writeup on DIYDrones, we documented our post-competition review here: 
 
  * :download:`Debrief (word 2010)<OBC2012/canberrauav_notes_debrief.docx>`
