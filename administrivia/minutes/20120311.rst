@@ -39,7 +39,7 @@ DGPS
  * meetings last Thursday
  * software is progressing since then
  * roof box under construction
- * approve (restospective) refund to Tridge for GPS hardware, approximately $180
+ * approve (retrospective) refund to Tridge for GPS hardware, approximately $180
  * approve expenditure of approximately $50 for roof box
 
 Schools program
@@ -67,7 +67,7 @@ Telemaster purchase
  * non SGMA issues: 
 
   * >5KG with all the kit; non SGMA rules
-  * 15cc > nitro 61 equivelent; non SGMA rules
+  * 15cc > nitro 61 equivalent; non SGMA rules
 
  * seems like an OBC candidate, maybe at 300m altitude? Different strategies.
 
@@ -75,7 +75,7 @@ Telemaster purchase
 DIYDrones order
 ^^^^^^^^^^^^^^^
 
- * had planned to order some px4s, but maybe we don't need to.
+ * had planned to order some PX4s, but maybe we don't need to.
  * anticipate some more UBECs - Tridge has 2 on hand.
  * might get them locally from EBay.
  * Need some pre-crimped DF13 cables
@@ -87,10 +87,10 @@ Thermal Camera
  * new low cost thermal camera available in May
  * http://www.indiegogo.com/projects/mu-thermal-camera-a-great-health-diagnostic-tool
  * :ref:`mu-thermal-camera`
- * designed for medical imageing, possible SAR application
+ * designed for medical imaging, possible SAR application
  * low resolution 160*100
  * @$300, approximately 10% the cost of base model FLIR camera
- * $150 pre-purchase through colaborative manufacturing venture
+ * $150 pre-purchase through collaborative manufacturing venture
  * approved expenditure: $150 for pre-purchase 
 
 

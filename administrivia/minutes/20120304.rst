@@ -5,7 +5,7 @@ Documentation
 -------------
  * Decided to persist with the new system for the time being at least.
  * About half of the initial data is in here now. The rest should be in by the end of next weekend
- * This will diminsh our reliance on the (vast) mailing list archives and file sharing sites (Google Docs)
+ * This will diminish our reliance on the (vast) mailing list archives and file sharing sites (Google Docs)
 
 
 Insurance
@@ -22,7 +22,7 @@ Notes from Avalon
  * What do the licenced commercial UAV companies do? GA-type insurance policy?
  * The rules of the 2014 Challenge should be out in the next couple of weeks
  * One the rules do come out, we should hold a public meeting to encourage and organise new members to join in
- * If we're lucky we might have enough team members to enter 2 (seperate) teams into the challenge
+ * If we're lucky we might have enough team members to enter 2 (separate) teams into the challenge
 
 DGPS development
 ----------------
@@ -32,5 +32,5 @@ DGPS development
 Purchases
 ---------
  * New telemaster
- * Electronics purchases = PX4, GPS, associated wiring and power systems. Will need anough to fit out a couple of aircraft.
+ * Electronics purchases = PX4, GPS, associated wiring and power systems. Will need enough to fit out a couple of aircraft.
 
