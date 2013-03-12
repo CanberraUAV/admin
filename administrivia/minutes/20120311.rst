@@ -84,6 +84,7 @@ DIYDrones order
 Thermal Camera
 ^^^^^^^^^^^^^^
 
+ * http://www.indiegogo.com/projects/mu-thermal-camera-a-great-health-diagnostic-tool
  * new low cost thermal camera available in May
  * designed for medical imageing, possible SAR application
  * low resolution 160*100
