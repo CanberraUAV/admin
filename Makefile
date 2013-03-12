@@ -32,7 +32,7 @@ help:
 	@echo "  changes   to make an overview of all changed/added/deprecated items"
 	@echo "  linkcheck to check all external links for integrity"
 	@echo "  doctest   to run all doctests embedded in the documentation (if enabled)"
-	@echo "  spellcheck to detect speling mistakes (not yet implemented)"
+	@echo "  spellcheck to detect speling mistakes"
 
 spellcheck:
 	$(SPELLCHECK) 

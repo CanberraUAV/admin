@@ -33,9 +33,10 @@ Procedures and Reference
 
 We also created the following documents for our own use at the competition (and practice flights):
 
- * :download:`Procedures document (word 2010)<OBC2012/uav_procedures.docx>`
- * :download:`Items to bring to testing days (word 2010)<OBC2012/items_to_bring.docx>`
-
+ * :download:`Procedures document (Word 2010)<OBC2012/uav_procedures.docx>`
+ * :download:`Items to bring to testing days (Word 2010)<OBC2012/items_to_bring.docx>`
+ * :download:`Flight Operations Manual (Word 2010)<OBC2012/UAVFlightOperationsManual.docx>`
+ 
 After the Challenge
 -------------------
 
