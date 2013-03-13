@@ -3,9 +3,9 @@ CanberrraUAV Documentation
 
 This is a resting place for CanberraUAV's documentation and admin files.
 
-These docs can be rendered with sphinx, or accessed online at https://canberrauav.readthedocs.org/
+These docs can be rendered with sphinx. They can be accessed as web page at https://canberrauav.readthedocs.org/ (or as a single pdf_document_).
 
-Contents:
+.. _pdf_document: https://media.readthedocs.org/pdf/canberrauav/latest/canberrauav.pdf
 
 .. toctree::
    :maxdepth: 2
