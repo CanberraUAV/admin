@@ -43,3 +43,4 @@ After the Challenge
 In addition to Tridge's writeup on DIYDrones, we documented our post-competition review here: 
 
  * :download:`Debrief (word 2010)<OBC2012/canberrauav_notes_debrief.docx>`
+
