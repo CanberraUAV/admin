@@ -1,7 +1,7 @@
 SAR Scenario Project
 ====================
 
-The SAR scenarios raised at the 20130314_Belconnen_SES_presentation_ seem worthy of further development. Ultimately, it would be great if we had documented them sufficiently well that SAR professionals are motivated to review them and contribute usefull feedback.
+The SAR scenarios raised at the :ref:'20130314_Belconnen_SES_presentation_' seem worthy of further development. Ultimately, it would be great if we had documented them sufficiently well that SAR professionals are motivated to review them and contribute usefull feedback.
 
 Proposal:
 
