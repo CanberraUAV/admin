@@ -1,12 +1,8 @@
 SES Presentation
 ================
 
-On 2013/03/14, representatives of CanberraUAV visited the Belconnen Branch of the ACT State Emergency Service. Tridge gave a presentation, we showed them some planes, and we had some interesting hypothetical conversations about how the SES might deploy small UAVs to contribute to search and rescues.
+On 2013/03/14, representatives of CanberraUAV visited the Belconnen Branch of the ACT State Emergency Service. Tridge gave a presentation (available in :download:`PDF<SES-presentation/20130314_Belconnen_CanberraUAV.pdf>` or :download:`ODP<SES-presentation/20130314_Belconnen_CanberraUAV.odp>` format), we showed them some planes, and we had some interesting hypothetical conversations about how the SES might deploy small UAVs to contribute to search and rescues.
 
-Slide show:
-
- * :download:`PDF format <SES-presentation/20130314_Belconnen_CanberraUAV.pdf>`
- * :download:`ODP format <SES-presentation/20130314_Belconnen_CanberraUAV.odp>`
 
 
 Summary of applications discussed
