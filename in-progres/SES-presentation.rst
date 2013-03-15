@@ -3,7 +3,11 @@ SES Presentation
 
 On 2013/03/14, representatives of CanberraUAV visited the Belconnen Branch of the ACT State Emergency Service. Tridge gave a presentation, we showed them some planes, and we had some interesting hypothetical conversations about how the SES might deploy small UAVs to contribute to search and rescues.
 
-[Insert link to Tridge's presentation]
+Slide show:
+
+ * :download:`PDF format <SES-presentation/20130314_Belconnen_CanberraUAV.pdf>`
+ * :download:`ODP format <SES-presentation/20130314_Belconnen_CanberraUAV.odp>`
+
 
 Summary of applications discussed
 ---------------------------------
@@ -196,8 +200,3 @@ Resource availability:
 
  * What infrastructure (if any) could you furnish us with at the “base command” of a SAR or training exercise? (power, radios, Internet, fuel, takeoff/landing space)
  * If the UAV does crash, could you assist with recovery?
-
-Presentation Given
-^^^^^^^^^^^^^^^^^^
-
-The presentation given on the evening: https://github.com/CanberraUAV/admin/tree/master/presentations/SES_Belconnen_March2013
