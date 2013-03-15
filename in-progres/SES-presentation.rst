@@ -196,3 +196,8 @@ Resource availability:
 
  * What infrastructure (if any) could you furnish us with at the “base command” of a SAR or training exercise? (power, radios, Internet, fuel, takeoff/landing space)
  * If the UAV does crash, could you assist with recovery?
+
+Presentation Given
+^^^^^^^^^^^^^^^^^^
+
+The presentation given on the evening: https://github.com/CanberraUAV/admin/tree/master/presentations/SES_Belconnen_March2013
