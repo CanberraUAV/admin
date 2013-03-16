@@ -33,7 +33,7 @@ Scenario with a UAV: A medium sized UAV is deployed from an improvised runway (s
 
 During the next 40 minutes, the UAV travels another 80km on it's return journey. Perhaps 40km of this is spent effectively scanning identified side routes. Many of the side route investigations reveal tracks that are obscured by foliage, and will still require investigation by a ground team. However, some of the side routes are clear and searched effectively by the UAV. Each time a side route is effectively searched by the UAV, the coordinators issue a report to the to the search team informing them that it will not be necessary for them to visit that route during this phase of the search.
 
-Approximately 60 minutes after the UAV/search party have been deployed, the UAV lands. At the 70 minute mark it has been refueled and relaunched, and goes on to effectively scan another 60km of side route in the next hour (traveling over 120km in the process). This is repeated as many times as necessary.
+Approximately 60 minutes after the UAV/search party have been deployed, the UAV lands. At the 70 minute mark it has been refuelled and relaunched, and goes on to effectively scan another 60km of side route in the next hour (travelling over 120km in the process). This is repeated as many times as necessary.
 
 
 Aerial Reconnaissance
@@ -42,7 +42,7 @@ Route-finding and route-planning is a significant aspect of ground based search 
 
 Scenario: A search team has been tasked with searching an area 8km from the nearest road. Examination of the topographic maps suggest a number of possible routes, but on the information available there is no clear best route. If they chose a good route team might arrive at the search area in as little as 90 minutes, but if they are hampered by terrain or forced to backtrack they might take 3 hours to reach the search area.
 
-It would be of benefit in this situation to have a small UAV reconnoiter candidate routes, and (through image post-processing) augment their existing maps with high resolution orthophotos. For example, if a small fixed wing UAV was deployed at the same time the search party, within 30 minutes it could have traveled 50 km and photographically surveyed all candidate route. A coordinator at the UAV ground-station (or headquarters if the ground-station has 3G reception) could relay intelligence to the ground team over radio, describing vegetation along various routes and comparing it with vegetation that the team has already passed through, alerting them to hazards or issues, etc.
+It would be of benefit in this situation to have a small UAV reconnoitre candidate routes, and (through image post-processing) augment their existing maps with high resolution orthophotos. For example, if a small fixed wing UAV was deployed at the same time the search party, within 30 minutes it could have travelled 50 km and photographically surveyed all candidate route. A coordinator at the UAV ground-station (or headquarters if the ground-station has 3G reception) could relay intelligence to the ground team over radio, describing vegetation along various routes and comparing it with vegetation that the team has already passed through, alerting them to hazards or issues, etc.
 
 
 Patrolling previously searched areas
@@ -61,7 +61,7 @@ http://en.wikipedia.org/wiki/Australasian_Inter-Service_Incident_Management_Syst
 SMEAC
 ^^^^^
 
-One significant artifact from AIIMS is  a 'SMEAC' document (Situation, Mission, Execution, Administration, Command). Essentially, this document is the message passed to an emergency services team that tasks them with performing an operation (such as a search and rescue operation).
+One significant artefact from AIIMS is  a 'SMEAC' document (Situation, Mission, Execution, Administration, Command). Essentially, this document is the message passed to an emergency services team that tasks them with performing an operation (such as a search and rescue operation).
 
 We obtained a recent SMEAC. It's not appropriate to publish it here because it contains specific names and contact details of various parties, however in reviewed it has the following sections:
 
@@ -153,7 +153,7 @@ Current Activity
 
 We are currently working on:
 
- * Ability to takeoff from unprepared tracks or surfaces (using a catapult or similar)
+ * Ability to take off from unprepared tracks or surfaces (using a catapult or similar)
  * More automation of flight phases
  * Longer range and larger search areas
  * Incremental upgrades to the camera and image processing system will allow us to cover a given search area in less time
@@ -161,12 +161,12 @@ We are currently working on:
  * Sense and avoid of manned aircraft
  * More user-friendly ground station software
  * Better positioning accuracy for the UAV
- * Reducing and simplifying setup time
+ * Reducing and simplifying set up time
  * Increasing overall reliability of systems (especially the autopilot and fail-safe devices)
 
 > What's possible?
 
-One day, a future version of the technology we are making now will save a life in the ACT. It's not a matter of *if*, it's a matter of **when**.
+One day, a future version of the technology we are making now will save a life in the ACT. It's not a matter of *if*, it's a matter of *when*.
 
 There is much work to do before that can happen though. In 18 months we will be fielding at least one team in the next OBC SAR competition. Our main development goal is to demonstrate capability much closer real world SAR requirements.
 
@@ -191,10 +191,10 @@ System requirements:
  * What level of ease-of-use of the software is needed?
  * Would you be comfortable operating the UAV in manual mode if the autopilot fails?
  * Do you require the ability for the UAV to drop a small payload to the stranded person (water, radio?)
- * What sort of setup time is required (is currently 4 or so hours, using 4 people)
+ * What sort of set up time is required (is currently 4 or so hours, using 4 people)
  * Does the entire UAV/Ground station need to be self-contained. Like a plug and play system?
 
 Resource availability:
 
- * What infrastructure (if any) could you furnish us with at the “base command” of a SAR or training exercise? (power, radios, Internet, fuel, takeoff/landing space)
+ * What infrastructure (if any) could you furnish us with at the “base command” of a SAR or training exercise? (power, radios, Internet, fuel, take off/landing space)
  * If the UAV does crash, could you assist with recovery?

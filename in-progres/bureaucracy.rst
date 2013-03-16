@@ -17,7 +17,7 @@ Background:
 Notes:
  * See related: :ref:`admin-process-proposal`
  * While GitHub sort-of renders ReStructured text, it doesn't process directives so basically it doesn't work. This is why we automatically publish doc-builds at http://canberrauav.readthedocs.org/
- * Currently only one person has admin rights to our account at readthedocs.org, this is a pointless risk.
+ * Currently only one person has administrator rights to our account at readthedocs.org, this is a pointless risk.
  * At some stage we should review this experiment and decide if we should persevere (shift to :ref:`lessons` or pivot onto another documentation process/system)
 
 .. _admin-process-proposal:
@@ -50,27 +50,37 @@ Second assumption is that the decision making / information management workflow 
 
 Then, as each item on the agenda (and for "other business" items that come up):
 
-1. discuss a project/issue/product/activity, chat chat chat
-2. edit/save the minute document
-3. git add minutes/TODAYDATE.rst; git commit -m "minuted topic foo"
+.. code-block:: sh
+
+   # discuss a project/issue/product/activity, chat chat chat
+   # edit/save the minute document
+   git add minutes/TODAYDATE.rst;
+   git commit -m "minuted topic foo"
 
 Then push the minutes after the session concludes.
 
 Variations include:
 
-1. discuss new issue/idea/product
-2. create file new-ideas-issues/foo.rst
-3. git add new-ideas-issues/foo.rst; git commit -, "documented new issue foo"
-4. edit save the minute document
-5. git add minutes/TODAYDATE.rst; git commit -m "minuted new issue foo"
+.. code-block:: sh
+
+   # discuss new issue/idea/product
+   # create file new-ideas-issues/foo.rst
+   git add new-ideas-issues/foo.rst;
+   git commit -m "documented new issue foo"
+   # edit save the minute document
+   git add minutes/TODAYDATE.rst;
+   git commit -m "minuted new issue foo"
 
 And:
 
-1. discuss existing issue, decide to change status (e.g. from in-progress to on-hold)
-2. git mv in-progress/foo.rst on-hold/foo.rst
-3. edit/save minutes/TODAYDATE.rst
-4. git add minutes/TODAYDATE.rst
-5. git commit -m "change foo from in-progress to on-hold"
+
+.. code-block:: sh
+
+   # discuss existing issue, decide to change status (e.g. from in-progress to on-hold)
+   git mv in-progress/foo.rst on-hold/foo.rst
+   # edit/save minutes/TODAYDATE.rst
+   git add minutes/TODAYDATE.rst
+   git commit -m "change foo from in-progress to on-hold"
 
 What I imagined is that anyone would change the actual contents of the pages at any time (or change their file names), but the locations of the files (and hence the status of the product/issue/activity) would only be changed following open group discussion.
 

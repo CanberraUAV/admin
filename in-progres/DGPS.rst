@@ -26,4 +26,4 @@ Development facilities
 
 Test hardware for RTCM server is mounted sub-optimally on Tridge's roof. The receivers are subject to quite bad multipath interference, the weatherproofing is possibly inadequate, and line of sight to satellites is partially blocked by structures and foliage. While the software will be required to work in real world (suboptimal) installations, for the purpose of development/testing a good reception scenario is also required.
 
-Work is underway to construct a secure roof mounted enclosure with more favorable reception characteristics. It will also feature a powered USB hub for simplified cable management and increased flexibility with regard to supported configurations.
+Work is under way to construct a secure roof mounted enclosure with more favourable reception characteristics. It will also feature a powered USB hub for simplified cable management and increased flexibility with regard to supported configurations.

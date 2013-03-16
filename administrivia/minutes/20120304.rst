@@ -19,7 +19,7 @@ Notes from Avalon
 -----------------
  * OBC competition is having difficulty with their own insurance
  * Possibly related to actuarial costs (small cheese)
- * What do the licenced commercial UAV companies do? GA-type insurance policy?
+ * What do the licensed commercial UAV companies do? GA-type insurance policy?
  * The rules of the 2014 Challenge should be out in the next couple of weeks
  * One the rules do come out, we should hold a public meeting to encourage and organise new members to join in
  * If we're lucky we might have enough team members to enter 2 (separate) teams into the challenge

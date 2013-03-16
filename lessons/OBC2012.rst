@@ -15,7 +15,7 @@ For more information about the event:
  * The official competition web site http://www.uavoutbackchallenge.com.au/
  * CanberraUAV mission statement: http://canberrauav.com/about
  * OBC Wikipedia article http://en.wikipedia.org/wiki/UAV_Outback_Challenge
- * DIYDrones writeup (technical/enthusiast audience) http://diydrones.com/profiles/blogs/canberrauav-outback-challenge-2012-debrief
+ * DIYDrones write-up (technical/enthusiast audience) http://diydrones.com/profiles/blogs/canberrauav-outback-challenge-2012-debrief
  * Sydney Morning Herald (general public audience) http://www.smh.com.au/technology/technology-news/drone-finds-dummy-bushwalker-in-worldfirst-20121005-273lv.html
  * South Burnett Times (general public, Kingaroy local paper) http://southburnett.com.au/news2/2012/10/outback-joe-found-but-not-saved/ 
 
@@ -40,7 +40,7 @@ We also created the following documents for our own use at the competition (and 
 After the Challenge
 -------------------
 
-In addition to Tridge's writeup on DIYDrones, we documented our post-competition review here: 
+In addition to Tridge's write-up on DIYDrones, we documented our post-competition review here: 
 
  * :download:`Debrief (word 2010)<OBC2012/canberrauav_notes_debrief.docx>`
 
