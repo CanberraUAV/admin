@@ -86,7 +86,7 @@ The example SMEAC we reviewed was issued by the the ACT Emergency Service Agency
 
 http://en.wikipedia.org/wiki/Australian_Capital_Territory_Emergency_Services_Agency
 
-It was suggested that we make contact with someone from the Planning and Logistics section of the above agency to further discuss hypothetical inter-operate as part of a larger emergency service response.
+It was suggested that we make contact with someone from the Planning and Logistics section of the above agency to further discuss hypothetical inter-operation as part of a larger emergency service response.
 
 
 SES Training
