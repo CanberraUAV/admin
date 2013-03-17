@@ -63,7 +63,7 @@ SMEAC
 
 One significant artefact from AIIMS is  a 'SMEAC' document (Situation, Mission, Execution, Administration, Command). Essentially, this document is the message passed to an emergency services team that tasks them with performing an operation (such as a search and rescue operation).
 
-We obtained a recent SMEAC. It's not appropriate to publish it here because it contains specific names and contact details of various parties, however in reviewed it has the following sections:
+We obtained a recent SMEAC. It's not appropriate to publish it here because it contains specific names and contact details of various parties, however in review it has the following sections:
 
  * Situation: ~1/2 page of text describing the assignment
  * Mission: one sentence describing the scope and outcome of the assignment
