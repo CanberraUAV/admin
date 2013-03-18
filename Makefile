@@ -1,6 +1,12 @@
 # Makefile for Sphinx documentation
 #
 
+# requires extensions.sphinxcontrib.spelling
+# https://bitbucket.org/birkenfeld/sphinx-contrib/
+# http://sphinxcontrib-spelling.readthedocs.org/en/latest/index.html
+SPELLCHECK = sphinx-build -b spelling ./ _build/spelling
+ 
+
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
@@ -26,6 +32,10 @@ help:
 	@echo "  changes   to make an overview of all changed/added/deprecated items"
 	@echo "  linkcheck to check all external links for integrity"
 	@echo "  doctest   to run all doctests embedded in the documentation (if enabled)"
+	@echo "  spellcheck to detect speling mistakes"
+
+spellcheck:
+	$(SPELLCHECK) 
 
 clean:
 	-rm -rf $(BUILDDIR)/*

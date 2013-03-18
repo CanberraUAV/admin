@@ -2,13 +2,12 @@ Administrivia
 =============
 
 todo:
- * organisation/comittee details
+ * organisation/committee details
  * ...
 
 .. toctree::
    :maxdepth: 1
 
-   process
    TRL
    livery/index
 

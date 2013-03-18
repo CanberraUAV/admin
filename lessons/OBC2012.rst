@@ -1,7 +1,9 @@
+.. _obc2012:
+
 2012 UAV Outback Challenge
 ==========================
 
-CanberraUAV was formed to campeign for the 2012 UAV Outback Challenge, an international amateur UAV search and rescue competition. We won first place and were awarded perfect score for the search component, but suffered a malfunction that prevented us from acomplishing the rescue component.
+CanberraUAV was formed to campaign for the 2012 UAV Outback Challenge, an international amateur UAV search and rescue competition. We won first place and were awarded perfect score for the search component, but suffered a malfunction that prevented us from accomplishing the rescue component.
 
 The 2014 competition was announced on 27/02/2013, we will enter and expect to improve on our 2012 performance.
 
@@ -13,7 +15,7 @@ For more information about the event:
  * The official competition web site http://www.uavoutbackchallenge.com.au/
  * CanberraUAV mission statement: http://canberrauav.com/about
  * OBC Wikipedia article http://en.wikipedia.org/wiki/UAV_Outback_Challenge
- * DIYDrones writeup (technical/enthusiast audience) http://diydrones.com/profiles/blogs/canberrauav-outback-challenge-2012-debrief
+ * DIYDrones write-up (technical/enthusiast audience) http://diydrones.com/profiles/blogs/canberrauav-outback-challenge-2012-debrief
  * Sydney Morning Herald (general public audience) http://www.smh.com.au/technology/technology-news/drone-finds-dummy-bushwalker-in-worldfirst-20121005-273lv.html
  * South Burnett Times (general public, Kingaroy local paper) http://southburnett.com.au/news2/2012/10/outback-joe-found-but-not-saved/ 
 
@@ -31,12 +33,14 @@ Procedures and Reference
 
 We also created the following documents for our own use at the competition (and practice flights):
 
- * :download:`Procedures document (word 2010)<OBC2012/uav_procedures.docx>`
- * :download:`Items to bring to testing days (word 2010)<OBC2012/items_to_bring.docx>`
-
+ * :download:`Procedures document (Word 2010)<OBC2012/uav_procedures.docx>`
+ * :download:`Items to bring to testing days (Word 2010)<OBC2012/items_to_bring.docx>`
+ * :download:`Flight Operations Manual (Word 2010)<OBC2012/UAVFlightOperationsManual.docx>`
+ 
 After the Challenge
 -------------------
 
-In adition to Tridge's writeup on DIYDrones, we documented our post-competition review here: 
+In addition to Tridge's write-up on DIYDrones, we documented our post-competition review here: 
 
  * :download:`Debrief (word 2010)<OBC2012/canberrauav_notes_debrief.docx>`
+
