@@ -26,7 +26,7 @@ Resources (todo)
 
 Build Manual
 
-List of parts required
+:ref:`Parts List <quadcopter-parts-list>`
 
 Parameters File
 
