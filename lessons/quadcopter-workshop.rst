@@ -1,5 +1,5 @@
-MHV / CanberraUAV Quadcopter Workshop
-================
+MHV Quadcopter Workshop
+=======================
 
 Developer: Stephen. With help from Tridge, Jack and Chris (Wolfe)
 
@@ -55,3 +55,21 @@ Lessons Learned
 * Always check RTL mode works correctly (by holding the quadcopter above your head and enabling RTL) before relying on it during an emergency.
 
 * Fly well away from populated areas in case a quadcopter goes crazy and flys away.
+
+* Check vibration level in Mission Planner
+
+* Always use telemetry radio logging
+
+Ideas For Future Workshops
+--------------------------
+
+* Anti-vibration foam for APM
+
+* Use Gym for initial flying lessons - It's safer. Maybe Dickson College.
+
+* Prop shrouds for safety
+
+* Use AR Drone frame and PX4 electronics
+
+* Use more solid frames from jDrones
+
