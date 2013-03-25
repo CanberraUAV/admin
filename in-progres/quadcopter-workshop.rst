@@ -1,3 +1,5 @@
+.. _mhv-quadcopter-workshop:
+
 MHV Quadcopter project 
 ======================
 

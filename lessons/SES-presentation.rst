@@ -61,7 +61,7 @@ http://en.wikipedia.org/wiki/Australasian_Inter-Service_Incident_Management_Syst
 SMEAC
 ^^^^^
 
-One significant artefact from AIIMS is  a 'SMEAC' document (Situation, Mission, Execution, Administration, Command). Essentially, this document is the message passed to an emergency services team that tasks them with performing an operation (such as a search and rescue operation).
+One significant artifact from AIIMS is  a 'SMEAC' document (Situation, Mission, Execution, Administration, Command). Essentially, this document is the message passed to an emergency services team that tasks them with performing an operation (such as a search and rescue operation).
 
 We obtained a recent SMEAC. It's not appropriate to publish it here because it contains specific names and contact details of various parties, however in review it has the following sections:
 
@@ -196,5 +196,5 @@ System requirements:
 
 Resource availability:
 
- * What infrastructure (if any) could you furnish us with at the “base command” of a SAR or training exercise? (power, radios, Internet, fuel, take off/landing space)
+ * What infrastructure (if any) could you furnish us with at the "base command" of a SAR or training exercise? (power, radios, Internet, fuel, take off/landing space)
  * If the UAV does crash, could you assist with recovery?

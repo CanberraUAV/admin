@@ -1,5 +1,7 @@
-D-GPS for increased positioning accuracy 
-========================================
+.. _dgps:
+
+DGPS for increased positioning accuracy 
+=======================================
 
 :ref:`TRL`: 3 
 
