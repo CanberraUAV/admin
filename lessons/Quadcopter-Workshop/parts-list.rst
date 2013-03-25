@@ -1,3 +1,5 @@
+.. quadcopter-parts-list:
+
 MHV Quadcopter Workshop Parts List
 ==================================
 Note all prices are in $AUD and are from nearby suppliers (to save on shipping) where possible.
