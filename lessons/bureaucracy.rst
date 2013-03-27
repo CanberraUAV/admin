@@ -10,7 +10,7 @@ Developers: Chris, Michael
 You're looking at it :)
 
 Background:
- * After initially looking at trello.com + google docs, we decided to keep our docs in a DVCS repository for better security (everyone has a copy, no single point of failure).
+ * After initially looking at trello.com + Google docs, we decided to keep our docs in a DVCS repository for better security (everyone has a copy, no single point of failure).
  * Because it's working well for us already with source code, we decided to publish through GitHub
  * Because we use a lot of python, we decided to go with ReStructured Text / Docutils rather than another markup (such as GitHub flavoured MarkDown, for example)
 

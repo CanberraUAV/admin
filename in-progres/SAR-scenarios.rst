@@ -1,3 +1,5 @@
+.. _sar-scenarios:
+
 SAR Scenario Project
 ====================
 

@@ -1,3 +1,5 @@
+.. _schools-program:
+
 Assisting local schools with their UAV programs 
 ===============================================
 

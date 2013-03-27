@@ -1,9 +1,7 @@
-TODAYSDATE
-==========
+2012 March 18
+=============
 
-present:
- * (who logged into the mumble server)
-
+This was a very long meeting (3+ hour), and minutes have not yet been transcribed from the recording. Nag Chris about it.
 
 Report on in-progress items
 ---------------------------
