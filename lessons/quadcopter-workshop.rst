@@ -23,7 +23,7 @@ The workshop itself is designed to be:
 * Able to be completed in 3 to 4 evenings (not including flight time)
 * Educational as to how quadcopter work and how to safely use them
 
-Resources (todo)
+Resources
 ----------------
 
 .. toctree::
@@ -34,9 +34,11 @@ Resources (todo)
 
 Build Manual
 
-.. :ref:`Parts List <quadcopter-parts-list>`
+ * :download:`Build Manual (word 2010) <quadcopter-workshop/BuildManual.docx>`, :download:`Build Manual (PDF) <quadcopter-workshop/BuildManual.pdf>`
 
 Parameters File
+
+* :download:`MHV.parm <quadcopter-workshop/MHV.param>`
 
 
 Lessons Learned
