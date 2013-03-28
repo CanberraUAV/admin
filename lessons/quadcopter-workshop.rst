@@ -3,7 +3,7 @@
 MHV Quadcopter Workshop
 =======================
 
-Developer: Stephen. With help from Tridge, Jack and Chris (Wolfe)
+Developer: Stephen. With help from Tridge, Jack, Alastair, Andreas and Chris (Wolfe)
 
 The purpose of this workshop was to guide a group of 12 attendees through the process of building, calibrating and flying APM-based quadcopters.
 
@@ -21,7 +21,7 @@ The workshop itself is designed to be:
 * Accessible to beginners
 * Full documentation of the build process
 * Able to be completed in 3 to 4 evenings (not including flight time)
-* Educational as to how quadcopter work and how to safely use them
+* Educational as to how quadcopters work and how to safely use them
 
 Resources
 ----------------
@@ -40,6 +40,12 @@ Parameters File
 
 * :download:`MHV.parm <quadcopter-workshop/MHV.param>`
 
+Photos and Videos
+
+http://www.flickr.com/photos/dburkey/sets/72157632928544691/with/8581032739/
+
+http://youtu.be/C87mYyyV9qQ
+
 
 Lessons Learned
 ---------------
@@ -55,15 +61,15 @@ Lessons Learned
 * When ordering parts in bulk (such as motors and propellers) make sure the supplier has enough stock to cover your whole order.
 * Always check RTL mode works correctly (by holding the quadcopter above your head and enabling RTL) before relying on it during an emergency.
 * Fly well away from populated areas in case a quadcopter goes crazy and flys away.
-* Check vibration level in Mission Planner
-* Always use telemetry radio logging
+* Check vibration level in Mission Planner.
+* Always use telemetry radio logging.
 
 Ideas For Future Workshops
 --------------------------
 
 * Anti-vibration foam for APM
 * Use Gym for initial flying lessons - It's safer. Maybe Dickson College.
-* Prop shrouds for safety
-* Use AR Drone frame and PX4 electronics
-* Use more solid frames from jDrones
-
+* Prop shrouds for safety.
+* Use AR Drone frame and PX4 electronics.
+* Use more solid frames from jDrones.
+* Use the Turnigy 9xR Transmitter - it already has the firmware and backlight modifications done.
