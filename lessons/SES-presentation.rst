@@ -10,45 +10,11 @@ On 2013/03/14, representatives of CanberraUAV visited the Belconnen Branch of th
 Summary of applications discussed
 ---------------------------------
 
-The following scenarios are a synthesis of questions asked during the presentation and general discussion afterwards.
+Various scenarios were synthesised from the questions asked during the presentation and general discussion afterwards.
 
-Aerial Search
-^^^^^^^^^^^^^
+They were written up here, but since moved into their own `SAR Scenarios repository`_. This was the first step in a :ref:`sar-scenarios`.
 
-Contrary to what we had imagined, the OBC search area is not unrealistically small. In fact, SES are routinely deployed to search areas under 1 square km.
-
-Searching for an unobscured, high visibility target that strongly contrasts a monotonous background is however unrealistic. It's clear we need to push our vision system harder with some more difficult scenes. Various scenarios were discussed, and the focus was on effectively detecting people in different terrain. It was suggested we continue those discussions with personnel involved in spotting from full scale aircraft (this is not something the SES do themselves).
-
-There was some specific interest in searching over waterways and swampy terrain, where foot traffic is especially slow and we could reasonably expect a UAV to have good visual access to the ground (surface). There was also specific interest in thermal imaging, especially at night, and especially rapid deployment of thermal imaging at crime scenes where the search target might have a fading heat signature.
-
-
-Aerial contribution to ground-based search of roads
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-One common mode of operation for SES in a wide area search is to travel along roads/tracks (as opposed to grid-searching). This is a high impact activity typically performed early in a search process. A UAV could act as a "force multiplier" that accelerate this process, so that a combination ground/UAV effort completes the task sooner.
-
-Scenario (without UAVs): A search team has been tasked with scanning the roads between point A and point B. The primary route may be up to 30km. They whole party travels along the primary route for a few Km, where they meet a junction. At the junction, the team splits and a rapid response team are sent to investigate a the side road while the main party travels more slowly along the primary route. The rapid response team travels up the side road, then backtracks to the main road and catches up with the main party. Meanwhile, the main party travels to the next junction and dispatches another rapid response team. The search continues in this fashion until the team arrives at point B, having searched the main route and side tracks.
-
-Scenario with a UAV: A medium sized UAV is deployed from an improvised runway (section of road) somewhere in the vicinity of point A. The UAV is deployed at the same time as the search party, and completes a preliminary search of the primary route within 15 minutes. By 20 minutes, the coordinators have identified numerous junctions/side roads along the primary route and issue updated information to the search team.
-
-During the next 40 minutes, the UAV travels another 80km on it's return journey. Perhaps 40km of this is spent effectively scanning identified side routes. Many of the side route investigations reveal tracks that are obscured by foliage, and will still require investigation by a ground team. However, some of the side routes are clear and searched effectively by the UAV. Each time a side route is effectively searched by the UAV, the coordinators issue a report to the to the search team informing them that it will not be necessary for them to visit that route during this phase of the search.
-
-Approximately 60 minutes after the UAV/search party have been deployed, the UAV lands. At the 70 minute mark it has been refuelled and relaunched, and goes on to effectively scan another 60km of side route in the next hour (travelling over 120km in the process). This is repeated as many times as necessary.
-
-
-Aerial Reconnaissance
-^^^^^^^^^^^^^^^^^^^^^
-Route-finding and route-planning is a significant aspect of ground based search operations. To access a search area, teams sometimes have to travel significant distances through dense or challenging terrain. This can impose a high time-cost on the SAR effort. As well as being difficult and time consuming, the access routes can exposed teams to unexpected hazards (e.g. wild dog packs). Aerial reconnaissance with a UAV could assist the SES team reach the search area faster and more safely.
-
-Scenario: A search team has been tasked with searching an area 8km from the nearest road. Examination of the topographic maps suggest a number of possible routes, but on the information available there is no clear best route. If they chose a good route team might arrive at the search area in as little as 90 minutes, but if they are hampered by terrain or forced to backtrack they might take 3 hours to reach the search area.
-
-It would be of benefit in this situation to have a small UAV reconnoitre candidate routes, and (through image post-processing) augment their existing maps with high resolution orthophotos. For example, if a small fixed wing UAV was deployed at the same time the search party, within 30 minutes it could have travelled 50 km and photographically surveyed all candidate routes. A coordinator at the UAV ground-station (or headquarters if the ground-station has 3G reception) could relay intelligence to the ground team over radio, describing vegetation along various routes and comparing it with vegetation that the team has already passed through, alerting them to hazards or issues, etc.
-
-
-Patrolling previously searched areas
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Roads are rapidly searched during the early phase of a search. During later stages of the search (for example when the ground based teams are occupied with grid searches) it's possible that the target will self-rescue and arrive on a road. During these later stages, there would be value in repeatedly re-searching (patrolling) the roads from the air.
-
+.. _`SAR Scenarios repository`: http://github.com/CanberraUAV/SAR-Scenarios/
 
 Interoperability Research
 -------------------------
