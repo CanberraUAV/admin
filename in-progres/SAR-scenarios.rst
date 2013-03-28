@@ -3,9 +3,11 @@
 SAR Scenario Project
 ====================
 
-This is a proposal to undertake a CanberraUAV project called something like "SAR Scenarios".
+This CanberraUAV project was spawned on :ref:`20120525-meeting`. It has an associated `SAR Scenario repository`_, initialised with content from :ref:`20130314_Belconnen_SES_presentation`.
 
-The theories behind this project proposal are:
+.. _`SAR Scenario repository`: http://github.com/CanberraUAV/SAR-Scenarios
+
+The theories behind this project are:
 
  * documented user-stories might be a good way to engage SAR community
  * iterating over documented user-stories might be a development path to joint exercises with the SAR community (i.e. user stories evolve into workshops, desktop exercises, experimental field exercises, etc)
@@ -30,6 +32,13 @@ From stories, through exercises, to a real rescue.
 
 Phase 1 - requirements discovery
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Iteration 1**: 
+
+ * `SAR Scenario repository`_ created
+ * content initialised from :ref:`20130314_Belconnen_SES_presentation`
+ * evaluate feedback/engagement mechanisms
+
+Plan:
 
  * list and describe various scenarios
  * seek SAR community review/feedback
@@ -44,13 +53,7 @@ Phase 1 - requirements discovery
  * validate requirements by finding people in the SAR community that can verify the requirements are real
  * develop a vehicle to focus / nurture relationship with the SAR community
 
-**Iteration 1**: 
-
- * new repository github.com/CanberraUAV/SAR-scenarios.git
- * initialise content
- * evaluate feedback/engagement mechanisms
-
-Questions:
+**Questions**:
 
  * apart from the user-story itself, what meta data do we need to capture?
  * how to evaluate the usefulness of each scenario? voting system / straw poll?
