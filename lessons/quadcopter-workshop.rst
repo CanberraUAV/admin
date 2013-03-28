@@ -34,11 +34,11 @@ Resources
 
 Build Manual
 
- * :download:`Build Manual (word 2010) <quadcopter-workshop/BuildManual.docx>`, :download:`Build Manual (PDF) <quadcopter-workshop/BuildManual.pdf>`
+:download:`Build Manual (word 2010) <quadcopter-workshop/BuildManual.docx>`, :download:`Build Manual (PDF) <quadcopter-workshop/BuildManual.pdf>`
 
 Parameters File
 
-* :download:`MHV.parm <quadcopter-workshop/MHV.param>`
+:download:`MHV.parm <quadcopter-workshop/MHV.param>`
 
 Photos and Videos
 
