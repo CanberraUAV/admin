@@ -55,9 +55,7 @@ m
 org
 com
 GA
-<<<<<<< HEAD
 SAR
-=======
 O'Leary
 Gungalin
 geofence
@@ -68,4 +66,3 @@ SAR
 ipad
 cumulating
 nano
->>>>>>> 68a92fedf932e9732f095c3566e34126ee1f71f5
