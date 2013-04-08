@@ -21,12 +21,12 @@ Report on in-progress items
  * Got good quality results for about an hour, then poor quality results
  * Still investigating the issue
 
- :ref:`mu-thermal-camera`
+:ref:`mu-thermal-camera`
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
  * It has been fully funded on IndieGogo. We should expect one of their cameras in the coming months
 
- :ref:`schools-program`
+:ref:`schools-program`
 ^^^^^^^^^^^^^^^^^^^^^^
 
  * Lost a Boomerang aircraft due to the infamous wing-folding issue
