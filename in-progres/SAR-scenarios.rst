@@ -3,7 +3,7 @@
 SAR Scenario Project
 ====================
 
-This CanberraUAV project was spawned on :ref:`20120525-meeting`. It has an associated `SAR Scenario repository`_, initialised with content from :ref:`20130314_Belconnen_SES_presentation`.
+This CanberraUAV project was spawned on :ref:`20130525-meeting`. It has an associated `SAR Scenario repository`_, initialised with content from :ref:`20130314_Belconnen_SES_presentation`.
 
 .. _`SAR Scenario repository`: http://github.com/CanberraUAV/SAR-Scenarios
 
