@@ -1,0 +1,108 @@
+15th April 2013
+===============
+
+present:
+ * Tridge
+ * Stephen
+ * Jack
+ * Darrel
+ * Matt
+ * Chris
+ * Grant
+
+
+Report on in-progress items
+---------------------------
+
+SAR Scenarios
+^^^^^^^^^^^^^
+
+ * TODO: organise meeting/workshop with Alex
+ * TODO: follow up with ACT Emergency Service contact
+ * encourage group to review/edit existing SAR scenarios
+
+CSIRO colaboration
+^^^^^^^^^^^^^^^^^^
+
+ * nothing to report
+ * last flight from Trevor was a couple of weeks ago
+ * TODO: analyse some logs for Trevor
+ * hope to fly at their site soon
+
+Weather Station
+^^^^^^^^^^^^^^^
+
+Weather data available:
+
+ * data whitening was an issue
+ * davis protocol reverse engineering complete
+ * barometrer not available (might have been in the client)
+ * storm-rain sensor not calibrated yet (two of three working)
+ * might have weather station ready by the weekend
+ * easter egg - sunlight sensor (not in davis software)
+
+Still TODO:
+
+ * waiting for SIM card from TPG
+ * camera not fixed/replaced yet
+
+OBC 2014
+^^^^^^^^
+
+ * Two team approach?
+ * wait for the new rules to come out.
+ * plan, organise a meeting @ MVH (etc).
+ * risk - people don't feel like they have something to contribute
+ * project management approach, better defined projects 
+
+
+Mountain Bike Race in namadgi
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+ * Darrel + Steve met with them on the weekend
+ * Expansive comms network (wifi, backhaul)
+ * If we can resolve the regulatory issues (CASSA), Insurance, and Landholder permission...
+ * ...Then we can attempt to assist them, starting with trial runs on site.
+ * e.g. quadcopter (darrel), fly their camera equipment + comms gear.
+ * don't yet know the weight of the equipment, which airframe?
+   * possibly X8 airfame might be apppropriate
+   * bixler MTOW ~800g, to small 
+   * discussion of other planes - FPVRaptor, Techpod, etc.
+
+Other business
+--------------
+
+Offer of Airframe from Falcon-uav.org
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+ * Tridge has been colaborating with falcon-uav (missed the fellow's name)
+ * Large airframe under development (does not exist yet)
+ * May materialise as a plane for us to use
+
+Bixler
+^^^^^^
+
+ * Darrel will loan Tridge a Bixler airframe
+ * ...to be trialed with new L1 algorithm, prior to launch
+ * (and discover tuning parameters before launch)
+
+DSMx/DSM2 receivers
+^^^^^^^^^^^^^^^^^^^
+
+ * have some experiments
+ * basically working but probably better to stay with PPM at this stage
+ * is a single satelite reciever suitable quality vs FrSky?
+
+New FrSky transmitter "Taranus"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+ * open source, usb / memory
+ * looks good, will get one to test
+ * approved expenditure
+
+DIYDrones X8 catapault review
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+ * Jack reviewed the DIYDrones video
+ * sceptical of ability to launch a loaded-up wing
+ * KISS - try bungee + Ramp, bungee + trolly. 
