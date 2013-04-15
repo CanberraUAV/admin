@@ -54,8 +54,10 @@ OBC 2014
  * wait for the new rules to come out - this week hopefully.
  * plan, organise a meeting @ MVH (etc).
  * Try to interest new members to CanberraUAV
+
    * Issue - people don't feel like they have something to contribute.
    * Solution - Define clear set of positions including roles and responsabilites available to new joiners
+
  * project management approach, better defined projects 
 
 Mountain Bike Race in namadgi
@@ -67,6 +69,7 @@ Mountain Bike Race in namadgi
  * ...Then we can attempt to assist them, starting with trial runs on site.
  * e.g. quadcopter (darrel), fly their camera equipment + comms gear.
  * don't yet know the weight of the equipment, which airframe?
+
    * possibly X8 airfame might be apppropriate
    * bixler MTOW ~800g, to small 
    * discussion of other planes - FPVRaptor, Techpod, etc.
