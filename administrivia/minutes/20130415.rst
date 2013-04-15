@@ -20,6 +20,7 @@ SAR Scenarios
  * TODO: organise meeting/workshop with Alex
  * TODO: follow up with ACT Emergency Service contact
  * encourage group to review/edit existing SAR scenarios
+ * subsequently seek feedback from "community" to order scenarios in order of importance/value
 
 CSIRO colaboration
 ^^^^^^^^^^^^^^^^^^
@@ -36,7 +37,7 @@ Weather data available:
 
  * data whitening was an issue
  * davis protocol reverse engineering complete
- * barometrer not available (might have been in the client)
+ * barometer not available (in base only - not remote station)
  * storm-rain sensor not calibrated yet (two of three working)
  * might have weather station ready by the weekend
  * easter egg - sunlight sensor (not in davis software)
@@ -50,11 +51,12 @@ OBC 2014
 ^^^^^^^^
 
  * Two team approach?
- * wait for the new rules to come out.
+ * wait for the new rules to come out - this week hopefully.
  * plan, organise a meeting @ MVH (etc).
- * risk - people don't feel like they have something to contribute
+ * Try to interest new members to CanberraUAV
+   * Issue - people don't feel like they have something to contribute.
+   * Solution - Define clear set of positions including roles and responsabilites available to new joiners
  * project management approach, better defined projects 
-
 
 Mountain Bike Race in namadgi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -69,6 +71,7 @@ Mountain Bike Race in namadgi
    * bixler MTOW ~800g, to small 
    * discussion of other planes - FPVRaptor, Techpod, etc.
 
+
 Other business
 --------------
 
@@ -82,7 +85,7 @@ Offer of Airframe from Falcon-uav.org
 Bixler
 ^^^^^^
 
- * Darrel will loan Tridge a Bixler airframe
+ * Darrel will loan Tridge a Bixler 2 airframe
  * ...to be trialed with new L1 algorithm, prior to launch
  * (and discover tuning parameters before launch)
 
@@ -93,7 +96,7 @@ DSMx/DSM2 receivers
  * basically working but probably better to stay with PPM at this stage
  * is a single satelite reciever suitable quality vs FrSky?
 
-New FrSky transmitter "Taranus"
+New FrSky transmitter "Taranis"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
  * open source, usb / memory
@@ -105,4 +108,5 @@ DIYDrones X8 catapault review
 
  * Jack reviewed the DIYDrones video
  * sceptical of ability to launch a loaded-up wing
+ * Prefer a ramp to stop plane scraping along ground
  * KISS - try bungee + Ramp, bungee + trolly. 
