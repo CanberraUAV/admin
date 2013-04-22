@@ -1,11 +1,5 @@
-TODAYSDATE
+2013 April 22
 ==========
-
-present:
- * Chris
- * Tridge
-
-
 
 Report on in-progress items
 ---------------------------
