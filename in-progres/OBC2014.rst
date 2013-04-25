@@ -1,0 +1,13 @@
+.. _obc2014:
+
+2014 UAV Outback Challenge
+==========================
+
+
+ * :download:`Rules have been announced !<OBC2014/UAVCRulesSearchAndRescue2014v1_0.pdf>`,
+
+Action required:
+
+ * Clarification/permission from competition organisers about CanberraUAV fielding two teams
+ * rules mention an OBC operations manual. Can we get a copy?
+
