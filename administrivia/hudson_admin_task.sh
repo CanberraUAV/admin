@@ -13,7 +13,7 @@
 # management configured for the CanberraUAV git repository.
 # That means, when the script is run, $WORKSPACE is set to a
 # current copy of the source
-DMIN_DIR=$WORKSPACE/administrivia
+ADMIN_DIR=$WORKSPACE/administrivia
 MEETING_TEMPLATE=$ADMIN_DIR/minutes/template.rst.copyme
 
 # make sure we are on the right branch and up to date
