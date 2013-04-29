@@ -5,7 +5,7 @@ present:
  * Tridge
  * Stephen
  * Jack
- * Darrel
+ * Darrell
  * Matt
  * Chris
  * Grant
@@ -22,8 +22,8 @@ SAR Scenarios
  * encourage group to review/edit existing SAR scenarios
  * subsequently seek feedback from "community" to order scenarios in order of importance/value
 
-CSIRO colaboration
-^^^^^^^^^^^^^^^^^^
+CSIRO Collaboration
+^^^^^^^^^^^^^^^^^^^
 
  * nothing to report
  * last flight from Trevor was a couple of weeks ago
@@ -36,11 +36,11 @@ Weather Station
 Weather data available:
 
  * data whitening was an issue
- * davis protocol reverse engineering complete
+ * Davis protocol reverse engineering complete
  * barometer not available (in base only - not remote station)
  * storm-rain sensor not calibrated yet (two of three working)
  * might have weather station ready by the weekend
- * easter egg - sunlight sensor (not in davis software)
+ * Easter egg - sunlight sensor (not in Davis software)
 
 Still TODO:
 
@@ -56,21 +56,21 @@ OBC 2014
  * Try to interest new members to CanberraUAV
 
    * Issue - people don't feel like they have something to contribute.
-   * Solution - Define clear set of positions including roles and responsabilites available to new joiners
+   * Solution - Define clear set of positions including roles and responsibility's available to new joiners
 
  * project management approach, better defined projects 
 
-Mountain Bike Race in namadgi
+Mountain Bike Race in Namadgi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
- * Darrel + Steve met with them on the weekend
- * Expansive comms network (wifi, backhaul)
+ * Darrell + Steve met with them on the weekend
+ * Expansive Comms network (wifi, back haul)
  * If we can resolve the regulatory issues (CASSA), Insurance, and Landholder permission...
  * ...Then we can attempt to assist them, starting with trial runs on site.
  * e.g. quadcopter (darrel), fly their camera equipment + comms gear.
  * don't yet know the weight of the equipment, which airframe?
 
-   * possibly X8 airfame might be apppropriate
+   * possibly X8 airframe might be appropriate
    * bixler MTOW ~800g, to small 
    * discussion of other planes - FPVRaptor, Techpod, etc.
 
@@ -78,18 +78,18 @@ Mountain Bike Race in namadgi
 Other business
 --------------
 
-Offer of Airframe from Falcon-uav.org
+Offer of Airframe from Falcon-UAV.org
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
- * Tridge has been colaborating with falcon-uav (missed the fellow's name)
+ * Tridge has been collaborating with Falcon-UAV (missed the fellow's name)
  * Large airframe under development (does not exist yet)
  * May materialise as a plane for us to use
 
 Bixler
 ^^^^^^
 
- * Darrel will loan Tridge a Bixler 2 airframe
- * ...to be trialed with new L1 algorithm, prior to launch
+ * Darrell will loan Tridge a Bixler 2 airframe
+ * ...to be trialled with new L1 algorithm, prior to launch
  * (and discover tuning parameters before launch)
 
 DSMx/DSM2 receivers
@@ -97,7 +97,7 @@ DSMx/DSM2 receivers
 
  * have some experiments
  * basically working but probably better to stay with PPM at this stage
- * is a single satelite reciever suitable quality vs FrSky?
+ * is a single satellite receiver suitable quality vs FrSky?
 
 New FrSky transmitter "Taranis"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -106,10 +106,10 @@ New FrSky transmitter "Taranis"
  * looks good, will get one to test
  * approved expenditure
 
-DIYDrones X8 catapault review
+DIYDrones X8 catapult review
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
  * Jack reviewed the DIYDrones video
  * sceptical of ability to launch a loaded-up wing
  * Prefer a ramp to stop plane scraping along ground
- * KISS - try bungee + Ramp, bungee + trolly. 
+ * KISS - try bungee + Ramp, bungee + trolley. 

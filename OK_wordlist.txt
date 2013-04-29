@@ -1,5 +1,6 @@
 administrivia
 APM
+Arduplane
 Ardurover
 Belconnen
 CanberraUAV
@@ -19,7 +20,9 @@ muggin
 Muggin
 multipath
 mv
+Namadgi
 nitro
+ODroid
 onboard
 online
 pre
@@ -35,8 +38,11 @@ Tridge
 UAV
 uBlox
 unflyable
+usb
+vs
 waypoint
 waypoints
+wifi
 wiki
 Wikipedia
 workflow

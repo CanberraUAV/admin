@@ -4,7 +4,7 @@
 present:
  * Tridge
  * Jack
- * Darrel
+ * Darrell
  * Matt
  * Alex
  * Chris
@@ -25,7 +25,7 @@ OBC 2014
    * fly 100km for 1 hour
    * Carry 1kg of payload plus bottle
 
- * Two cameras in parallel or one wider angle higher res camera and fly at 120m instead of 90m. 
+ * Two cameras in parallel or one wider angle higher resolution camera and fly at 120m instead of 90m. 
  * Faster CPUs (new ODroid) 6x processing power from last time
  * Fly slower thus conserve fuel therefore fly longer
  * MMC bus could be used
@@ -35,7 +35,7 @@ OBC 2014
  * Separate computer per camera?
  * Ethernet camera?  Ethernet is USB bus on ODroid so perhaps no gain - TODO, Tridge will investigate
  * 400ft is the ceiling if the model is likely to go out of sight
- * 1st Deliverable is due no later 5pm 7 August.
+ * First Deliverable is due no later 5pm 7 August.
  * Moving our image recognition algorithms to run on the GPU of the ODroid - PHD Students investigating with loaned ODroid
  * Summary - can we use better cameras and image recognition to fly slower and hence possibly different airframe
 
@@ -55,8 +55,8 @@ Bixler 2 Build
  * Finding an appropriate local sports field that can be used as a test flight area
 
 
-CSIRO colaboration
-^^^^^^^^^^^^^^^^^^
+CSIRO Collaboration
+^^^^^^^^^^^^^^^^^^^
 
  * nothing to report
 
@@ -65,17 +65,17 @@ Weather Station
 ^^^^^^^^^^^^^^^
 
  * Any minute now
- * Rasberry Pi issue hopefully fixed by kernel patch
+ * Raspberry Pi issue hopefully fixed by kernel patch
 
 
-Mountain Bike Race in namadgi
+Mountain Bike Race in Namadgi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
  * Tridge going to ring radio person
 
 
-Catapault
-^^^^^^^^^
+Catapult
+^^^^^^^^
 
  * Nothing to report
  * Link to good example - https://www.youtube.com/watch?v=YLMcy42Bx1o&list=FLJzpx7cFPmzIW1RbGpZesYA&index=17
