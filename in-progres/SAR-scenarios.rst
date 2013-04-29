@@ -11,8 +11,7 @@ Work in Progress
 ----------------
 
  * documentation in the SAR-Scenario repository requires review, feedback and elaboration
- * Chris/Alex todo a desktop review session before next meeting 
-
+ * discussion - implementing simulation for various scenarios
 
 Ideas
 -----
