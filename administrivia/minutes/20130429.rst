@@ -1,0 +1,90 @@
+2013 April 29
+=============
+
+present:
+ * Tridge
+ * Jack
+ * Darrel
+ * Matt
+ * Alex
+ * Chris
+ * Grant
+
+
+Report on in-progress items
+---------------------------
+
+
+OBC 2014
+^^^^^^^^
+ * New Rules out.  See email to list for differences.
+ * Airframe goals previously set (maybe need to or able to compromise now)
+
+   * Easily portable
+   * Launch from clearing
+   * fly 100km for 1 hour
+   * Carry 1kg of payload plus bottle
+
+ * Two cameras in parallel or one wider angle higher res camera and fly at 120m instead of 90m. 
+ * Faster CPUs (new ODroid) 6x processing power from last time
+ * Fly slower thus conserve fuel therefore fly longer
+ * MMC bus could be used
+ * Previous Bottle neck reading images from camera and saving for later
+ * Run USB Bus and SD card in parallel.  Maybe get very large fast SD cards and free up bus bandwidth for Cameras
+ * SDCard random write performance awful but for photos (large continuous blocks) fine
+ * Separate computer per camera?
+ * Ethernet camera?  Ethernet is USB bus on ODroid so perhaps no gain - TODO, Tridge will investigate
+ * 400ft is the ceiling if the model is likely to go out of sight
+ * 1st Deliverable is due no later 5pm 7 August.
+ * Moving our image recognition algorithms to run on the GPU of the ODroid - PHD Students investigating with loaned ODroid
+ * Summary - can we use better cameras and image recognition to fly slower and hence possibly different airframe
+
+
+SAR Scenarios
+^^^^^^^^^^^^^
+
+ * See link posted by Chris - http://canberrauav.readthedocs.org/en/latest/in-progres/SAR-scenarios.html
+ * Chris/Alex to add scenario's from real world and then get reviews
+
+
+Bixler 2 Build
+^^^^^^^^^^^^^^
+
+ * Parts list review completed
+ * Test flight was a success
+ * Finding an appropriate local sports field that can be used as a test flight area
+
+
+CSIRO colaboration
+^^^^^^^^^^^^^^^^^^
+
+ * nothing to report
+
+
+Weather Station
+^^^^^^^^^^^^^^^
+
+ * Any minute now
+ * Rasberry Pi issue hopefully fixed by kernel patch
+
+
+Mountain Bike Race in namadgi
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+ * Tridge going to ring radio person
+
+
+Catapault
+^^^^^^^^^
+
+ * Nothing to report
+ * Link to good example - https://www.youtube.com/watch?v=YLMcy42Bx1o&list=FLJzpx7cFPmzIW1RbGpZesYA&index=17
+
+
+Other business
+--------------
+
+ * Tilt and Pan Unit - Jack can provide power unit if required
+ * New release of Arduplane available - 2.72 - http://www.diydrones.com/forum/topics/arduplane-2-72-released
+ * Fuel Cell - http://diydrones.com/profile/SimonHowroyd
+
