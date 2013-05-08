@@ -10,16 +10,8 @@ This CanberraUAV project was spawned on :ref:`20130525-meeting`. It has an assoc
 Work in Progress
 ----------------
 
- * documentation in the SAR-Scenario repository requires review, feedback and elaboration
+ * documentation in the SAR-Scenario repository requires review, feedback and elaboration (see `issue 4`_)
  * discussion - implementing simulation for various scenarios
 
-Ideas
------
+.. _`issue 4`: https://github.com/CanberraUAV/SAR-Scenarios/issues/4
 
-Currently we have 4 "stories", which are more generic/abstract than a scenario. I think of them as use-cases, (classes of requirement) rather than scenarios (instances), which could be tested, evaluated, simulated, etc.
-
- * PROPOSAL: under each 'story', create a collection of realistic example scenarios. These would include a map, timeline and notes.
- * PROPOSAL: add an 'airframe hardware' section describing a few different classes of airframe. For example, 2.5kg multicopter, 4.5kg electric fixed wing, 20kg petrol fixed wing.
- * PROPOSAL: add a 'payload hardware' section describing a few different classes of sensor packages. For example, $1K CV rig (chameleon etc), $6K CV rig (upgraded chameleon-type rig), FPV (because it will come up), economy night vision rig, expensive night vision rig and multi-spectral agronomy rig (pair of CHDK point and shoot cameras, one with then NIR hack, coordinating RPi, etc).
- * PROPOSAL: Then, match up payloads, airframes and scenarios, and run simulated missions. Add a summary and the details of the relevant simulation to each scenario.
-  
