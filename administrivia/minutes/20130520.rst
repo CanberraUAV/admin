@@ -1,0 +1,107 @@
+2013 May 20
+===========
+
+present:
+
+ * Chris
+ * Tridge
+ * Jack
+ * Grant
+ * Matt
+ * Darrell
+ * Michael
+ * Jenny
+
+
+Report on in-progress items
+---------------------------
+
+
+CMAC-weather-station
+^^^^^^^^^^^^^^^^^^^^
+
+ * Up and running - check it out at weather.cmac.org.au
+ * Camera still to come
+ * Enclosure enhancements required
+
+
+bixler_workshop
+^^^^^^^^^^^^^^^
+
+ * Get update at makers Tuesday night
+ * Solidify manifest to organise purchase
+
+
+mu-thermal-camera
+^^^^^^^^^^^^^^^^^
+
+ * Awaiting for delivery of production run
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * Queen Bee creating SAR will take a good deal of time
+
+
+schools-program
+^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+DGPS
+^^^^
+
+ * Queen Bee has modem equipped with DGPS support
+
+
+OBC2014
+^^^^^^^
+
+ * Previous suggestion of UC being second team - doesn't seem to be enough numbers and those that are "lurking" are very busy
+ * Main concern is weather you had enough time to support two teams
+ * Things you need
+
+   * Builder - Jack and Chris historically main builders.  Matt assisting as well.
+   * Pilot
+   * Manager - Stephen managing.  Chris been helping out.
+   * Ground Station technician - Matt, Stephen and Tridge
+   * Image Analysis - Matt and Tridge
+
+ * Two bites of cherry if one crashed on take off
+ * Auto take off ok but auto landing tricky.  Flaps will help with landings.
+ * Tridge keen for better radio links 
+
+   * tracking ground dish
+   * quieter in airframe
+
+ * Two recognisable teams for the application
+ * More endurance out of X8 then Queen Bee.  Put down to incorrect battery.
+ * Run past organisers if we enter 2 groups one our standard petrol frame and then a second with battery power.
+ *
+ * Airframe
+ * Bottle drop mechanism
+ * Auto Pilot Software
+ * Hardware
+ * Ground station
+ * Launch System
+ * Radio Comms
+ * Antenna Tracking
+ * Software Mission planning, path planning, strategy
+ * Auto landing
+ * Imaging Hardware
+ * Imaging Software
+ * DGPS (nice if someone is keen)
+
+ * Gyro-copter bottle drop mechanism
+ * ODroid and Camera fitted to Boomerang - box with computer etc
+ * Tridge going to experiment with camera enclosure
+
+
+Other business
+--------------
+
+ * Chris has a keen idea for mobile launching - discussion 
+
+
