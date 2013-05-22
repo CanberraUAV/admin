@@ -79,22 +79,23 @@ OBC2014
  * Two recognisable teams for the application
  * More endurance out of X8 then Queen Bee.  Put down to incorrect battery.
  * Run past organisers if we enter 2 groups one our standard petrol frame and then a second with battery power.
- *
- * Airframe
- * Bottle drop mechanism
- * Auto Pilot Software
- * Hardware
- * Ground station
- * Launch System
- * Radio Comms
- * Antenna Tracking
- * Software Mission planning, path planning, strategy
- * Auto landing
- * Imaging Hardware
- * Imaging Software
- * DGPS (nice if someone is keen)
+ * TODO
+ 
+   * Airframe
+   * Bottle drop mechanism
+   * Auto Pilot Software
+   * Hardware
+   * Ground station
+   * Launch System
+   * Radio Comms
+   * Antenna Tracking
+   * Software Mission planning, path planning, strategy
+   * Auto landing
+   * Imaging Hardware
+   * Imaging Software
+   * DGPS (nice if someone is keen)
 
- * Gyro-copter bottle drop mechanism
+ * Gyro-copter bottle drop mechanism could work
  * ODroid and Camera fitted to Boomerang - box with computer etc
  * Tridge going to experiment with camera enclosure
 
