@@ -38,21 +38,26 @@ Airframe:
 Autopilot:
  
  * If using off-the-shelf autopilot:
+ 
    * Spend time working out exactly how to program/edit the settings
    * Understand it's limitations.
    * Fly with it as much as possible to get experienced with it.
    * Make sure it has a manual override so the pilot can "rescue" the UAV if needed.
    * Work out early on what soft of changes need to be made (or bought/built) to make it OBC compliant.
+   
  * If developing your own:
+ 
    * Start early, they are very complex to build (unless you have an degree in aerospace engineering and a lot of free time).
    * Build a software simulator for the code. Bugs can be very deadly in real flights.
    
 Radios
 
  * Be aware of the Australian limitations on the maximum EIRP of radiotransmitters:
+ 
    * For the 900MHz band 1W EIRP (minimum 20 hopping channels - a frequency hopping transmitter).
    * 4W  EIRP for the 5.8 GHz band and 2.4 GHz band (a digital modulation radiotransmitter).
-   * See http://www.comlaw.gov.au/Details/F2011C00543 for full info
+   * See http://www.comlaw.gov.au/Details/F2011C00543 for full info.
+   
  * Check the radio link will still work (and have enough bandwidth) over the maximum range into the search area.
  * Using two links over different frequencies (and technologies) can provide redundancy.
  * Using 3G radios over the mobile phone network can have some latency.
