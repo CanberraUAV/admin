@@ -1,6 +1,8 @@
 Pan/Tilt/Retract camera mount 
 =============================
 
+Random note: see emerging brushless gimbal community, http://www.diygimbals.com/
+
 :ref:`TRL`: 1
 
 Description: A roll/pitch stabilised platform for cameras on the UAV. Should have a cover to protect the camera during take-off and landing
