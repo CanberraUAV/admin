@@ -1,0 +1,103 @@
+2013 June 10
+===========
+
+Present:
+
+ * Stephen Dade
+ * Andrew Tridgell
+ * Jack Pittar
+ * Jonathon Parrott
+ * Matt Ridley
+ * Grant Morphett
+ * Chris Gough
+ * Michael Fagan
+
+
+Report on in-progress items
+---------------------------
+
+
+Finance Policy
+^^^^^^^^^^^^^^
+
+  * Everybody happy with the policy.
+  * Tridge clarification on Finance Procedures.  If somebody doesn't get pre-approval and then afterwards the approval is granted they can seek reimbursement.  Stephen will clarify in the policy.
+  * Tridge and Jack's expenses reviewed and approved by the group
+  * Matt to produce assets register - names/initials to be assigned to each item
+
+
+Techpod Status and Plans
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+ * Techpod ordered - should arrive any minute now
+ * Tridge to confirm its capabilities at CMAC including trying different props
+
+
+CMAC-weather-station
+^^^^^^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+bixler_workshop
+^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+mu-thermal-camera
+^^^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * After the Kosciusko Trip need to work up a document to articulate what Canberra UAV can provide in the SAR space.
+
+
+schools-program
+^^^^^^^^^^^^^^^
+
+ * Few students flying at CMAC on Tuesday morning.  Two developing as promising pilots.
+
+
+OBC2014
+^^^^^^^
+
+ * Two teams is looking unlikely
+ * Focus is on resilient, simple & reliable.  OBC should be routine S&R process.  Integrated software.  Aircraft easy to launch and fly.
+ * Palatus Porter air frame - Mr Miller flying it a CMAC.  VQ ARF.  Electric Model version was at CMAC.  Large fuselage capacity.
+ * Tempus air frame - http://uasusa.com/Tempest.html - Tridge chasing price
+ 
+
+Other business
+--------------
+
+
+UAV Insurance
+^^^^^^^^^^^^^
+
+ * http://aaus.org.au/ - Tridge joined as an individual member to be informed and see what they offer
+ * http://www.catlin.com/en/AsiaPacific/Australia/News-and-views-Australia/Australia-newsletter/March-2013/Unmanned-ariel-vehicle-insurance - Tridge will contact and see what they offer
+
+
+Foam Hunting
+^^^^^^^^^^^^
+
+ * Chris going to buy a few blocks and see what's what.
+
+
+Kingaroy Images
+^^^^^^^^^^^^^^^
+
+ * Releasing images from Kingaroy.  Requesting new HDD from CSIRO.  If that doesn't happen soon then perhaps purchase drop box account.
+
+
+Website and Mailing List
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+ * When it was moved IP address changed but didn't know and subsequent issues.  Tridge has resolved it.
+ * Might move master DNS and Drupal to Tridge's server at his house - more control.
+
