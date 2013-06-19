@@ -21,7 +21,8 @@ Policy
  * Any members storing physical assets should take reasonable precautions to ensure the safety and condition of the asset is maintained.
  * Any members storing (and with no current plans to use) physical assets are required to transfer the asset to any other team member that requires the asset for an approved CanberraUAV project.
  * When a member gains custody of a physical asset, they are required to advise the Equipment Officer of this. This should be done in a timely fashion.
-
+ * If a member privately buys an asset that is found to be useful for CanberraUAV, they can be reimbursed and the asset will go into the CanberraUAV pool (ie. CanberraUAV will buy it off them).
+ 
 Procedures
 ----------
 
@@ -42,7 +43,7 @@ Specifically:
 
  * Maintain a register of all valuable (>$50) items purchased by CanberraUAV. 
  * The register should include the item description, cost, website, date purchased, current custodian and current condition (working, broken, lost, etc).
- * Organise the procurement of equipment (purchase, shipping, distribution).
+ * Coordinate the procurement of equipment (purchase, shipping, distribution).
  * Organise the disposal of any unwanted equipment.
  * The asset register will be stored on the CanberraUAV Github "admin" repository (https://github.com/CanberraUAV/admin).
 
