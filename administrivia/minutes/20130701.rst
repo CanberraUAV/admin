@@ -1,0 +1,54 @@
+2013 July 07
+===========
+
+
+Report on in-progress items
+---------------------------
+
+New testing ground (Geoff's place)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Excellent site for long range testing, regular use acceptable, access to a workshop and cake is provided.
+
+ * Did a sucessful test flight yestersday with the full system
+ * GPS issues, compass turned off (magnetic interference) in the new plane
+ * camera calibration problems (roll). We need a good procedure.
+ * image quality OK with the ODroid rig
+ * ODroid had no issues with CV code
+
+Search area flown on the weekend was 850m * 240m (visual range because relatively imature plane), larger area possible within property boundary.
+
+
+
+
+
+bixler_workshop
+^^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * no action noted
+
+
+schools-program
+^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+OBC2014
+^^^^^^^
+
+ * no action noted
+
+
+Other business
+--------------
+
+ * no items discussed
+
+
