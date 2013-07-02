@@ -2,6 +2,17 @@
 ===========
 
 
+Present:
+
+ * Stephen Dade
+ * Andrew Tridgell
+ * Jack Pittar
+ * Chris Gough
+ * Matt Ridley
+ * Darrell Burkey
+ * Alex Mason
+ 
+ 
 Report on in-progress items
 ---------------------------
 
@@ -16,7 +27,7 @@ Excellent site for long range testing, regular use acceptable, access to a works
  * image quality OK with the ODroid rig
  * ODroid had no issues with CV code
 
-Search area flown on the weekend was 850m * 240m (visual range because relatively imature plane), larger area possible within property boundary.
+Search area flown on the weekend was 850m * 240m (visual range because relatively immature plane), larger area possible within property boundary.
 
 Suggest flying there about once per month.
 
@@ -53,9 +64,13 @@ Options:
 
 Data link seems hopelessly expensive.
 
-SPOT service is affordble and potentially usefull.
+SPOT service is affordable and potentially usefull.
 
 Discussion about how amazing satelite tech is, path loss etc.
+
+Homework: Research the costs and features of different beacons (ie. SPOT) for next week's meeting
+
+Some mention of using HF/LF datalinks. These would very long range. Would expect around a 19200 baud datarate. No idea in regards to costs or potential interference from the transmitting antenna.
 
 
 workshops
@@ -80,14 +95,15 @@ schools-program
 OBC2014
 ^^^^^^^
 
- * UCan team entered.
- * See Geoff Kemp's place - next flight in 4 weeks will be at "OBC2012 level", minus bottle drop and endurance.
- * Grant Morphet has been doing some research into Bottle Drop mechanism.
+ * University of Canberra has a team entered. It is headed by an ex-Dickson College student.
+ * See Geoff's place - next flight in 4 weeks will be at "OBC2012 level", minus bottle drop and endurance.
+ * Grant Morphett has been doing some research into Bottle Drop mechanism.
 
 
 Other business
 --------------
 
  * discussion about various airspeed sensors
- * Tridge authorised to buy 3 * ETS Airspeed sensor units
+ * Tridge authorised to buy 3 * ETS Airspeed sensor units. They are around $33 each.
+ * The RSISE department at the ANU is doing some interesting work with the APM and quadcopters. They are quite interested in our work too. It would be a good idea to meet up with them - possibly the Tuesday after next (16th July).
 
