@@ -1,0 +1,71 @@
+2013 July 08
+===========
+
+
+Present:
+
+ * Stephen Dade
+ * Andrew Tridgell
+ * Jack Pittar
+ * Andrew Moss
+ * Jono Parrott
+ * Darrell Burkey
+ * Edwin Davis
+ 
+ 
+Report on in-progress items
+---------------------------
+
+
+Satelite Backup
+^^^^^^^^^^^^^^^
+
+Options:
+
+ * None
+ * SPOT beacon
+ * Data link
+ * Use second UAV for search for missing UAV
+
+Given that we won't be doing any long range non-line-of-sight flights for at least the next 6 months, it was decided to defer this decision until later in the year.
+
+SPOT beacon most likely the best cost/capability for our needs. Needs to be facing the sky so the antenna has good reception. This is not guaranteed in the crash.
+
+
+workshops
+^^^^^^^^^
+
+ * Quadcopter workshop has 9 people
+ * Most in the last couple of days
+ * Bixler workshop has around the same number of people
+ * Will likely run parallel to the final couple of quadcopter workshop sessions
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * no action noted
+
+
+schools-program
+^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+OBC2014
+^^^^^^^
+
+ * Entries closed last week. 116 teams entered.
+ * 4 weeks until D1 is due.
+ * We should start work on D1 in the next week or two. Particularly look for any changes in the D1 requirements that we may need to address.
+ * Possible visit to the UC and ADFA teams to help them get started on their UAVs. Likely next week, so they have enough time to write up their D1's.
+ * CanberraUAV should have a evening session (at someone's house?) to go through the D1. Week of 22-26 July. This is 2 weeks before the due date.
+
+
+Other business
+--------------
+
+ * RSISE visit will be the afternoon of the 30th July. CanberraUAV members only. Dickson College will have a separate visit later.
+ * Stephen will be attending the IGNSS conference on the 16-18th July (for work). The Japanese will be demonstrating their SBAS system (QZNSS) for the first time in Australia. This could mean much better GPS accuracy in Australia, assuming we have coverage in Canberra and the hardware needed to pick up the signal is reasonably priced.
+ * Next visit to Geoff's place will be around mid to late August. The plan is to have most/all of OBC capability restored for this flight. Particularly the GPS/compass interference issues, camera roll gimbal and image processing
