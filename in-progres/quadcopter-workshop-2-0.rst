@@ -34,7 +34,7 @@ Resources
 
 Build Manual
 
-:download:`Build Manual (word 2010) <quadcopter-workshop/MHV-Quadcopter-Workshop-v3.docx>`
+:download:`Build Manual (word 2010) <quadcopter-workshop-2-0/MHV-Quadcopter-Workshop-v3.docx>`
 
 Parameters File
 
