@@ -4,6 +4,16 @@ MHV Quadcopter Workshop Parts List
 ==================================
 Note all prices are in $AUD and are from nearby suppliers (to save on shipping) where possible. It does not include any tools used in the build.
 
+Recommended tools are:
+ * USBASP programmer for Atmel MCU's
+ * Hex (Allen) wrenches
+ * Soldering iron
+ * Heat gun for heatshrinking
+ * Velcro, tape, wireties
+
+ 
+Note all prices below are in $USD.
+
 +---------------------------+--------------------------------------------------------------------+----------+-------------+
 | Part                      | Link to Store                                                      | Quantity | Approx Cost |
 +===========================+====================================================================+==========+=============+

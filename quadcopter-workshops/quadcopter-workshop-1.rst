@@ -1,7 +1,7 @@
-.. _mhv-quadcopter-workshop:
+.. _mhv-quadcopter-workshop-1-0:
 
-MHV Quadcopter Workshop
-=======================
+MHV Quadcopter Workshop 1.0 (March 2013)
+=======================================
 
 Developer: Stephen. With help from Tridge, Jack, Alastair, Andreas and Chris (Wolfe)
 
@@ -29,16 +29,16 @@ Resources
 .. toctree::
    :glob:
 
-   quadcopter-workshop/*
+   quadcopter-workshop-1-0/*
 
 
 Build Manual
 
-:download:`Build Manual (word 2010) <quadcopter-workshop/BuildManual.docx>`, :download:`Build Manual (PDF) <quadcopter-workshop/BuildManual.pdf>`
+:download:`Build Manual (word 2010) <quadcopter-workshop-1-0/BuildManual.docx>`, :download:`Build Manual (PDF) <quadcopter-workshop-1-0/BuildManual.pdf>`
 
 Parameters File
 
-:download:`MHV.parm <quadcopter-workshop/MHV.param>`
+:download:`MHV.parm <quadcopter-workshop-1-0/MHV.param>`
 
 Photos and Videos
 

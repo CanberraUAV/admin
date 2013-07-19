@@ -16,7 +16,8 @@ These docs can be rendered with sphinx. They can be accessed as web page at http
    on-hold/index
    lessons/index
    administrivia/index
-
+   quadcopter-workshops/index
+   
 
 Other Useful Links
 --------------------------
