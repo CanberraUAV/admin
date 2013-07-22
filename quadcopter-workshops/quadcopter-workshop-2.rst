@@ -34,7 +34,7 @@ Resources
 
 Build Manual
 
-:download:`Build Manual (Word 2010) <quadcopter-workshop-2-0/MHV-Quadcopter-Workshop-v3.docx>`
+:download:`Build Manual (Word 2010) <quadcopter-workshop-2-0/MHV-Quadcopter-Workshop-v3.docx>`, :download:`Build Manual (PDF) <quadcopter-workshop-2-0/MHV-Quadcopter-Workshop-v3.pdf>`
 
 Transmitter
 
