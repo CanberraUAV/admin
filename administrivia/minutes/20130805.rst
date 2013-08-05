@@ -1,0 +1,98 @@
+2013 August 05
+==============
+
+present:
+
+ * Andrew Tridgell
+ * Darrell Burkey
+ * Jack Pittar
+ * Matt Ridley
+ * Stephen Dade
+ * Grant Morphett
+ * Fergus McCracken
+ * Jonathon Parrott
+ * Andrew Moss
+
+
+Report on in-progress items
+---------------------------
+
+OBC2014
+^^^^^^^
+
+ * D1 finalised and super minor tweaking occurred.  Called complete in meeting and will be sent off by Stephen later this evening.
+ * UC team D1 has been completed.  Jack, Andrew and Stephen assisted with the D1.
+ * ADFA appear to also be on track to complete D1.
+ * Andrew had Priceton University chat - flying a Huggin (small version of Muggin) based on what they read from Canberra and Dickson UAV.
+ * Next testing morning at property Sunday 18 August.  Jack to contact property owner and arrange.
+ * Point Grey camera still going to be used as there isn't a better alternative.
+ * Grab mono camera back off Michael so Dickson collage can borrow it potentially
+
+
+Quadcopter workshop
+^^^^^^^^^^^^^^^^^^^
+
+ * Second workshop last Wednesday went well
+ * Performed flashing of all transmitters and ESC and setting up Sims on peoples laptop.
+ * Still waiting PX4s to be delivered.  Hopefully this week.
+
+
+Bixler workshop
+^^^^^^^^^^^^^^^^^^^
+
+ * Eyal doing bulk purchase - a big part has been made this week
+ * Jack purchased some more stuff today
+
+
+ANU visit
+^^^^^^^^^
+
+ * ANU is doing APM and PX4 development.  They have a Quadcopter arena, and working on differential GPS.  Visit planned to see cool toys.  Arrangements still being made.
+
+
+mu-thermal-camera
+^^^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * no action noted
+
+
+schools-program
+^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+OBCHints
+^^^^^^^^
+
+ * no action noted
+
+
+DGPS
+^^^^
+
+ * no action noted
+
+
+Other business
+--------------
+
+Questacon
+^^^^^^^^^ 
+
+ * This Friday 9th August Adult information night starting at 6pm.  CanberraUAV has a "booth" alongside MHV.  Turn up between 5-6pm for setup.  Tridge, Stephen, Andrew, Jack, Darrell attending.
+
+
+CASA
+^^^^
+
+ * Guy from CASA is coming into Dickson College at 11am on Friday.  Stephen and Jack will also try to attend.
+ * Tridge looking into getting a UAV Operator certificate under CASA.  Thinks it is achieveable.  First step is to pass Private Pilot License theory test.
+
+
