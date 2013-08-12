@@ -1,0 +1,128 @@
+2013 August 05
+==============
+
+present:
+
+ * Andrew Tridgell
+ * Darrell Burkey
+ * Jack Pittar
+ * Stephen Dade
+ * Grant Morphett
+ * Paul Warren
+ * Jonathon Parrott
+
+
+Report on in-progress items
+---------------------------
+
+OBC2014
+^^^^^^^
+
+ * Boomerang has crashed - Jacks personal plane - need a new plane - Jack to order - around $170.
+ * Possible to use the Telemaster instead of a Boomerang - Tridge weights are:
+
+   * bare fuselage: 1.58kg
+   * each wing: 1.03kg
+   * total bare weight: 3.64kg
+   * spec flying weight: 4.76kg
+   * available gear weight: 1.12kg
+
+ * Testing over the coming weekend at the rural location postponed due to crash 
+ * 25th August next tentative date - might fly both Techpod and Boomerang
+ * D1 was submitted and confirmation that it had been submitted.
+ * Due to large number of entries the go no-go will not be announced until the end of August.
+ * UC team D1 was definitely submitted.
+ * ADFA we think submitted their D1.
+
+
+Quadcopter workshop
+^^^^^^^^^^^^^^^^^^^
+
+ * Possibly going ahead this week.  Missed delivery today and hope that is the order of flight electronics that can be picked up tomorrow.
+ * People enquiring when the next workshop will be running.
+
+
+Bixler workshop
+^^^^^^^^^^^^^^^
+
+ * Hopefully PX4's will turn up shortly.
+ * Eyal has received Hobby King parts
+
+
+ANU visit
+^^^^^^^^^
+
+ * ANU is doing APM and PX4 development.  They have a Quadcopter arena, and working on differential GPS.  Visit planned to see cool toys.  Arrangements still being made.  Ongoing.
+
+
+mu-thermal-camera
+^^^^^^^^^^^^^^^^^
+
+ * Seem to be running behind.  Not sure its going to turn up.
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * no action noted
+
+
+schools-program
+^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+OBCHints
+^^^^^^^^
+
+ * no action noted
+
+
+DGPS
+^^^^
+
+ * no action noted
+
+
+Other business
+--------------
+
+Piksi GPS Receivers
+^^^^^^^^^^^^^^^^^^^
+
+ * http://www.kickstarter.com/projects/swiftnav/piksi-the-rtk-gps-receiver
+ * Buy one or two - need two for centimetre level precision as they use differential
+ * Based on RTK (real time kinematic) instead of RTCM
+ * RTK more accurate but more CPU intensive
+ * $900 for a pair and need 2 in order for the differential GPS and the high accuracy
+ * Cycle lock issue appears to be solvable
+ * Code should be almost identical for any airframe just need it to "work faster" for faster moving aircraft
+ * We use the GPS for both positioning and velocity.  We use it for centripetal direction and current GPS delivers cm/sec.  Piksi are only doing m/sec at the moment.  May need to have 2 GPS's in the final solution.
+ * Stephen will purchase a pair through the Kickstarter
+
+
+Questacon
+^^^^^^^^^ 
+
+ * Friday 9th August.  Had the simulator running and people could have a go with the Rascal aircraft.  Slideshow and business cards.
+
+
+CASA
+^^^^
+
+ * Guy from CASA came into Dickson College at 11am on Friday.  Stephen and Jack attended.  Under 2kg no licensing required.  2-7kg need a small piece of licensing.  Above 7kg more complex license required.  No time frame for when this would be introduced.  Educated guess is possibly 2-3 years.
+
+
+Purchases
+^^^^^^^^^
+
+ * South African group selling height measuring device probably isn't going to work
+
+
+Thermaling Auto Gliding
+^^^^^^^^^^^^^^^^^^^^^^^
+
+ * http://diydrones.com/profile/JeanLouisNaudin
+
+	 
