@@ -1,4 +1,4 @@
-2013 August 05
+2013 August 19
 ==============
 
 present:
@@ -84,7 +84,7 @@ SAR-scenarios
 ^^^^^^^^^^^^^
 
  * Potential SES training exercise.
- * Aleks Update - Possible to run a SAR exercise combining SES land search and UAV air search.
+ * Alex Update - Possible to run a SAR exercise combining SES land search and UAV air search.
  * Would need to be within visual range at this stage.
  * Insurance can be a complication
 
