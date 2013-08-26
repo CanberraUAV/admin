@@ -1,0 +1,87 @@
+2013 August 26
+==============
+
+present:
+
+ * Chris Gough
+ * Darrell Burkey
+ * Grant Morphett
+ * Jack Pittar
+ * Paul Warren
+ * Stephen Dade
+ * Andrew Tridgell
+
+
+Report on in-progress items
+---------------------------
+
+OBC2014
+^^^^^^^
+
+ * Rural location testing of air speed sensor was conducted over the weekend.
+ * air speed sensor seems to have a lot of drift EagleTree I2C Air Speed Sensor
+ * We have 3 different air speed sensors.  Analogue ones have bad drift and cause trouble on PX4 due to voltage rail issues
+ * Wanted to move to digital airspeed sensor
+ * Monday (today) - another flight with another air speed sensor in the AcroWot - Measurement Specialities - first flight test ever.  Airspeed readings seemed a little high.
+ * Need to log raw differential pressure so we can measure what the sensor is up to from the algorithm
+ * Need to try a few ideas to see if the air pressure sensors can be improved
+
+
+Insurance Update
+^^^^^^^^^^^^^^^^
+
+ * Talking to Catlin insurance.  Offer insurance for UAV operations.  Only insure people with CASA license which is a problem.  Stephen is still chasing them to see if that can be varied in our favour.  Stephen has confirmed with them they aren't interested unless you have a CASA license. 
+
+
+Quadcopter workshop
+^^^^^^^^^^^^^^^^^^^
+
+ * On hold at the moment - awaiting PX4s from 3DR.
+
+
+Bixler workshop
+^^^^^^^^^^^^^^^
+
+ * On hold at the moment - awaiting PX4s from 3DR.
+
+
+ANU visit
+^^^^^^^^^
+
+ * ANU is doing APM and PX4 development - RSISE.  They have a Quadcopter arena, and working on differential GPS.  Visit planned to see cool toys.  Arrangements still being made.  Ongoing as host has been very ill.
+
+
+mu-thermal-camera
+^^^^^^^^^^^^^^^^^
+
+ * Seem to be running behind.  Not sure its going to turn up.
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * in progress
+
+
+schools-program
+^^^^^^^^^^^^^^^
+
+ * Two pilots got bronze wings weekend before last
+ * Starting to fly the Huggin
+
+
+OBCHints
+^^^^^^^^
+
+ * no action noted
+
+
+DGPS
+^^^^
+
+ * no action noted
+
+
+Other business
+--------------
+
