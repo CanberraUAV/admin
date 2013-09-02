@@ -1,0 +1,94 @@
+2013 September 02
+=================
+
+present:
+
+ * Chris Gough
+ * Darrell Burkey
+ * Fergus McCracken
+ * Grant Morphett
+ * Jack Pittar
+ * Jonathan Parrott
+ * Paul Warren
+ * Sean Morrison
+ * Stephen Dade
+ * Andrew Tridgell
+
+
+Report on in-progress items
+---------------------------
+
+OBC2014
+^^^^^^^
+
+ * We passed D1 - YAY
+ * The TV Documentary was ok
+ * Replacement Boomerang build coming along ok
+ * Tridge flying Acrowot to continue testing
+ * Got contact details of gyro-copter flyers out at Rural location so we can contact them before we go out to avoid any potential collisions
+ * Laser APD with optics - with a 1Hz 30% target 200m range, 1Hz 90% target 400m range
+
+ 
+Piksi GPS
+^^^^^^^^^
+
+ * Email from them states assembling 2nd week of September
+
+
+Field Trip
+^^^^^^^^^^
+
+ * Chris G spoke with Tim Brown - Arboretum - Forestry department at ANU.  They want a fly over of a plot of trees.
+
+
+Quadcopter workshop
+^^^^^^^^^^^^^^^^^^^
+
+ * On hold at the moment - awaiting PX4s from 3DR.
+
+
+Bixler workshop
+^^^^^^^^^^^^^^^
+
+ * On hold at the moment - awaiting PX4s from 3DR.
+
+
+ANU visit
+^^^^^^^^^
+
+ * ANU is doing APM and PX4 development - RSISE.  They have a Quadcopter arena, and working on differential GPS.  Visit planned to see cool toys.  Arrangements still being made.  Ongoing as host has been very ill.
+
+
+mu-thermal-camera
+^^^^^^^^^^^^^^^^^
+
+ * Seem to be running behind.  As of 2 weeks ago 20 days until firmware is done.
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * Jono spoke with someone from SAR field stating their may be exceptions for people flying UAVs in "emergency" scenarios. 
+
+
+schools-program
+^^^^^^^^^^^^^^^
+
+ * Dickson college - problems finding Huggin propellers, motors that match for enough power
+
+
+OBCHints
+^^^^^^^^
+
+ * no action noted
+
+
+DGPS
+^^^^
+
+ * no action noted
+
+
+Other business
+--------------
+
