@@ -71,7 +71,7 @@ mu-thermal-camera
 ^^^^^^^^^^^^^^^^^
 
  * Another update - working part of software taking raw thermal part and converting to video
- * Steffan Gofershay from Finland - working with UAVs in Finland.  Testing Thermal cameras.  Most clothing has a different degree of reflectivity in near infrared then most other substances.  With colour version of a camera the pattern of colour you get from manufactured clothing then surround terrain.  People wearing camo gear very low thermal signature but cheap knock off can be spotted easily on near infrared.
+ * Stefan Gofershay (sp?) from Finland - working with UAVs in Finland.  Testing Thermal cameras.  Most clothing has a different degree of reflectivity in near infra-red then most other substances.  With colour version of a camera the pattern of colour you get from manufactured clothing then surround terrain.  People wearing camo gear very low thermal signature but cheap knock off can be spotted easily on near infrared.
 
 
 SAR-scenarios
