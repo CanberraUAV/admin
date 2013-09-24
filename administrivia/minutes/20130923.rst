@@ -1,0 +1,96 @@
+2013 September 23 
+=================
+
+present:
+
+ * Chris Gough
+ * Darrell Burkey
+ * Fergus McCracken 
+ * Grant Morphett
+ * Matthew Ridley
+ * James Patterson
+ * Paul Warren
+ * Andrew Tridgell
+
+
+Report on in-progress items
+---------------------------
+
+OBC2014
+^^^^^^^
+
+ * New rules:
+	
+	* http://www.uavoutbackchallenge.com.au/UAVCRulesSearchAndRescue2014v1_1.pdf
+	* Expected to provide in terms of air speed and stall margin in D2.  Perhaps just define testing for stall speed
+ 	* RC Drop-out in manual mode - to address issue with OpenUAS guys.
+	* State machine diagrams
+	* Details regarding landing
+	* Allowed to use mobile service and associated cloud service - no guarantees about bandwidth
+	* Plagiarism - needs clarification
+	* Camera testing during scrutinising - put Joe out
+
+  * Stephen did work on elevation code.  Paul has sorted a couple of bugs.
+  * Chris has tidied up using proxies on MavProxy
+  * Development on other aircraft - Telemaster and Beaver are ideal.
+  * Do endurance testing with the Beaver.  Ground handling issues that need to be solved.
+  * Telemaster will be test frame for every day runs at CMAC
+
+ 
+Piksi GPS
+^^^^^^^^^
+
+ * no action noted
+
+
+Arboretum
+^^^^^^^^^
+
+ * no action noted
+
+
+Quadcopter workshop
+^^^^^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Bixler workshop
+^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+ANU visit
+^^^^^^^^^
+
+ * no action noted
+
+
+mu-thermal-camera
+^^^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * no action noted
+
+
+schools-program
+^^^^^^^^^^^^^^^
+
+ * In Brisbane right now
+
+
+OBCHints
+^^^^^^^^
+
+ * no action noted
+
+
+Other business
+--------------
+
