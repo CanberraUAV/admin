@@ -67,7 +67,7 @@ Mountain Bike Race in Namadgi
  * Expansive Comms network (wifi, back haul)
  * If we can resolve the regulatory issues (CASSA), Insurance, and Landholder permission...
  * ...Then we can attempt to assist them, starting with trial runs on site.
- * e.g. quadcopter (darrel), fly their camera equipment + comms gear.
+ * e.g. quadcopter (Darrell), fly their camera equipment + comms gear.
  * don't yet know the weight of the equipment, which airframe?
 
    * possibly X8 airframe might be appropriate
