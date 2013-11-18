@@ -28,6 +28,7 @@ online
 pre
 precrimped
 quadcopter
+xR
 quadcopters
 readthedocs
 rst
@@ -111,6 +112,7 @@ gimbal
 setup
 gyros
 failsafe
+failsafes
 Internship
 yay
 Thermaling
@@ -125,3 +127,16 @@ Telstra
 Gungahlin
 Oakes
 Redhill
+Eepe
+Atmega
+Atmel
+Heatshrink
+jDrones
+dm
+clark
+planform
+pulltruded
+strake
+Mahonie
+Pattison
+Helibox

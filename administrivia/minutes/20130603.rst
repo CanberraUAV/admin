@@ -25,9 +25,9 @@ OBC2014
 
  * no action noted
  * should put in our entry ASAP
- * Tridge mesaging Stephen now - should we enter now rather than wait?
- * Burley Griffin Sharp Patrol / A-Team (2nd team) still to be entered.
- * Need to get a Manager for the 2nd team (for entry). Jenny Williams?
+ * Tridge messaging Stephen now - should we enter now rather than wait?
+ * Burley Griffin Sharp Patrol / A-Team (second team) still to be entered.
+ * Need to get a Manager for the second team (for entry). Jenny Williams?
 
 bixler_workshop
 ^^^^^^^^^^^^^^^
@@ -41,7 +41,7 @@ schools-program
 ^^^^^^^^^^^^^^^
 
  * Jack has another plane, Flew last Tuesday
- * two students getting close to Bronz Wings
+ * two students getting close to Bronze Wings
 
 
 DGPS
@@ -69,7 +69,7 @@ Open Relief airframe offered for our evaluation:
 
 Jack and Chris have been discussing a new Airframe design
  * 2.4m span, 6 or 7 AR, clark Y (or similar, ~14%).
- * based arround a 50cc two cylinder motor
+ * based around a 50cc two cylinder motor
  * optimised for simplest 
  * STOL style; big wheels big flaps. Suitable for improvised runways (dirt roads)
  * faster than Telemaster but not as quick as the Muggin
@@ -77,5 +77,5 @@ Jack and Chris have been discussing a new Airframe design
 ETS airspeed sensor
  * will test soon in QueenBee
  * also need to set up a current sensor, may use the airspeed port because it has a built in voltage divider
- * This avoids overvoltage risk on 3.3v ADC
+ * This avoids over voltage risk on 3.3v ADC
 

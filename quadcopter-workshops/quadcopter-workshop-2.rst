@@ -42,7 +42,7 @@ Transmitter
 
 :download:`EEPROM settings <quadcopter-workshop-2-0/APM_Quadcopter.eepe>`
 
-Eepe software is available from http://code.google.com/p/eepe/. ER9X firmware is avaialbe from http://code.google.com/p/er9x/ - note that the Atmega128 build is required for this workshop (ER9X uses the Atmega64 build by default). Check the SVN repository (http://code.google.com/p/er9x/source/browse/#svn%2Ftrunk) for the correct file.
+Eepe software is available from http://code.google.com/p/eepe/. ER9X firmware is available from http://code.google.com/p/er9x/ - note that the Atmega128 build is required for this workshop (ER9X uses the Atmega64 build by default). Check the SVN repository (http://code.google.com/p/er9x/source/browse/#svn%2Ftrunk) for the correct file.
 
 Parameters File
 

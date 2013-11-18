@@ -35,6 +35,6 @@ Report on in-progress items
 Other Business
 ^^^^^^^^^^^^^^^
 
- * CMAC was broken into over the weekend with several parts of the CMAC weather station being stolen or damaged (Rasberry Pi, camera). We are going to have to think of better ways to secure or hide the equipment.
+ * CMAC was broken into over the weekend with several parts of the CMAC weather station being stolen or damaged (Raspberry Pi, camera). We are going to have to think of better ways to secure or hide the equipment.
  * Stephen has a brief conversation with the Mountain Bike Race people, who want CanberraUAV to possibly provide some aerial photography of their event. We will be with them on the 13th April to figure out what we can realistically provide.
  

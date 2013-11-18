@@ -24,7 +24,7 @@ OBC2014
 
  * New plane Trainer 50 - http://www.amr-rc.com/index.php?path=content&SC=produits&SUBSC=aircraft&page=kits_info&produit_id=238&marque_menu=&langue=en
  * Discussion during the week - did we still want to purchase the Trainer 50?
- * Need a plane to test automatic take off and landing suitable for rural location i.e. can handle the rough strip.  Also if we crash it how long to get a replacement in the air.
+ * Need a plane to test automatic take off and landing suitable for rural location e.g. can handle the rough strip.  Also if we crash it how long to get a replacement in the air.
  * Perhaps use the Beaver?  Put smaller engine in it and smaller prop?
  * Still concern Oil from engine exhaust getting on flight surfaces - could get in airspeed tubes or worse on the camera lens.  A problem that needs to be solved!
  * So test with the Beaver to see how the oil issue goes and if its fine then Trainer 50 can be purchased.
@@ -71,7 +71,7 @@ mu-thermal-camera
 ^^^^^^^^^^^^^^^^^
 
  * Another update - working part of software taking raw thermal part and converting to video
- * Stefan Gofershay (sp?) from Finland - working with UAVs in Finland.  Testing Thermal cameras.  Most clothing has a different degree of reflectivity in near infra-red then most other substances.  With colour version of a camera the pattern of colour you get from manufactured clothing then surround terrain.  People wearing camo gear very low thermal signature but cheap knock off can be spotted easily on near infrared.
+ * Stefan Gofferje from Finland - working with UAVs in Finland.  Testing Thermal cameras.  Most clothing has a different degree of reflectivity in near infra-red then most other substances.  With colour version of a camera the pattern of colour you get from manufactured clothing then surround terrain.  People wearing camouflage gear very low thermal signature but cheap knock off can be spotted easily on near infrared.
 
 
 SAR-scenarios

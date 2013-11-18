@@ -11,7 +11,7 @@ These hints have been taken from CanberraUAV's efforts for the 2012 OBC, in addi
 
 Organisational:
  
- * A good number of team members is 4-7. Any fewer and you'll have too much work per person (unless you're doing this fulltime). Any more and it'll be too difficult to manage and organise everyone.
+ * A good number of team members is 4-7. Any fewer and you'll have too much work per person (unless you're doing this full-time). Any more and it'll be too difficult to manage and organise everyone.
  * Have a well structured and easily accessible central repository of data and documents. The data will accumulate faster than you think.
  * Have 1 person act as Team Manager to make sure things are going according to schedule.
  * Have a realistic schedule! Be prepared to change it in the face of airframe, technology, etc changes. As a general rule you should be settled on the hardware platform 6 months out and you should be able to fly a scaled-down OBC mission at 2 months out from the Challenge.
@@ -27,7 +27,7 @@ Testing:
  * Use small RC aircraft as test platforms - they are far easier to repair or replace.
  * Build up your own RC flying skills.
  * Test the ground station operations and procedures to ensure they fit into the 1 hour time slot for the Challenge.
- * Make checklists and operations manuals to reduce the risk of something being forgotten.
+ * Make check-lists and operations manuals to reduce the risk of something being forgotten.
  * Log all the flights!! Telemetry data is essential for debugging a crashed flight after-the-fact.
  * Take photos and videos of the flight where possible!
  * Do a few practice OBC's to ensure the everything works together.
@@ -60,7 +60,7 @@ Autopilot:
    
 Radios
 
- * Be aware of the Australian limitations on the maximum EIRP of radiotransmitters:
+ * Be aware of the Australian limitations on the maximum EIRP of radio transmitters:
  
    * For the 900MHz band 1W EIRP (minimum 20 hopping channels - a frequency hopping transmitter).
    * 4W  EIRP for the 5.8 GHz band and 2.4 GHz band (a digital modulation radiotransmitter).
@@ -75,9 +75,9 @@ Camera and Image Detection
 
  * Check that the camera can easily see a person (want a minimum of 20cm/pixel) from the UAV.
  * The camera's field of view and the UAV's altitude will determine how large an area can be captured per frame.
- * Vibration from the UAV's powerplant (see Airframe section) can lead to blurred images. A camera with a global shutter will vastly reduce this problem.
+ * Vibration from the UAV's power plant (see Airframe section) can lead to blurred images. A camera with a global shutter will vastly reduce this problem.
  * If doing automatic image detection on the UAV, prepare to spend plenty of time fine-tuning the algorithm.
- * Collect sets from test flights over a variety of terrain types (and colours). Build and use a joe dummy.
+ * Collect sets from test flights over a variety of terrain types (and colours). Build and use a Joe dummy.
  * If doing manual image detection, ensure the radio link has enough bandwidth to dump the images to the ground station in a timely manner.
  * A full description of the imaging software that CanberraUAV used can be found at http://diydrones.com/profiles/blogs/demonstration-of-canberrauav-image-search-algorithm
  
@@ -86,7 +86,7 @@ Ground Station
  
  * Have a setup that is quick and easy to build and and take down (you have 20 min in the Challenge).
  * Have some sort of sunshade for the screens - it is very sunny in Kingaroy.
- * Multiple laptops and ground station roles are a plus (ie. someone to monitor UAV status, someone to monitor the imagery).
+ * Multiple laptops and ground station roles are a plus (i.e. someone to monitor UAV status, someone to monitor the imagery).
  * Bring chairs!
  
  

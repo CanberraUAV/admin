@@ -1,5 +1,5 @@
 2013 June 24
-===========
+============
 
 Present:
 
@@ -58,7 +58,7 @@ DGPS
 OBC2014
 ^^^^^^^
 
- * Entries close on July 3rd (next week)
+ * Entries close on July 3 (next week)
  * Currently 67 teams registered. This is a similar number to the 2013 OBC
 
 
@@ -93,6 +93,6 @@ Quadcopter Workshop
 ^^^^^^^^^^^^^^^^^^^
 
  * Will cost around $730 per person (not including MHV membership costs).
- * Will be using the APM 2.6 as the PX4 is currently sold out and the Arducpter codebase has only just been released for the PX4.
+ * Will be using the APM 2.6 as the PX4 is currently sold out and the Arducopter code base has only just been released for the PX4.
  * Should be able to announce it within the next couple of days.
 

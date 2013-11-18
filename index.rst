@@ -38,7 +38,7 @@ Youtube account
 
 https://www.youtube.com/channel/UCkKf-_mAKedeAHcyh1Ykmsg
 
-Calender of Events
+Calendar of Events
 
 https://www.google.com/calendar/ical/canberrauav%40gmail.com/public/basic.ics
 

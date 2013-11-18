@@ -24,7 +24,7 @@ OBC2014
    * bare fuselage: 1.58kg
    * each wing: 1.03kg
    * total bare weight: 3.64kg
-   * spec flying weight: 4.76kg
+   * specified flying weight: 4.76kg
    * available gear weight: 1.12kg
 
  * Testing over the coming weekend at the rural location postponed due to crash 
@@ -105,7 +105,7 @@ Piksi GPS Receivers
 Questacon
 ^^^^^^^^^ 
 
- * Friday 9th August.  Had the simulator running and people could have a go with the Rascal aircraft.  Slideshow and business cards.
+ * Friday 9th August.  Had the simulator running and people could have a go with the Rascal aircraft.  Slide show and business cards.
 
 
 CASA

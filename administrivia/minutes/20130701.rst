@@ -21,7 +21,7 @@ New testing ground (Geoff's place)
 
 Excellent site for long range testing, regular use acceptable, access to a workshop and cake is provided.
 
- * Did a sucessful test flight yestersday with the full system
+ * Did a successful test flight yesterday with the full system
  * GPS issues, compass turned off (magnetic interference) in the new plane
  * camera calibration problems (roll). We need a good procedure.
  * image quality OK with the ODroid rig
@@ -35,16 +35,16 @@ Issues that require fixing:
 
  * fix roll calibration
  * work on compass issues
- * time synchronisation between GCS and ODroid - NTP misconfiguration (changed IP address)
+ * time synchronisation between GCS and ODroid - NTP mis-configuration (changed IP address)
  * cuav module should WARN if plane/GCS computers are out of sync
 
 In one month, fly again
  * Calibrated ETS airspeed sensor (possibly with self-calibrating airspeed sensor with 3 dimensional Kalman filter)
  * Calibrated roll gimbal
- * Autmoated Landing
- * Fixed GPS and Mag issues
- * better joefinding - hit (green + orange) and missed the blue one more than we would have liked.
- * Better Georeferencing
+ * Automated Landing
+ * Fixed GPS and Magnatometer issues
+ * better Joe finding - hit (green + orange) and missed the blue one more than we would have liked.
+ * Better Geo referencing
 
 PT Grey
 ^^^^^^^
@@ -64,20 +64,20 @@ Options:
 
 Data link seems hopelessly expensive.
 
-SPOT service is affordable and potentially usefull.
+SPOT service is affordable and potentially useful.
 
-Discussion about how amazing satelite tech is, path loss etc.
+Discussion about how amazing satellite technology is, path loss etc.
 
-Homework: Research the costs and features of different beacons (ie. SPOT) for next week's meeting
+Homework: Research the costs and features of different beacons (e.g. SPOT) for next week's meeting
 
-Some mention of using HF/LF datalinks. These would very long range. Would expect around a 19200 baud datarate. No idea in regards to costs or potential interference from the transmitting antenna.
+Some mention of using HF/LF data links. These would very long range. Would expect around a 19200 baud data rate. No idea in regards to costs or potential interference from the transmitting antenna.
 
 
 workshops
 ^^^^^^^^^
 
  * quadcopter workshop is filling up
- * cutoff date on Thursday
+ * cut off date on Thursday
 
 
 SAR-scenarios

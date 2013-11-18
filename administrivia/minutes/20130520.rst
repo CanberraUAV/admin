@@ -87,7 +87,7 @@ OBC2014
    * Hardware
    * Ground station
    * Launch System
-   * Radio Comms
+   * Radio Communications
    * Antenna Tracking
    * Software Mission planning, path planning, strategy
    * Auto landing

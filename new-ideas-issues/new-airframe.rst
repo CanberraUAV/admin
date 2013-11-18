@@ -19,7 +19,7 @@ Vital statistics / characteristics:
    - high wing, tractor
    - tail dragger, fixed landing gear
  * rapid, accurate production (extensive use of bespoke jigs)
- * low cost materials: foam, glass, epoxy, pulltruded CF ribons etc.
+ * low cost materials: foam, glass, epoxy, pulltruded CF ribbons etc.
  * minimum waste; design airframe around generic material sizes
 
 Alternatives considered:
@@ -35,13 +35,13 @@ Wing Layout, 5 segments (cut from 2400*1200 stock, using 800mm bow):
    * outboard segment: 60cm, strip aileron (<20%)
    * inboard segment: 40cm, fowler-style flaps (>30%)
 
- * center panel:
+ * centre panel:
    * 40cm,
    * fixed/incorporated into airframe, non-removable
    * large fuselage access hatch behind main spar
 
- * notable fairing, blends center section into fusleage:
+ * notable fairing, blends center section into fuselage:
    * lower surface -> fuselage walls, 60 degrees off vertical
-   * TE strake, accomodating/streamlining lower surface fairing
+   * TE strake, accommodating/streamlining lower surface fairing
    * windows in fairing for roll-stabilised twin NADIR camera setup
 

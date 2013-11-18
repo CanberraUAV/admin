@@ -17,8 +17,8 @@ Report on in-progress items
 ---------------------------
 
 
-Satelite Backup
-^^^^^^^^^^^^^^^
+Satellite Backup
+^^^^^^^^^^^^^^^^
 
 Options:
 

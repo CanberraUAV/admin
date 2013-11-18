@@ -10,6 +10,6 @@ Pandaboard                                   Digikey          5/10/2012 $195.00 
 4x Castle Creations UBec's                   Tower Hobbies    6/7/2012  $103.17   Tridge
 Chameleon Camera (Backup)                    PtGrey           6/15/2012 $491.32   Tridge
 Chameleon Camera (Primary)                   PtGrey           7/25/2012 $475      Tridge
-Chameleon Camera (B/W)                       PtGrey           7/25/2012 $475      mfj
+Chameleon Camera (B/W)                       PtGrey           7/25/2012 $475      Fagan
 Gazebo                                       Bunnings         3/9/2012  $229      Tridge
 ============================================ =============== ========== ========= =========

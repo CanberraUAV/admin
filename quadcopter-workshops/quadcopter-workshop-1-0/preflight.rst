@@ -1,7 +1,7 @@
 .. quadcopter-preflight:
 
-Checklists
-==========
+Check-lists
+===========
 
 Post-build checklist
 --------------------
@@ -14,10 +14,10 @@ This will assist in detecting any parts of the build manual you may have missed
 * ESC's calibrated
 * Accelerometers calibrated
 * Parameters file loaded
-* RC Transmitter bound to reciever
+* RC Transmitter bound to receiver
 * Propellers and motors the correct way around
 * Confirm GPS lock
-* Confirm flight modes switch Stablilize -> ALT_HOLD -> Loiter
+* Confirm flight modes switch Stablilise -> ALT_HOLD -> Loiter
 * Confirm Land mode activates via side switch
 * Check roll and pitch values look correct with quadcopter is moved around
 * (Without propellers on) confirm all motors spin
@@ -39,7 +39,7 @@ At the field:
 * Turn on text-to-speech mode to get audio feedback of mode changes
 * Be aware of weather conditions. Particularly wind
 * Bring the quadcopter down if people are in the vicinity
-* If you think something is going wrong, bring the quacopter down immediately
+* If you think something is going wrong, bring the quadcopter down immediately
 * Check for damage after a heavy landing
 * Don't forget to DISARM the quadcopter immediately after landing
 

@@ -34,7 +34,7 @@ OBC2014
 Techpod Testing
 ^^^^^^^^^^^^^^^
 
- * First take off a bit rough.  2nd and 3rd flights much better.
+ * First take off a bit rough.  Second and third flights much better.
  * Massive overkill on the motor for the techpod. Looking into gearboxes as we can't find a motor that fits the needs.
 
 

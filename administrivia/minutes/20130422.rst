@@ -11,7 +11,7 @@ Report on in-progress items
 :ref:`cmac-weather-station`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
  * Still haven't evaluated if the camera is repairable
- * Approved order replaceent of RaspberryPi
+ * Approved order replacement of RaspberryPi
 
 :ref:`dgps`
 ^^^^^^^^^^^

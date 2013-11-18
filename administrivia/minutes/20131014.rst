@@ -80,7 +80,7 @@ schools-program
 ^^^^^^^^^^^^^^^
 
  * Back in Canberra
- * Given the last-minute issues with the Hugin airframe, they did quite well!
+ * Given the last-minute issues with the Huggin airframe, they did quite well!
  * Successful flight, but they weren't able to decipher the text on the ground.
 
 

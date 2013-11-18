@@ -28,7 +28,7 @@ bixler_workshop
  * Alex has the documentation
  * CG to follow up with Alex?
  * Jack to email Chris what he sent Alex
- * some discussion about APM vs Px4 (with / without PX4IO)
+ * some discussion about APM vs PX4 (with / without PX4IO)
  * probably support any choice (bring what you have) or recommend PX4
  * noted current sensor hack required (capacitor required for smoothing)
  * No Airspeed sensor at the moment
@@ -69,7 +69,7 @@ OBC2014
 Other business
 --------------
 
- * nice test flights in the Boomerang 60 / Px4
+ * nice test flights in the Boomerang 60 / PX4
  * next steps, install camera rig etc (as per OBC2012)
  * then it will serve as current test platform
  * ArduPlane 2.7.3 released today

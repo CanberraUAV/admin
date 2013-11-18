@@ -39,7 +39,7 @@ Bixler workshop
 
  * Eyal doing bulk purchase
  * Some parts don't appear to be available
- * Changing to Orange Rx/Tx modules as couldn't find PPM output on FrSky modules.
+ * Changing to Orange transmitter and receiver modules as couldn't find PPM output on FrSky modules.
  * First workshop on 28th August.  2 workshops building and following Sunday will be flying
 
 

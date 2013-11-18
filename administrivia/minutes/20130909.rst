@@ -39,7 +39,7 @@ Piksi GPS
 Arboretum
 ^^^^^^^^^
 
- * Cristopher Brak is talking regularly with Chris G.  Might have a flight of Cropcam based on Micropilot that Cristopher has.
+ * Cristopher Brack is talking regularly with Chris G.  Might have a flight of Crop-cam based on Micro-pilot that Cristopher has.
 
 
 Quadcopter workshop

@@ -1,5 +1,5 @@
 2013 June 10
-===========
+============
 
 Present:
 
@@ -71,7 +71,7 @@ Other business
 Mt Kosciusko Trip
 ^^^^^^^^^^^^^^^^^
 
- * On the 9th June several members went down to Mt Kosciusko to participate in a real life S&R scenario, in support of the missing bushwalker Prabhdeep Srawn. Background information available at http://www.abc.net.au/news/2013-06-10/family-offers-24100k-reward-to-find-missing-snowy-mountains-bu/4744274
+ * On the 9th June several members went down to Mt Kosciusko to participate in a real life S&R scenario, in support of the missing bush walker Prabhdeep Srawn. Background information available at http://www.abc.net.au/news/2013-06-10/family-offers-24100k-reward-to-find-missing-snowy-mountains-bu/4744274
  * Due to the short lead time (24 hours notice) we were only able to use a Bixler fitted with the GoPro camera.
  * The difficult terrain and poor weather conditions made mission planning a challenge.
  * Because of this, the Bixler did not come back from the S&R mission and is assumed crashed on the side of a mountain.
@@ -82,8 +82,8 @@ Lessons Learned
  
  * The mission generation software needs to take into account the maximum climb rate and flight range of the UAV being flown.
  * A much larger airframe (like the Techpod) would be far more likely to have enough power and range for this sort of scenario.
- * The ground station needs better antenna stands - like a squidpole.
- * In mountainous regions line-of-sight radio comms cannot be guaranteed.
+ * The ground station needs better antenna stands - like a squid pole.
+ * In mountainous regions line-of-sight radio communications cannot be guaranteed.
  * Proper boxes for our equipment would make transportation more efficient.
  * We need to be able to provide the S&R people with a list of our capabilities and requirements, to ensure that our presence would be useful.
  
@@ -93,14 +93,14 @@ Actions required
  * The Bixler needs to be replaced. Tridge will buy the replacement airframe, PX4, ESC, Battery, GPS and RC RX
  * Stephen will buy the replacement GoPro (Silver) and spare battery, micro SD cards and RFD900 radio
  * Stephen will look into the particularly and cost of using satellite modems for telemetry
- * Stephen will buy a squidpole (and base) for the ground station
+ * Stephen will buy a squid pole (and base) for the ground station
 
  
 Website and Mailing List
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
  * Still having troubles with the mailing list(s) going offline sporadically
- * Alastair and Tridge attempted to buy upgraded memory for the Rackspace VM running the list(s), but encountered technical difficulties
+ * Alistair and Tridge attempted to buy upgraded memory for the Rackspace VM running the list(s), but encountered technical difficulties
  * Tridge is happy to run the list(s) on his home server
  * The CanberraUAV website will hopefully be updated/refreshed in the next couple of weeks, once Stephen figures out Drupal
  

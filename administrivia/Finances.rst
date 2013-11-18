@@ -16,17 +16,17 @@ Policy
     * Web-based services such as hosting, online journals and databases.
     * Travel expenses, where the additional expense of transporting CanberraUAV equipment (when compared to personal transport) is more than $50.
     * Insurance.
-    * General administration and regualtory compliance costs.
+    * General administration and regulatory compliance costs.
  * Receipts should be electronically submitted to the Treasurer within 30 days of the purchase. Reimbursement cannot be guaranteed after this time.
  * Any members storing physical assets should take reasonable precautions to ensure the safety and condition of the asset is maintained.
  * Any members storing (and with no current plans to use) physical assets are required to transfer the asset to any other team member that requires the asset for an approved CanberraUAV project.
  * When a member gains custody of a physical asset, they are required to advise the Equipment Officer of this. This should be done in a timely fashion.
- * If a member privately buys an asset that is found to be useful for CanberraUAV, they can be reimbursed and the asset will go into the CanberraUAV pool (ie. CanberraUAV will buy it off them).
+ * If a member privately buys an asset that is found to be useful for CanberraUAV, they can be reimbursed and the asset will go into the CanberraUAV pool (e.g. CanberraUAV will buy it off them).
  
 Procedures
 ----------
 
- * The expense must be for a approved CanberraUAV project (list of projects on Github) or for the general administration of the group (ie. insurance, web hosting, permits).
+ * The expense must be for a approved CanberraUAV project (list of projects on Github) or for the general administration of the group (e.g. insurance, web hosting, permits).
  * Any purchases of less than $200 can be verbally approved by the President or Treasurer. If the item is a common non-consumable item should be preceded by an “FYI” email to the CanberraUAV mailing list in order to double-check that nobody else on the team already has the part(s) in question.
  * Any purchases of $200 or greater must be discussed and approved (by general consensus) a CanberraUAV meeting and published in the resulting minutes. This should include a note of who is organising the purchase.
  * Any urgent purchases of $200 or greater that cannot wait for approval at the next CanberraUAV meeting can be approved by consensus among the President, Vice President, Treasurer and Secretary.

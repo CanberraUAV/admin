@@ -27,8 +27,8 @@ CSIRO
  * 2 adjacent fields, 2km * 1km (split by a road)
  * seeking permission to fly there
 
-:ref:`mhv-quadcopter-workshop`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+mhv-quadcopter-workshop
+^^^^^^^^^^^^^^^^^^^^^^^
 
  * workshop was finished over the weekend, flying over Saturday and Sunday
  * lots of work, lots of Fun.

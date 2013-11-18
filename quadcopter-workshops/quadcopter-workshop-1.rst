@@ -3,7 +3,7 @@
 MHV Quadcopter Workshop 1.0 (March 2013)
 =======================================
 
-Developer: Stephen. With help from Tridge, Jack, Alastair, Andreas and Chris (Wolfe)
+Developer: Stephen. With help from Tridge, Jack, Alistair, Andreas and Chris (Wolfe)
 
 The purpose of this workshop was to guide a group of 12 attendees through the process of building, calibrating and flying APM-based quadcopters.
 
@@ -56,11 +56,11 @@ Lessons Learned
 * Run a beta workshop beforehand with a few friends (particularly if using a custom hardware setup) to ensure all the bits and pieces fit together and are compatible with each other.
 * Don't skimp out on the frame. Use a decent, strong frame.
 * A ratio of 1 expert to every 3 to 5 attendees will cover most technical issues encountered by the attendees.
-* It is very easy for attendees to get left behind in the build process. Schedule 1 or 2 small catchup sessions between the workshop evenings.
-* Make sure you have enought screwdrivers, soldering irons and other tools.
+* It is very easy for attendees to get left behind in the build process. Schedule 1 or 2 small catch up sessions between the workshop evenings.
+* Make sure you have enough screwdrivers, soldering irons and other tools.
 * When ordering parts in bulk (such as motors and propellers) make sure the supplier has enough stock to cover your whole order.
 * Always check RTL mode works correctly (by holding the quadcopter above your head and enabling RTL) before relying on it during an emergency.
-* Fly well away from populated areas in case a quadcopter goes crazy and flys away.
+* Fly well away from populated areas in case a quadcopter goes crazy and flies away.
 * Check vibration level in Mission Planner.
 * Always use telemetry radio logging.
 
@@ -72,4 +72,4 @@ Ideas For Future Workshops
 * Prop shrouds for safety.
 * Use AR Drone frame and PX4 electronics.
 * Use more solid frames from jDrones.
-* Use the Turnigy 9xR Transmitter - it already has the firmware and backlight modifications done.
+* Use the Turnigy 9xR Transmitter - it already has the firmware and back-light modifications done.

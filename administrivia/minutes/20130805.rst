@@ -33,7 +33,7 @@ Quadcopter workshop
 ^^^^^^^^^^^^^^^^^^^
 
  * Second workshop last Wednesday went well
- * Performed flashing of all transmitters and ESC and setting up Sims on peoples laptop.
+ * Performed flashing of all transmitters and ESC and setting up simulators on peoples laptop.
  * Still waiting PX4s to be delivered.  Hopefully this week.
 
 
@@ -93,6 +93,6 @@ CASA
 ^^^^
 
  * Guy from CASA is coming into Dickson College at 11am on Friday.  Stephen and Jack will also try to attend.
- * Tridge looking into getting a UAV Operator certificate under CASA.  Thinks it is achieveable.  First step is to pass Private Pilot License theory test.
+ * Tridge looking into getting a UAV Operator certificate under CASA.  Thinks it is achievable.  First step is to pass Private Pilot License theory test.
 
 

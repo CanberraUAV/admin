@@ -8,8 +8,8 @@ Recommended tools are:
  * USBASP programmer for Atmel MCU's
  * Hex (Allen) wrenches
  * Soldering iron
- * Heat gun for heatshrinking
- * Velcro, tape, wireties
+ * Heat gun for heat shrinking
+ * Velcro, tape, wire ties
 
  
 Note all prices below are in $USD.
@@ -25,7 +25,7 @@ Note all prices below are in $USD.
 +---------------------------+--------------------------------------------------------------------+----------+-------------+
 | ESC's                     | `20A Multistar`_                                                   | 4        |     $40     |
 +---------------------------+--------------------------------------------------------------------+----------+-------------+
-| RC Transmitter/Reciever   | `turnigy 9xr`_                                                     | 1        |     $50     |
+| RC Transmitter/Receiver   | `turnigy 9xr`_                                                     | 1        |     $50     |
 |                           +--------------------------------------------------------------------+----------+-------------+
 |                           | `OrangeRX TX Module`_                                              | 1        |     $31     |
 |                           +--------------------------------------------------------------------+----------+-------------+
