@@ -1,0 +1,103 @@
+2013 November 18 
+================
+
+present:
+
+ * Darrell Burkey
+ * Grant Morphett
+ * Greg Oakes
+ * Jack Pittar
+ * James Patterson
+ * Paul Warren
+ * Stephen Dade
+ 
+
+Report on in-progress items
+---------------------------
+
+
+OBC2014
+^^^^^^^
+
+ * Long range test weekend Sunday 23 weather dependant.
+
+	* 10am everyone at CMAC
+	* Some then depart for Redhill - ground station team
+	* Possibly start flight at 11:30am - need to wait until most of CMAC Flyers have finished
+
+ * Website and mailing list transfer to Tridge's servers.  Still outstanding.
+
+
+Piksi GPS
+^^^^^^^^^
+
+ * Backed Kickstarter project.  We have purchased 2.
+ * Email received last week.  They have received Hardware boards.  They are flashing them now.
+ * They are awaiting radios from 3DRobotics
+
+
+Arboretum
+^^^^^^^^^
+
+ * no action noted
+
+
+Quadcopter workshop
+^^^^^^^^^^^^^^^^^^^
+
+ * Still awaiting parts
+
+
+Bixler workshop
+^^^^^^^^^^^^^^^
+
+ * All parts have arrived.
+ * Workshop this Wednesday night and the following Wednesday
+
+
+mu-thermal-camera
+^^^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Schools Program
+^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Antenna Tracker
+^^^^^^^^^^^^^^^ 
+
+ * Matt working on it
+ 
+
+Other business
+--------------
+
+
+Gungahlin Collage
+^^^^^^^^^^^^^^^^^
+
+ * Showing them the flying
+ * Copter crashed.  The vibration had loosened a motor connector and the motor let go.
+ * They are interested in getting training
+ * Aerodynamics appears to be the main interest 
+
+
+Telstra SIM Cards
+^^^^^^^^^^^^^^^^^
+
+ * Separate data link used for video streaming
+ * Could also be used as a back telemetry link in case we lots the 5.8GHz or the 915MHz
+ * Need a static IP on one of the wireless modes
+ * Stephen will follow up
+
+
