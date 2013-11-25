@@ -1,0 +1,101 @@
+2013 November 18 
+================
+
+present:
+
+ * Andrew Moss
+ * Fergus McCracken
+ * Grant Morphett
+ * Greg Oakes
+ * Jack Pittar
+ * James Patterson
+ * Paul Warren
+ * Stephen Dade
+ * Andrew Tridgell
+ 
+
+Report on in-progress items
+---------------------------
+
+
+OBC2014
+^^^^^^^
+
+ * Long range test done on Sunday - Beaver suffered heavy crash
+ * Beaver not as bad as it seems.  Jack can repair it (amazing).
+ * Network on ground station worked very well.
+ * Bit of noise on 915MHz radio from the hill top.
+ * Website and mailing list transfer to Tridge's servers.  Domain register transfer pending.  Should come through overnight.
+
+ * Auto landing capability being worked on
+ * Imaging software
+
+	* On phone to Gene Robinson (book writer)
+	* Tridge and Gene Skype called to share screen and go over data
+	* Gene will gather more test data via reference test flights and Tridge will try to improve imaging based on this.
+	* Plan to get it more widely used by other SAR groups
+	* Chris and Tridge have done a large number of improvements over the past few weeks
+
+ * Bottle drop mechanism - Grant to fit water bottle to existing prototype so it can be tested on Sunday from the Ugly Stick.
+
+ * Lorenz Meier arriving.  Doing test flights Saturday and Sunday with him possibly flying a Pixhawk.  New ready to fly 3DR Plane possibly this weekend.  One currently called IRIS and this is a new fixed wing one.
+ * Airspeed indicator didn't work on take-off.  Seems to be reading data from sensor during flight.  Pitot tube is bent - Tridge will order new ones. 
+
+
+Piksi GPS
+^^^^^^^^^
+
+ * no action noted
+
+
+Arboretum
+^^^^^^^^^
+
+ * no action noted
+
+
+Quadcopter workshop
+^^^^^^^^^^^^^^^^^^^
+
+ * Still awaiting parts
+
+
+Bixler workshop
+^^^^^^^^^^^^^^^
+
+ * All parts have arrived.
+ * Workshop this Wednesday night - turn up last week was very small.
+
+
+mu-thermal-camera
+^^^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Schools Program
+^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Antenna Tracker
+^^^^^^^^^^^^^^^ 
+
+ * no action noted
+ 
+
+Other business
+--------------
+
+
+Telstra SIM Cards
+^^^^^^^^^^^^^^^^^
+
+ * no action noted
