@@ -73,5 +73,5 @@ Other business
  * next steps, install camera rig etc (as per OBC2012)
  * then it will serve as current test platform
  * ArduPlane 2.7.3 released today
- * Some discussion about EagleTree i2c sensor / new Nuttx driver, 
+ * Some discussion about EagleTree "I2C" sensor / new Nuttx driver, 
  * Tridge away this weekend, we should aim to get some flying done during the week if possible.
