@@ -176,3 +176,5 @@ Skype
 Pitot
 Lorenz
 Meier
+Wordpress
+Joomla
