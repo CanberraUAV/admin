@@ -1,0 +1,81 @@
+2013 December 16 
+================
+
+present:
+
+ * Darrell Burkey
+ * Fergus McCracken
+ * Grant Morphett
+ * Jack Pittar
+ * Paul Warren
+ * Stephen Dade
+ * Andrew Tridgell
+
+
+Report on in-progress items
+---------------------------
+
+
+OBC2014
+^^^^^^^
+
+ * Bottle drop - Testing from the weekend was good.  Drogue chute testing was good with new release mechanism.
+ * Failsafe mechanism needs to be "re-discovered".  
+
+      * Failsafe board doesn't know what mode your in so doesn't know whether loss of RC control is bad thing or not.  That decision needs to be made by component of aircraft which knows what mode it is in because correct action depends on mode.  Therefore decision must be in APM.  APM knows mode, it knows if in manual mode and you loose RC stop sending heartbeat to failsafe board and raise failsafe pin to failsafe board.  This effectively instructs the failsafe board to enter failsafe.  Its de-bounced by the APM - the OBC module in the APM.
+
+ * Priorities for January - More bottle drop testing, fail safe functioning, Beaver build and flying.  Radio range testing.
+ * Website - being worked on over Christmas
+
+
+Piksi GPS
+^^^^^^^^^
+
+ * Supposed to arrive by Christmas - haven't heard anything.  Probably not by Christmas now.
+
+
+Arboretum
+^^^^^^^^^
+
+ * no action noted
+
+
+Quadcopter workshop
+^^^^^^^^^^^^^^^^^^^
+
+ * Pixhawk shipping any minute now - seriously!  Probably in January now.
+
+
+mu-thermal-camera
+^^^^^^^^^^^^^^^^^
+
+ * They are still working on this - they haven't vanished.
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Schools Program
+^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Antenna Tracker
+^^^^^^^^^^^^^^^ 
+
+ * no action noted
+ 
+
+Other business
+--------------
+
+
+Telstra SIM Cards
+^^^^^^^^^^^^^^^^^
+
+ * Awaiting John Telek
+
