@@ -27,6 +27,9 @@ pygments_style = 'sphinx'
 
 # -- Options for HTML output ---------------------------------------------------
 html_theme = 'default'
+html_theme_options = {
+    "nosidebar": "true"
+}
 html_static_path = ['_static']
 htmlhelp_basename = 'CanberrraUAVAdministriviadoc'
 
