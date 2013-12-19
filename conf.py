@@ -28,6 +28,7 @@ pygments_style = 'sphinx'
 # -- Options for HTML output ---------------------------------------------------
 html_theme = 'default'
 html_theme_options = {
+    "rightsidebar": "true",
     "nosidebar": "true"
 }
 html_static_path = ['_static']
