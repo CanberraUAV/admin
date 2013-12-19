@@ -26,10 +26,10 @@ exclude_trees = ['_build']
 pygments_style = 'sphinx'
 
 # -- Options for HTML output ---------------------------------------------------
-html_theme = 'traditional'
-html_theme_options = {
-    "nosidebar": "true"
-}
+html_theme = 'haiku'
+#html_theme_options = {
+#    "nosidebar": "true"
+#}
 html_static_path = ['_static']
 htmlhelp_basename = 'CanberrraUAVAdministriviadoc'
 
