@@ -6,8 +6,51 @@
 
  * :download:`Rules have been announced !<OBC2014/UAVCRulesSearchAndRescue2014v1_0.pdf>`,
 
-Action required:
 
- * Clarification/permission from competition organisers about CanberraUAV fielding two teams
- * rules mention an OBC operations manual. Can we get a copy?
+December 2013 Status and Todo list
+----------------------------------
+
++---------------------------+--------------------------------------+-------------------------------------------+------------------------+
+| System                    | Subsystem                            |Status                                     | Assigned People        |
++===========================+======================================+===========================================+========================+
+| Airframe                  | Wings                                |Setting up for fabrication                 | Chris                  |
+|                           | Fuselage                             |Setting up for build. Need wing dimensions | Jack                   |
+|                           | Engine                               |Will buy off-the-shelf once other specs    | Jack                   |
+|                           |                                      |are known                                  |                        |
++---------------------------+--------------------------------------+-------------------------------------------+------------------------+
+| Bottle Drop               | Bottle drop mechanism                |Testing two prototypes                     | Jack and Grant         |
+|                           | Bottle drop software                 |Data from drop tests will be incorporated  | Tridge                 |
+|                           |                                      |into software for better drop accuracy     |                        |
++---------------------------+--------------------------------------+-------------------------------------------+------------------------+
+| Flight Control            | PX4 controller                       |Flight testing and bug fixes as needed     | Tridge                 |
+|                           | GPS system                           |Awaiting delivery of Piksi GPS             | Stephen and Tridge     |
+|                           | Failsafe processing                  |Flight testing and bug fixes as needed     | Tridge                 |
+|                           | RC Control                           |Using same RX/TX as last time              | Jack                   |
++---------------------------+--------------------------------------+-------------------------------------------+------------------------+
+| Imaging                   | Camera hardware and mount            |Most likely using same camera. Need new    | Tridge and Jack        |
+|                           |                                      |stabilised mount.                          |                        |
+|                           | Image processing CPU/board           |Most likely using the Odroid               | Tridge                 |
+|                           | Image processing software            |Performance and accuracy improvements,     | Matt and Tridge        |
+|                           |                                      |with plenty of flight testing              |                        |
++---------------------------+--------------------------------------+-------------------------------------------+------------------------+
+| Data links                | 900 MHz link                         |More testing needed to confirm available   | Tridge                 |
+|                           |                                      |bandwidth. Possible use of better modems   |                        |
+|                           |                                      |or antennas                                |                        |
+|                           | 5.8 GHz link                         |Using same (Ubiquity) hardware as last time| Tridge                 |
+|                           | One-way link to spectators           |Investigating with organisers              | Stephen                |
+|                           | Live video or telemetry via 3G link  |Investigating feasibility                  | James                  |
++---------------------------+--------------------------------------+-------------------------------------------+------------------------+
+| Ground Control Station    | Physical station                     |Conversion of Chris' van into a portable   | Chris                  |
+|                           |                                      |ground station                             |                        |
+|                           | Tracking antenna                     |Under development                          | Matt                   |
+|                           | Networking hardware and fitout       |Have basic setup until Chris' van is done  | Chris and Stephen      |
+|                           | Software                             |BYO Laptops. MAVProxy software updates to  | Chris, Tridge          |
+|                           |                                      |have GUI                                   | and Stephen            |
++---------------------------+--------------------------------------+-------------------------------------------+------------------------+
+| Admin                     | Deliverable 2                        |Start work in early March                  | Stephen                |
+|                           | Deliverable 3                        |Start work in June                         | Stephen                |
+|                           | Website                              |Will be replaced soon                      | Stephen                |
+|                           | Media and Photography                |Ongoing                                    | Darrell and Jono       |
+|                           | Logistics of Kingaroy travel         |Start organising in June                   | Stephen                |
++---------------------------+--------------------------------------+-------------------------------------------+------------------------+
 
