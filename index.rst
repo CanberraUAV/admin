@@ -1,4 +1,4 @@
-CanberrraUAV Documentation 
+CanberraUAV Documentation 
 ==========================
 
 This is CanberraUAV's living documentation.
