@@ -17,7 +17,7 @@ spelling_show_suggestions=True
 templates_path = ['_templates']
 source_suffix = '.rst'
 master_doc = 'index'
-project = u'CanberrraUAV Administrivia'
+project = u'CanberraUAV Administrivia'
 copyright = u'2013, CanberraUAV Team'
 
 version = '0.1'
@@ -31,11 +31,11 @@ html_theme = 'haiku'
 #    "nosidebar": "true"
 #}
 html_static_path = ['_static']
-htmlhelp_basename = 'CanberrraUAVAdministriviadoc'
+htmlhelp_basename = 'CanberraUAVAdministriviadoc'
 
 # -- Options for LaTeX output --------------------------------------------------
 latex_documents = [
-  ('index', 'CanberrraUAVAdministrivia.tex', u'CanberrraUAV Administrivia Documentation',
+  ('index', 'CanberraUAVAdministrivia.tex', u'CanberraUAV Administrivia Documentation',
    u'CanberraUAV Team', 'manual'),
 ]
 
