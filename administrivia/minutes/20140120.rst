@@ -1,0 +1,80 @@
+2014 January 20 
+===============
+
+present:
+
+ * Darrell Burkey
+ * Fergus McCracken
+ * Grant Morphett
+ * Jack Pittar
+ * Jonathan Parrott
+ * James Patterson
+ * Paul Warren
+ * Stephen Dade
+ * Andrew Tridgell
+
+
+Report on in-progress items
+---------------------------
+
+
+OBC2014
+^^^^^^^
+
+ * Really need to solidify the airframe as deliverable 2 is due in April and it needs to contain details about the final airframe.
+ * Beaver test flight Wednesday morning at CMAC.
+
+
+Piksi GPS
+^^^^^^^^^
+
+ * no action noted.
+
+
+Arboretum
+^^^^^^^^^
+
+ * no action noted
+
+
+Website
+^^^^^^^ 
+
+ * Is done. Tridge snowed under last week but will transfer to the live server sometime this week.
+
+
+Quadcopter workshop
+^^^^^^^^^^^^^^^^^^^
+
+ * Final session of workshop Wednesday evening next week.
+ * After which need to arrange flying sessions.
+
+
+mu-thermal-camera
+^^^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Schools Program
+^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Antenna Tracker
+^^^^^^^^^^^^^^^ 
+
+ * no action noted
+ 
+
+Other business
+--------------
+
+
