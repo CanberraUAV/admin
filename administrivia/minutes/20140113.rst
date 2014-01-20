@@ -20,11 +20,11 @@ Report on in-progress items
 OBC2014
 ^^^^^^^
 
- * Beaver is almost repaired - just needs the doors put back on and some re-covering work. Should be ready for re-maidening the weekend after next.
+ * Beaver is almost repaired - just needs the doors put back on and some re-covering work. Should be ready for maiden flight (again) the weekend after next.
  
  * Chris has started the vacuum formed wings with a few prototypes. Final set of wings should be ready in three weeks.
  
- * The helibox broke during testing last weekend (structural failure just after release from aircraft). Grant is looking at making a stronger frame for it.
+ * The Helibox broke during testing last weekend (structural failure just after release from aircraft). Grant is looking at making a stronger frame for it.
 
 
 Piksi GPS
@@ -37,7 +37,7 @@ Quadcopter workshop
 
  * Pixhawks have arrived.
  
- * The final session of the workshop have been scheduled for the 22nd Jan. This may need to changed to the 29th, depending on MHV's relocation schedule.
+ * The final session of the workshop have been scheduled for the 22 Jan. This may need to changed to the 29, depending on MHV's relocation schedule.
 
 
 mu-thermal-camera

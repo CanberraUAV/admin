@@ -36,7 +36,7 @@ Quadcopter workshop
 
  * Pixhawks were shipped from the USA a few days after Christmas. Should be in Canberra in a week or two.
  
- * The final sessions of the workshop have (tentatively) been scheduled for the 22nd Jan. This may need to changed depending on MHV's relocation schedule.
+ * The final sessions of the workshop have (tentatively) been scheduled for the 22 Jan. This may need to changed depending on MHV's relocation schedule.
 
 
 mu-thermal-camera

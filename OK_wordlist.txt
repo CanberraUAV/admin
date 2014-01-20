@@ -178,3 +178,8 @@ Lorenz
 Meier
 Wordpress
 Joomla
+Telek
+Pixhawks
+mW
+Lebidinsky
+Odroid

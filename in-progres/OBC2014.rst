@@ -17,8 +17,8 @@ December 2013 Status and Todo list
 |                           +--------------------------------------+-------------------------------------------+------------------------+
 |                           | Fuselage                             |Setting up for build. Need wing dimensions | Jack                   |
 |                           +--------------------------------------+-------------------------------------------+------------------------+
-|                           | Engine                               |Will buy off-the-shelf once other specs    | Jack                   |
-|                           |                                      |are known                                  |                        |
+|                           | Engine                               |Will buy off-the-shelf once other          | Jack                   |
+|                           |                                      |specifications are known                   |                        |
 +---------------------------+--------------------------------------+-------------------------------------------+------------------------+
 | Bottle Drop               | Bottle drop mechanism                |Testing two prototypes                     | Jack and Grant         |
 |                           +--------------------------------------+-------------------------------------------+------------------------+
@@ -56,7 +56,7 @@ December 2013 Status and Todo list
 |                           +--------------------------------------+-------------------------------------------+------------------------+
 |                           | Tracking antenna                     |Under development                          | Matt                   |
 |                           +--------------------------------------+-------------------------------------------+------------------------+
-|                           | Networking hardware and fitout       |Have basic setup until Chris' van is done  | Chris and Stephen      |
+|                           | Networking hardware and fit-out      |Have basic setup until Chris' van is done  | Chris and Stephen      |
 |                           +--------------------------------------+-------------------------------------------+------------------------+
 |                           | Software                             |BYO Laptops. MAVProxy software updates to  | Chris, Tridge          |
 |                           |                                      |have GUI                                   | and Stephen            |
