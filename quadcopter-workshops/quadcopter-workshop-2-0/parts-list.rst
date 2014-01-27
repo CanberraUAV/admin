@@ -31,7 +31,7 @@ Note all prices below are in $USD.
 |                           +--------------------------------------------------------------------+----------+-------------+
 |                           | `OrangeRX RX Module (S.Bus)`_                                      | 1        |     $21     |
 +---------------------------+--------------------------------------------------------------------+----------+-------------+
-| Autopilot                 | `PX4 and IO Board`_                                                | 1        |     $199    |
+| Autopilot                 | `Pixhawk`_                                                         | 1        |     $199    |
 +---------------------------+--------------------------------------------------------------------+----------+-------------+
 | GPS and Compass Module    | `3DR GPS Compass Module`_                                          | 1        |     $90     |
 +---------------------------+--------------------------------------------------------------------+----------+-------------+
@@ -57,19 +57,10 @@ Note all prices below are in $USD.
 +---------------------------+--------------------------------------------------------------------+----------+-------------+
 | Telemetry Radio           | `3DR 915MHz telemetry kit`_                                        | 1        |     $75     |
 +---------------------------+--------------------------------------------------------------------+----------+-------------+
-| Wiring                    | `Telemetry Cable for PX4`_                                         | 1        |     $2      |
-|                           +--------------------------------------------------------------------+----------+-------------+
-|                           | `Servo cable`_                                                     | 1        |     $1      |
-+---------------------------+--------------------------------------------------------------------+----------+-------------+
 | RC Transmitter to PC      | `PPM -> USB adapter`_                                              | 1        |     $5      |
 | Cable                     |                                                                    |          |             |
 +---------------------------+--------------------------------------------------------------------+----------+-------------+
-| Battery <-> PX4 bullet    | `3.5mm bullet connectors (bag of 10)`_                             | 1        |     $1      |
-| connectors                |                                                                    |          |             |
-+---------------------------+--------------------------------------------------------------------+----------+-------------+
-| Vibration Damping         | `MoonGel`_                                                         | 1        |     $2      |
-+---------------------------+--------------------------------------------------------------------+----------+-------------+
-| Total Cost                |                                                                    |          |     $678    |
+| Total Cost                |                                                                    |          |     $674    |
 +---------------------------+--------------------------------------------------------------------+----------+-------------+
 
 .. _D2830-11 1000kv Brushless Motor: http://www.hobbyking.com/hobbyking/store/__24529__D2830_11_1000kv_Brushless_Motor_AUS_Warehouse_.html
@@ -77,7 +68,7 @@ Note all prices below are in $USD.
 .. _`10 * 4.5 slow fly (right, bag of 4)`: http://www.hobbyking.com/hobbyking/store/__30300__Slow_Fly_Electric_Prop_1045R_SF_4_pc_Green_Right_Hand_Rotation_AUS_Warehouse_.html
 .. _`20A Multistar`: http://www.hobbyking.com/hobbyking/store/__25364__Turnigy_Multistar_20_Amp_Multi_rotor_Brushless_ESC_2_4S.html
 .. _`turnigy 9xr`: http://www.hobbyking.com/hobbyking/store/__28297__Turnigy_9XR_Transmitter_Mode_1_No_Module_.html
-.. _`PX4 and IO Board`: http://store.3drobotics.com/products/px4-fmu-flight-management-unit-plus-io-input-slash-output-kit
+.. _`Pixhawk`: https://store.3drobotics.com/products/3dr-pixhawk
 .. _`Zippy 2.45Ah 3S 30C Lipo`: http://www.hobbyking.com/hobbyking/store/__19520__ZIPPY_Flightmax_2450mAh_3S1P_30C_AUS_Warehouse_.html
 .. _`Lipo low voltage alarm`: http://www.hobbyking.com/hobbyking/store/__18987__On_Board_Lipoly_Low_Voltage_Alarm_2s_4s_.html
 .. _`Imax-B6AC`: http://www.hobbywarehouse.com.au/imax-b6ac-digital-rc-lipo-3s-battery-balance-charger-li-po-nimh.html
@@ -89,12 +80,10 @@ Note all prices below are in $USD.
 .. _`PPM -> USB adapter`: http://www.hobbyking.com/hobbyking/store/__13597__USB_Simulator_Cable_XTR_AeroFly_FMS.html
 .. _`3.5mm bullet connectors (bag of 10)`: http://www.hobbyking.com/hobbyking/store/__68__PolyMax_3_5mm_Gold_Connectors_10_PAIRS_20PC_.html
 .. _`Extra Upper Plate`: http://www.hobbyking.com/hobbyking/store/__24155__Hobbyking_X550_Glass_Fiber_Control_Board_Mount_Plate.html
-.. _`Telemetry Cable for PX4`: http://store.3drobotics.com/products/telemetry-adapter-cable-for-apm-2-5
 .. _`Servo cable`: http://www.hobbyking.com/hobbyking/store/__21758__10CM_Male_to_Male_Servo_Lead_JR_26AWG_10pcs_set_.html
 .. _`OrangeRX TX Module`: http://www.hobbyking.com/hobbyking/store/__39247__OrangeRX_DSMX_DSM2_2_4Ghz_Transmitter_Module_JR_Turnigy_compatible_AUS_Warehouse_.html
 .. _`OrangeRX RX Module (S.Bus)`: http://www.hobbyking.com/hobbyking/store/__35714__OrangeRx_R710_Spektrum_DSM2_Compatible_7Ch_w_Failsafe_AUS_Warehouse_.html
 .. _`3DR GPS Compass Module`: http://store.3drobotics.com/products/3dr-gps-ublox-with-compass
-.. _`MoonGel`: http://www.amazon.com/MG4-Moon-Drum-Damper-Pads/dp/B000E6LMR0
 .. _`Standoffs (pack of 20)`: http://www.hobbyking.com/hobbyking/store/__22734__5_6mm_x_21mm_M3_Nylon_Threaded_Spacer_10pc_.html
 .. _`Zippy FlightMax 40C 2650mAh (3S)`: http://www.hobbyking.com/hobbyking/store/__22572__ZIPPY_Flightmax_2650mAh_3S1P_40C_AUS_Warehouse_.html
 

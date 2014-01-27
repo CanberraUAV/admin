@@ -46,11 +46,11 @@ Eepe software is available from http://code.google.com/p/eepe/. ER9X firmware is
 
 Parameters File
 
-Todo
+:download:`APM Parameters <quadcopter-workshop-2-0/Quaddy4.param>`
 
 Photos and Videos
 
-Todo
+
 
 
 
