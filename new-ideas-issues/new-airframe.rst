@@ -40,7 +40,7 @@ Wing Layout, 5 segments (cut from 2400*1200 stock, using 800mm bow):
    * fixed/incorporated into airframe, non-removable
    * large fuselage access hatch behind main spar
 
- * notable fairing, blends center section into fuselage:
+ * notable fairing, blends centre section into fuselage:
    * lower surface -> fuselage walls, 60 degrees off vertical
    * TE strake, accommodating/streamlining lower surface fairing
    * windows in fairing for roll-stabilised twin NADIR camera setup

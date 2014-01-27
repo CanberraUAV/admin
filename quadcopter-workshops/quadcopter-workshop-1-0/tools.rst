@@ -11,7 +11,7 @@ Depending on your exact setup, this list may vary. This list should cover 90% of
 * Normal tape
 * Heatshrink (4cm width and 0.6 cm width)
 * Soldering iron
-* Screwdrivers (Hex and phillips head)
+* Screwdrivers (Hex and Philips head)
 * Pliers
 * Sandpaper
 * Propeller balancer

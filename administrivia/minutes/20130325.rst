@@ -27,7 +27,7 @@ CSIRO
  * 2 adjacent fields, 2km * 1km (split by a road)
  * seeking permission to fly there
 
-mhv-quadcopter-workshop
+MHV-quadcopter-workshop
 ^^^^^^^^^^^^^^^^^^^^^^^
 
  * workshop was finished over the weekend, flying over Saturday and Sunday
@@ -83,5 +83,5 @@ Other Business
 ^^^^^^^^^^^^^^^
 
  * fighting walrus: group of people developing a 3DR radio for connecting to ipad / android
- * getting it to talk to the AR.drone, H264 encoder onboard
+ * getting it to talk to the ARDrone, H264 encoder onboard
  * See Gerard Toonstra's recent work: http://fpvlab.com/forums/showthread.php?4869-The-complexities-of-streaming-HD-video-downlinks

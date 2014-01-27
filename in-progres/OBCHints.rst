@@ -63,7 +63,7 @@ Radios
  * Be aware of the Australian limitations on the maximum EIRP of radio transmitters:
  
    * For the 900MHz band 1W EIRP (minimum 20 hopping channels - a frequency hopping transmitter).
-   * 4W  EIRP for the 5.8 GHz band and 2.4 GHz band (a digital modulation radiotransmitter).
+   * 4W  EIRP for the 5.8 GHz band and 2.4 GHz band (a digital modulation radio transmitter).
    * See http://www.comlaw.gov.au/Details/F2011C00543 for full info.
    
  * Check the radio link will still work (and have enough bandwidth) over the maximum range into the search area.
@@ -86,7 +86,7 @@ Ground Station
  
  * Have a setup that is quick and easy to build and and take down (you have 20 min in the Challenge).
  * Have some sort of sunshade for the screens - it is very sunny in Kingaroy.
- * Multiple laptops and ground station roles are a plus (i.e. someone to monitor UAV status, someone to monitor the imagery).
+ * Multiple laptops and ground station roles are a plus e.g. someone to monitor UAV status, someone to monitor the imagery.
  * Bring chairs!
  
  

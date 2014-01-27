@@ -23,7 +23,7 @@ OBC2014
  * D1 finalised and super minor tweaking occurred.  Called complete in meeting and will be sent off by Stephen later this evening.
  * UC team D1 has been completed.  Jack, Andrew and Stephen assisted with the D1.
  * ADFA appear to also be on track to complete D1.
- * Andrew had Priceton University chat - flying a Huggin (small version of Muggin) based on what they read from Canberra and Dickson UAV.
+ * Andrew had Princeton University chat - flying a Huggin (small version of Muggin) based on what they read from Canberra and Dickson UAV.
  * Next testing morning at property Sunday 18 August.  Jack to contact property owner and arrange.
  * Point Grey camera still going to be used as there isn't a better alternative.
  * Grab mono camera back off Michael so Dickson collage can borrow it potentially

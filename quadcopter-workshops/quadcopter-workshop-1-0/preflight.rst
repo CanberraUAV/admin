@@ -17,7 +17,7 @@ This will assist in detecting any parts of the build manual you may have missed
 * RC Transmitter bound to receiver
 * Propellers and motors the correct way around
 * Confirm GPS lock
-* Confirm flight modes switch Stablilise -> ALT_HOLD -> Loiter
+* Confirm flight modes switch Stabilise -> ALT_HOLD -> Loiter
 * Confirm Land mode activates via side switch
 * Check roll and pitch values look correct with quadcopter is moved around
 * (Without propellers on) confirm all motors spin

@@ -28,7 +28,7 @@ OBC2014
     * Testing that the Beaver can cope with the rough runway at Geoff's place
     * Wing/Tail mounted camera testing
     * (If fitted) imaging system capture and detection testing
-    * (If done in time) Running through checklists and procedure documents
+    * (If done in time) Running through check-lists and procedure documents
 
 
  
@@ -37,7 +37,7 @@ Piksi GPS
 
  * Developers should be starting to manufacture the hardware in the next couple of weeks.
  * It is likely that we'll get our modules before Christmas.
- * No update of the softwre (RTK in particular) side of things.
+ * No update of the software (RTK in particular) side of things.
 
 
 Arboretum

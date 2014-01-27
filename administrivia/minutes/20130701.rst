@@ -35,14 +35,14 @@ Issues that require fixing:
 
  * fix roll calibration
  * work on compass issues
- * time synchronisation between GCS and ODroid - NTP mis-configuration (changed IP address)
+ * time synchronisation between GCS and ODroid - NTP misconfiguration (changed IP address)
  * cuav module should WARN if plane/GCS computers are out of sync
 
 In one month, fly again
  * Calibrated ETS airspeed sensor (possibly with self-calibrating airspeed sensor with 3 dimensional Kalman filter)
  * Calibrated roll gimbal
  * Automated Landing
- * Fixed GPS and Magnatometer issues
+ * Fixed GPS and Magnetometer issues
  * better Joe finding - hit (green + orange) and missed the blue one more than we would have liked.
  * Better Geo referencing
 
@@ -53,8 +53,8 @@ PT Grey
  * want access to their better cameras ($2K - $3K each)
 
 
-Satelite Backup
-^^^^^^^^^^^^^^^
+Satellite Backup
+^^^^^^^^^^^^^^^^
 
 Options:
 
