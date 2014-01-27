@@ -1,0 +1,83 @@
+2014 January 27 
+===============
+
+present:
+
+ * Grant Morphett
+ * Jack Pittar
+ * James Patterson
+ * Stephen Dade
+ * Andrew Tridgell
+
+
+ * Darrell Burkey
+ * Fergus McCracken
+ * Jonathan Parrott
+ * Paul Warren
+
+
+Report on in-progress items
+---------------------------
+
+
+OBC2014
+^^^^^^^
+
+ * Initial test flight of Beaver over the weekend.  Flew it today (Monday) and it flew ok.  Sunday flying it demonstrated it needs throttle to keep it going.
+ * Where is the rocket?  Tridge has it and the bullet.  Tridge and Jack will meet up to discuss how to fit to Beaver.  Camera is already in the plane.
+
+
+Piksi GPS
+^^^^^^^^^
+
+ * no action noted.
+
+
+Arboretum
+^^^^^^^^^
+
+ * no action noted
+
+
+Website
+^^^^^^^ 
+
+ * Reviews are all positive.  Tridge to switch it live in the following week.
+
+
+Quadcopter workshop
+^^^^^^^^^^^^^^^^^^^
+
+ * Final session of workshop Wednesday evening this week.
+ * Stephen has tested a Pixhawk and flying very well.
+ * Orange TX mean it was very hard to set RC failsafe.  Answer is to not configure it and let Pixhawk detect that it doesn't get signals from receiver any more and then acts appropriately.  In other words the Pixhawk has the smarts to handle when it loses contact with the RC.
+
+
+mu-thermal-camera
+^^^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Schools Program
+^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Antenna Tracker
+^^^^^^^^^^^^^^^ 
+
+ * no action noted
+ 
+
+Other business
+--------------
+
+
