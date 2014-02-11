@@ -1,0 +1,87 @@
+2014 February 10 
+===============
+
+present:
+
+ * Grant Morphett
+ * Jack Pittar
+ * James Patterson
+ * Stephen Dade
+ * Darrell Burkey
+ * Fergus McCracken
+ * Jonathan Parrott
+ * Paul Warren
+
+
+Report on in-progress items
+---------------------------
+
+
+OBC2014
+^^^^^^^
+
+ * D2 is due on the 23rd April.
+ * Working backwards from this gives the weekends of the 22/23 and 29/30 March for capturing the footage for the video.
+ * Thus we require a working airframe by mid-March.
+ * The Bushmaster being developed by Jack and Chris is our primary option for this.
+ * The beaver will remain as a test aircraft
+ * Grant will look at costing for a Pilatis Porter type aircraft to have as a backup.
+ * It should be noted that we have not made a final decision on which airframe to use at this point.
+
+
+Piksi GPS
+^^^^^^^^^
+
+ * Should be arriving in April
+ * The Piksi team aim to have APM compatibility out-of-the-box
+
+
+Arboretum
+^^^^^^^^^
+
+ * no action noted
+
+
+Website
+^^^^^^^ 
+
+ * New site is up and running
+ * Some minor issues with invalid certificates on the .org.au domain. Will raise with Tridge.
+
+
+Quadcopter workshop
+^^^^^^^^^^^^^^^^^^^
+
+ * Is completed.
+ * Some minor issues with forgetting to flash the failsafe firmware.
+ * Major issues with radiofrequency interference between the 3DR radios. Will need to have a better way to manage this in future workshops.
+
+
+mu-thermal-camera
+^^^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Schools Program
+^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Antenna Tracker
+^^^^^^^^^^^^^^^ 
+
+ * no action noted
+ 
+
+Other business
+--------------
+
+
