@@ -2,7 +2,14 @@
 
 2014 UAV Outback Challenge
 ==========================
+Resources
+----------------
 
+.. toctree::
+   :glob:
+
+   OBC2014/*
+   
 
  * :download:`Rules have been announced !<OBC2014/UAVCRulesSearchAndRescue2014v1_0.pdf>`,
 
