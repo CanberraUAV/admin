@@ -48,12 +48,6 @@ One idea behind the current documentation system was to have an "automatically c
 
 We now have a tireless robot assistant to help us with administration. It can't yet tidy my workshop, but can update "administrivia/minutes/template.rst.copyme" with today's date and whenever the in-progress items change. So for any given day, if we are having a meeting, this file is the agenda. If you want to put something else on the agenda, consider moving it to "in-progress" before the meeting (hint/nudge, update project documentation before meetings ;)
 
-.. spelling::
-
-   copyme
-   hudson
-   py
-
 The process if taking minutes is now quite streamlined:
  1. ``cd administrivia/minutes``
  2. ``MINUTES="`date +'%Y%m%d'`.rst"``
