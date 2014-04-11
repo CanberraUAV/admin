@@ -1,7 +1,7 @@
 .. _mhv-quadcopter-workshop-1-0:
 
 MHV Quadcopter Workshop 1.0 (March 2013)
-=======================================
+========================================
 
 Developer: Stephen. With help from Tridge, Jack, Alistair, Andreas and Chris (Wolfe)
 

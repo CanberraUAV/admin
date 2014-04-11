@@ -22,12 +22,9 @@ Notes:
 
 .. _admin-process-proposal:
 
+
 A proposed document management process
 --------------------------------------
-
-.. spelling::
-
-   TODAYDATE
 
 The is a bit bureaucratic, but it's an attempt to foster common understanding within the group, *without getting in the way*. It might work as-is, but probably will need to evolve to be successful.
 

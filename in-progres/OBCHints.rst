@@ -1,4 +1,4 @@
-.. _obc2014:
+.. _obc2014Hints:
 
 2014 UAV Outback Challenge - Hints for Other Teams
 ==================================================

@@ -7,11 +7,12 @@ todo:
 
 .. toctree::
    :maxdepth: 1
+   :glob:
 
    TRL
    Finances
    livery/index
-   Incorporation
+   Incorporation/*
    Website
 
 .. _mumble-session:
