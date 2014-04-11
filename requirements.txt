@@ -1,3 +1,4 @@
 pyenchant
 sphinxcontrib-spelling
 six
+xmlrpclib
