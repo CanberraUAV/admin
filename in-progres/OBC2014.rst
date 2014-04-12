@@ -13,10 +13,10 @@ Resources
 
 And:
 
- * :download:`Rules have been announced !<OBC2014/UAVCRulesSearchAndRescue2014v1_0.pdf>`,
+ * :download:`Rules V 1.0<OBC2014/UAVCRulesSearchAndRescue2014v1_0.pdf>`,
+ * :download:`Rules V 1.2<OBC2014/UAVCRulesSearchAndRescue2014v1_2.pdf>`,
 
-
-December 2013 Status and Todo list
+April 2014 Status and Todo list
 ----------------------------------
 
 +---------------------------+--------------------------------------+-------------------------------------------+------------------------+
@@ -24,10 +24,12 @@ December 2013 Status and Todo list
 +===========================+======================================+===========================================+========================+
 | Airframe                  | Wings                                |Setting up for fabrication                 | Chris                  |
 |                           +--------------------------------------+-------------------------------------------+------------------------+
-|                           | Fuselage                             |Setting up for build. Need wing dimensions | Jack                   |
+|                           | Fuselage                             |Frame done. Needs covering and fitout      | Jack                   |
 |                           +--------------------------------------+-------------------------------------------+------------------------+
 |                           | Engine                               |Will buy off-the-shelf once other          | Jack                   |
 |                           |                                      |specifications are known                   |                        |
+|                           +--------------------------------------+-------------------------------------------+------------------------+
+|                           | Backup Airframe                      |Built and tested with great success        | Tridge, James, Grant   |
 +---------------------------+--------------------------------------+-------------------------------------------+------------------------+
 | Bottle Drop               | Bottle drop mechanism                |Testing two prototypes                     | Jack and Grant         |
 |                           +--------------------------------------+-------------------------------------------+------------------------+
@@ -63,14 +65,14 @@ December 2013 Status and Todo list
 | Ground Control Station    | Physical station                     |Conversion of Chris' van into a portable   | Chris                  |
 |                           |                                      |ground station                             |                        |
 |                           +--------------------------------------+-------------------------------------------+------------------------+
-|                           | Tracking antenna                     |Under development                          | Matt                   |
+|                           | Tracking antenna                     |Built and tested in simulation             | Matt                   |
 |                           +--------------------------------------+-------------------------------------------+------------------------+
 |                           | Networking hardware and fit-out      |Have basic setup until Chris' van is done  | Chris and Stephen      |
 |                           +--------------------------------------+-------------------------------------------+------------------------+
 |                           | Software                             |BYO Laptops. MAVProxy software updates to  | Chris, Tridge          |
 |                           |                                      |have GUI                                   | and Stephen            |
 +---------------------------+--------------------------------------+-------------------------------------------+------------------------+
-| Admin                     | Deliverable 2                        |Start work in early March                  | Stephen                |
+| Admin                     | Deliverable 2                        |Preparing final draft and video            | Stephen                |
 |                           +--------------------------------------+-------------------------------------------+------------------------+
 |                           | Deliverable 3                        |Start work in June                         | Stephen                |
 |                           +--------------------------------------+-------------------------------------------+------------------------+
