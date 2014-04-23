@@ -1,0 +1,65 @@
+2014 April 21 
+===============
+
+present:
+
+ * Jack Pittar
+ * James Pattison
+ * Stephen Dade
+ * Andrew Tridgell
+ * Andrew Moss
+
+
+
+Report on in-progress items
+---------------------------
+
+
+OBC2014
+^^^^^^^
+
+ * Deliverable 2 - V1.2 of the video is out. Includes multi-angle bottle drop sequence.
+ * Deliverable 2 - Still need to finish of the results section of the report.
+ * Bushmaster - Maiden flight should be this coming weekend. Jack just needs to finish the covering.
+ * GCS - We need to start thinking about the setup, particularly in regards to pilot <-> GCS communications and the power supply.
+ * GCS - Dickson College trailer is available again for our use. As before, we'll be carrying up some of their stuff too.
+
+
+Piksi GPS
+^^^^^^^^^
+
+ * Tridge tested his Piksi GPS modules. There appear to be some issues with filtering, leading to issues getting a reliable GPS lock.
+
+
+mu-thermal-camera
+^^^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Schools Program
+^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Antenna Tracker
+^^^^^^^^^^^^^^^ 
+
+ * no action noted
+ 
+
+Other business
+--------------
+
+ * no action noted
+  
+  
+  
+
