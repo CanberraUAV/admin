@@ -15,7 +15,13 @@ And:
 
  * :download:`Rules V 1.0<OBC2014/UAVCRulesSearchAndRescue2014v1_0.pdf>`,
  * :download:`Rules V 1.2<OBC2014/UAVCRulesSearchAndRescue2014v1_2.pdf>`,
+ 
+Submitted Deliverables:
 
+ * :download:`D1 (word 2010) <OBC2014/Deliverable1.docx>`, :download:`D1 (PDF) <OBC2014/Deliverable1.pdf>`
+ * :download:`D2 (word 2010)<OBC2014/Deliverable2.docx>`, :download:`D2 (PDF)<OBC2014/Deliverable2.pdf>`
+
+ 
 April 2014 Status and Todo list
 ----------------------------------
 
