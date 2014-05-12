@@ -1,0 +1,68 @@
+2014 May 12 
+===============
+
+present:
+
+ * Stephen Dade
+ * Andrew Tridgell
+ * Fergus McCracken
+ * Jono Parrott
+ * Matt Ridley
+ * Jack Pittar
+
+
+
+Report on in-progress items
+---------------------------
+
+
+OBC2014
+^^^^^^^
+
+ * New Helical antenna for ground station has arrived. Tests were very dissapointing, such that it will not be usable for our needs.
+ * Tridge will contact the Ubiquiti engineers for advice on the correct antennas to use in our system
+ * Possibility to have multiple 5.8 GHz links, as long as the radios are using different channels. This would be we can use more antennas to cover long range banking scenarios. Downside would be more complexity in the UAV (network switch would be needed).
+ * Currently have 51 minutes of logged Bushmaster flight time. Around 10 minutes of this is in AUTO mode.
+ * Jack will fit the 3L fuel tank this week, in preperation for long duration flights.
+ * Fergus will look into obtaining a backup airpseed sensor (need one with a different I2C address).
+
+
+
+Piksi GPS
+^^^^^^^^^
+
+ * no action noted
+
+
+mu-thermal-camera
+^^^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Schools Program
+^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Antenna Tracker
+^^^^^^^^^^^^^^^ 
+
+ * no action noted
+ 
+
+Other business
+--------------
+
+ * Jack will start building up a V1.1 (backup) Bushmaster in coming weeks. The cost should be around the same as the original Bushmaster ($1400 including engine and servos).
+  
+  
+  
+
