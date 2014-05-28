@@ -1,0 +1,75 @@
+2014 May 26 
+===============
+
+Present:
+
+ * Stephen Dade
+ * Andrew Tridgell
+ * Jono Parrott
+ * Matt Ridley
+ * Jack Pittar
+ * James Pattison
+ * Chris Gough
+ * Grant Morphett
+ * Fergus McCraken
+ * Greg Oakes
+
+
+
+Report on in-progress items
+---------------------------
+
+
+OBC2014
+^^^^^^^
+
+ * The Bushmaster was destroyed in a carsh over the weekend.
+ * The cuase has been narrowed down to the battery (supplying power to the servos) going flat during flight.
+ * This may have been due to a short circuit (ie. malfunctioning servo) or the (NiMH) battery getting old and loosing capacity.
+ * The auto-takeoff worked well though. Need to further tune the transition speeds in order to take up less runway.
+ * There are a couple of fixes to reduce the risk of this type of crash in the future: Using LiFE batteries, GCS warnings, additional GCS operators, better pre-flight checklists. Any hardware solution runs the risk of additional compexity (and failure points) to the UAV.
+ * Equipment needed to buy: Chameleon camera, 5.8 GHz Rocket radio, possibly RFD900's. Various UBECS and power modules too.
+ * In the meantime we will use the Porter for some testing, though we will concentrate our efforts on building a new Bushmaster (or two).
+ * Weekly meets at Jack's place to build the airframes and associated infrastructure. Free pizza (by CanberraUAV funds) to encourage people to come.
+
+
+
+Piksi GPS
+^^^^^^^^^
+
+ * no action noted
+
+
+mu-thermal-camera
+^^^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Schools Program
+^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Antenna Tracker
+^^^^^^^^^^^^^^^ 
+
+ * no action noted
+ 
+
+Other business
+--------------
+
+ * Stephen will look into booking accomodation for Kingaroy next week. The dates will be 20-28 September.
+ * This will entail having an accurate list of who's coming.
+  
+  
+  
+
