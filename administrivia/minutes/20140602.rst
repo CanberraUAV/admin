@@ -1,0 +1,74 @@
+2014 June 02 
+===============
+
+Present:
+
+ * Stephen Dade
+ * Andrew Tridgell
+ * Jono Parrott
+ * Matt Ridley
+ * Jack Pittar
+ * James Pattison
+ * Chris Gough
+ * Grant Morphett
+
+
+
+
+Report on in-progress items
+---------------------------
+
+
+OBC2014
+^^^^^^^
+
+ * Bushmaster V1.1 (re)build is progressing well.
+ * Wings are cut out and now need covering.
+ * Matt is reconditioning the engine.
+ * The new Odroid has arrived.
+ * The laser range finder hasn't arrived yet.
+ * Aim is to get the Bushmaster flying by the 1st July. That gives us 1 month to build up the 5 hours flight for D3.
+ * We need to start laying out the Ground Station network, prcedures and roles.
+ * Emergency procedures to be generated.
+ * Liase with OBC committee in regards to insurance.
+
+
+
+Piksi GPS
+^^^^^^^^^
+
+ * no action noted
+
+
+mu-thermal-camera
+^^^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Schools Program
+^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Antenna Tracker
+^^^^^^^^^^^^^^^ 
+
+ * no action noted
+ 
+
+Other business
+--------------
+
+ * Stephen will book accomodation this week for 9 people.
+  
+  
+  
+
