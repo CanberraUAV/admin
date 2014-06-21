@@ -10,7 +10,8 @@ Resources
 .. toctree::
 
    OBC2014/Checklists
-
+   OBC2014/GCS
+   
 And:
 
  * :download:`Rules V 1.0<OBC2014/UAVCRulesSearchAndRescue2014v1_0.pdf>`,
