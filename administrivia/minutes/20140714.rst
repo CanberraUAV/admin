@@ -1,0 +1,65 @@
+2014 July 14 
+===============
+
+Present:
+
+ * Stephen Dade
+ * Jack Pittar
+ * James Pattison
+ * Darrell Burkey
+ * Jono Parrott
+
+
+
+
+Report on in-progress items
+---------------------------
+
+
+OBC2014
+^^^^^^^
+
+ * Last weekend's testing: Odroid causes interference into GPS module. Will need to (re)mount there modules far away from each other to reduce the interference to a suitable minimum.
+ * Now up to 5 hours AUTO flight!
+ * D3 video is coming along nicely. We do need some more shots of the full ground station. We will do this next weekend.
+ * We have 10 weekends left until the OBC. This will likely go down to 7-8 weeks accounting for bad weather. Stephen will map a plan for this time.
+
+
+Piksi GPS
+^^^^^^^^^
+
+ * no action noted
+
+
+mu-thermal-camera
+^^^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Schools Program
+^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Antenna Tracker
+^^^^^^^^^^^^^^^ 
+
+ * Was tested last weekend. Compass calibration is off and needs to be fixed.
+ 
+
+Other business
+--------------
+
+ * no action noted.
+  
+  
+  
+
