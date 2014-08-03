@@ -1,0 +1,72 @@
+2014 July 28 
+===============
+
+Present:
+
+ * Stephen Dade
+ * Jack Pittar
+ * James Pattison
+ * Darrell Burkey
+ * Andrew Tridgell
+ * Matt Ridley
+ * Andrew Moss
+ * Chris Gough
+ * Grant Morphett
+
+
+
+
+Report on in-progress items
+---------------------------
+
+
+OBC2014
+^^^^^^^
+
+ * Last weekend's testing did not go well - we found a (fatal) bug in our Pixhawk setup that required the entire weekend to to find a work-around.
+ * Deliverable 3 is coming along well. It is due 1.5 weeks from now. Just need to add the final touches to the flight logs.
+ * Emphasis is getting the full ground station working for next weekend's testing.
+ * Need to do as many bottle drops as possible from now until the OBC - in order to test it's reliability.
+ * Decided to buy a ~40" TV for the ground station. Budget is ~$600.
+ * Will use a trailer to transport the assembled Bushmaster during the OBC. Chris has a trailer which we will test for sizing next weekend.
+ *Went though the todo list and assigned tasks. Will revisit this on a weekly basis.
+
+
+Piksi GPS
+^^^^^^^^^
+
+ * no action noted
+
+
+mu-thermal-camera
+^^^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+SAR-scenarios
+^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Schools Program
+^^^^^^^^^^^^^^^
+
+ * no action noted
+
+
+Antenna Tracker
+^^^^^^^^^^^^^^^ 
+
+ * Ready to be mounted to final antenna pole on GCS van.
+ 
+
+Other business
+--------------
+
+ * no action noted.
+  
+  
+  
+
