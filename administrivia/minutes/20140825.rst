@@ -1,0 +1,51 @@
+2014 August 25 
+===============
+
+Present:
+
+ * Stephen Dade
+ * Jack Pittar
+ * James Pattison
+ * Darrell Burkey
+ * Matt Ridley
+ * Greg Oakes
+ * Jono Parrott
+ * Andrew Tridgell
+ * Chris Gough
+
+
+
+
+Report on in-progress items
+---------------------------
+
+
+OBC2014
+^^^^^^^
+
+ * All-up testing went very well over the weekend. Setup was done in the 15min time limit, despite it being our first time.
+ * Long range datalink tests from Red Hill were less successful, partiucalr on the 900MHz link. This was later attributed to a broken contact on the radio module on the Porter.
+ * Agreed to buy 2x extra RFD900's and associated accessories
+ * The inverter in the van can't power the TV, radios and 3x laptops. The solution is to run the laptops on battery power.
+ * Jack will bring a backup generator just in case.
+ * Many bottle drops done. Generally all good, though 1 drop was >50m off. Not sure if this is just an outlier. More testing is required in varying wind conditions.
+ * Bushmaster should be ready for flight in 1.5 weeks if all goes according to plan.
+ * 2nd Porter build is coming along, but needs much more work.
+ * Plan for the upcoming weekend will be more long-range data tests and auto-takeoffs
+ * Will do another all-up test on the 6th September.
+
+
+Antenna Tracker
+^^^^^^^^^^^^^^^ 
+
+ * Firmware needs upgrading.
+ 
+
+Other business
+--------------
+
+ * no action noted.
+  
+  
+  
+
