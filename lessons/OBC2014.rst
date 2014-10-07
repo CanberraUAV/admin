@@ -1,0 +1,46 @@
+.. _obc2014:
+
+2014 UAV Outback Challenge
+==========================
+
+The 2014 UAV Outback Challenge (OBC) was the 2nd time CanberraUAV had entered the competition.
+
+We came 1st place, successfully dropping a bottle of water to within 2.6m of Joe.
+
+A total of 16 teams made it to Kingaroy, 4 teams being able to drop a water bottle within 100m of Joe (another team dropped the bottle more than 100m from Joe).
+
+For more information about the event:
+ * The official competition web site http://www.uavoutbackchallenge.com.au/
+ * CanberraUAV mission statement: http://canberrauav.org.au/about
+ * OBC Wikipedia article http://en.wikipedia.org/wiki/UAV_Outback_Challenge
+ * South Burnett Times http://www.southburnetttimes.com.au/news/got-it-first-time-elusive-outback-joe-found/2401560/
+ * FastCo http://www.fastcoexist.com/3036658/this-drone-just-saved-someone-lost-in-the-australian-wilderness-but-that-someone-was-just-a-
+ 
+Procedures and Reference
+------------------------
+
+We also created the following documents for our own use at the competition (and practice flights):
+   
+The rules:
+
+ * :download:`Rules V 1.2<OBC2014/UAVCRulesSearchAndRescue2014v1_2.pdf>`,
+ 
+Deliverables:
+
+ * :download:`D1 (word 2010) <OBC2014/Deliverable1.docx>`, :download:`D1 (PDF) <OBC2014/Deliverable1.pdf>`
+ * :download:`D2 (word 2010) <OBC2014/Deliverable2.docx>`, :download:`D2 (PDF) <OBC2014/Deliverable2.pdf>`
+ * :download:`D3 (word 2010) <OBC2014/Deliverable3.docx>`, :download:`D3 (PDF) <OBC2014/Deliverable3.pdf>`
+ 
+Procedures and Checklists:
+
+ * :download:`Flight Operations Manual (Word 2010) <OBC2014/UAVFlightOperationsManual.docx>`, :download:`Flight Operations Manual (PDF) <OBC2014/UAVFlightOperationsManual.pdf>`
+ 
+ 
+After the Challenge
+-------------------
+
+We completed a post-OBC review here:
+ * :doc:`Internal Review <OBC2014/review>`
+
+
+
