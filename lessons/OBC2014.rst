@@ -23,7 +23,7 @@ We also created the following documents for our own use at the competition (and 
    
 The rules:
 
- * :download:`Rules V 1.2<OBC2014/UAVCRulesSearchAndRescue2014v1_2.pdf>`,
+ * :download:`Rules V 1.2<OBC2014/UAVCRulesSearchAndRescue2014v1_4.pdf>`,
  
 Deliverables:
 
