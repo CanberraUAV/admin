@@ -15,6 +15,25 @@ For more information about the event:
  * OBC Wikipedia article http://en.wikipedia.org/wiki/UAV_Outback_Challenge
  * South Burnett Times http://www.southburnetttimes.com.au/news/got-it-first-time-elusive-outback-joe-found/2401560/
  * FastCo http://www.fastcoexist.com/3036658/this-drone-just-saved-someone-lost-in-the-australian-wilderness-but-that-someone-was-just-a-
+
+
+Hardware/Software used
+------------------------
+
+Airframe: VQ Porter (2.7m wingspan. 12kg takeoff weight) with DLE35 engine
+
+Flight Controller: Pixhawk running APM:Plane 3.1.1
+
+Datalink1: RFD900's with 3dBi patch antennas of the aircraft and 6dBi Yagi antenna of the ground
+
+Datalink2: Ubiquiti Rocket 5.8GHz. 28dBi MIMO antenna on the ground, and a 10dBi MIMO omni antenna in the aircraft.
+
+Camera: PointGrey Chameleon
+
+Image Processing: Odroid XU board running Unbuntu and the cuav imaging software
+
+Ground Station: 3 networked laptops running the MAVProxy GCS software.
+
  
 Procedures and Reference
 ------------------------
@@ -23,7 +42,7 @@ We also created the following documents for our own use at the competition (and 
    
 The rules:
 
- * :download:`Rules V 1.2<OBC2014/UAVCRulesSearchAndRescue2014v1_4.pdf>`,
+ * :download:`Rules V 1.4<OBC2014/UAVCRulesSearchAndRescue2014v1_4.pdf>`,
  
 Deliverables:
 
@@ -41,6 +60,9 @@ After the Challenge
 
 We completed a post-OBC review here:
  * :doc:`Internal Review <OBC2014/review>`
-
+ 
+There are also reviews by Stephen and Tridge on DIYDrones:
+ * Tridge's technical review - http://diydrones.com/profiles/blogs/canberrauav-outback-challenge-2014-debrief
+ * Stephen's not-so-technical review - http://diydrones.com/profiles/blogs/canberrauav-uav-outback-challenge-review
 
 
