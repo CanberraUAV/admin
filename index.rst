@@ -11,12 +11,9 @@ These docs can be rendered with sphinx. They can be accessed as web page at http
    :maxdepth: 2
    :glob:
 
-   in-progres/index
-   new-ideas-issues/index
-   on-hold/index
    lessons/index
-   administrivia/index
-   quadcopter-workshops/index
+   presentations/index
+   workshops/index
    
 
 Other Useful Links
@@ -37,10 +34,6 @@ http://www.flickr.com/groups/canberrauav/
 Youtube account
 
 https://www.youtube.com/channel/UCkKf-_mAKedeAHcyh1Ykmsg
-
-Calendar of Events
-
-https://www.google.com/calendar/ical/canberrauav%40gmail.com/public/basic.ics
 
 Main gmail address
 

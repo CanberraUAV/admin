@@ -1,0 +1,60 @@
+.. _obc2016:
+
+2016 UAV Challenge
+==========================
+
+The 2016 UAV Challenge (Medical Express) was the 3rd time CanberraUAV had entered the competition.
+
+We came 1st place, successfully landing 40.6m from Outback Joe and returning safely to the base. Unfortunately the comms relay UAV crashed partway through the mission.
+
+A total of 10 teams made it to Dalby, with 3 teams finding Joe and only CanberraUAV performing a successful landing next to Joe.
+
+For more information about the event:
+ * The official competition web site https://uavchallenge.org/medical-express/
+ * CanberraUAV mission statement: http://canberrauav.org.au/about
+ * OBC Wikipedia article http://en.wikipedia.org/wiki/UAV_Outback_Challenge
+ * BBC "Click" Documentary http://www.bbc.co.uk/programmes/b0817f4m
+
+Hardware/Software used
+------------------------
+
+Airframe1: VQ Porter (2.7m wingspan. 14kg takeoff weight) with DLE35 engine
+
+Airframe2: Gaui GX9 (2m rotorspan)
+
+Flight Controller: Pixhawk running APM:Plane (Porter) and APM:Copter (GX9)
+
+Datalink1: RFD900's with 3dBi patch antennas of the aircraft and 6dBi Yagi antenna of the ground
+
+Datalink2: 3G modems using the Telstra and Optus networks
+
+Camera: PointGrey Chameleon
+
+Image Processing: Odroid XU board running Linux and the cuav imaging software
+
+Ground Station: 2 networked laptops running the MAVProxy GCS software.
+
+ 
+Procedures and Reference
+------------------------
+
+We also created the following documents for our own use at the competition (and practice flights):
+   
+The rules:
+
+ * :download:`Rules V 1.4<OBC2016/UAVCMedicalExpress2016Rules-V4.pdf>`,
+ 
+Deliverables:
+
+ * :download:`D1 (word 2010) <OBC2016/Deliverable1.docx>`, :download:`D1 (PDF) <OBC2016/Deliverable1.pdf>`
+ * :download:`D2 (word 2010) <OBC2016/Deliverable2.docx>`, :download:`D2 (PDF) <OBC2016/Deliverable2.pdf>`
+ * :download:`D3 (word 2010) <OBC2016/Deliverable3.docx>`, :download:`D3 (PDF) <OBC2016/Deliverable3.pdf>`
+ 
+ 
+After the Challenge
+-------------------
+
+There is a review by Tridge on the Ardupilot forums:
+ * Tridge's technical review - http://discuss.ardupilot.org/t/canberrauav-outback-challenge-2016-debrief/12162
+
+
