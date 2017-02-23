@@ -17,11 +17,11 @@ spelling_show_suggestions=True
 templates_path = ['_templates']
 source_suffix = '.rst'
 master_doc = 'index'
-project = u'CanberraUAV Administrivia'
+project = u'CanberraUAV Public Documentation'
 copyright = u'2013, CanberraUAV Team'
 
-version = '0.1'
-release = '0.1'
+version = '1.0'
+release = '1.0'
 exclude_trees = ['_build']
 pygments_style = 'sphinx'
 
