@@ -46,9 +46,9 @@ The rules:
  
 Deliverables:
 
- * :download:`D1 (word 2010) <OBC2016/Deliverable1.docx>`, :download:`D1 (PDF) <OBC2016/Deliverable1.pdf>`
- * :download:`D2 (word 2010) <OBC2016/Deliverable2.docx>`, :download:`D2 (PDF) <OBC2016/Deliverable2.pdf>`
- * :download:`D3 (word 2010) <OBC2016/Deliverable3.docx>`, :download:`D3 (PDF) <OBC2016/Deliverable3.pdf>`
+ * :download:`D1 (word 2010) <OBC2016/Deliverable 1 Report.docx>`, :download:`D1 (PDF) <OBC2016/Deliverable 1 Report.pdf>`
+ * :download:`D2 (word 2010) <OBC2016/Deliverable 2.docx>`, :download:`D2 (PDF) <OBC2016/Deliverable 2.pdf>`
+ * :download:`D3 (word 2010) <OBC2016/Deliverable 3.docx>`, :download:`D3 (PDF) <OBC2016/Deliverable 3.pdf>`
  
  
 After the Challenge
