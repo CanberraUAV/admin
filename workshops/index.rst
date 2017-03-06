@@ -1,9 +1,9 @@
 .. _quadcopter-workshops:
 
-Quadcopter Workshops
+Workshops
 ========================
 
-This section contains information and files for each of the quadcopter workshops.
+This section contains information and files for the workshops that CanberraUAV runs.
 
 .. toctree::
    :maxdepth: 1 
