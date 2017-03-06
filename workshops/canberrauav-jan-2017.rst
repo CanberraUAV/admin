@@ -14,7 +14,10 @@ For the practical sessions of the workshop, a laptop is required with the Ardupi
 There were 3 parts to the workshop:
 
 :download:`CanberraUAV Intro (pdf) <CanberraUAV-workshop/Part0 - CanberraUAV.pdf>`, :download:`CanberraUAV Intro (pptx) <CanberraUAV-workshop/Part0 - CanberraUAV.pptx>`
+
 :download:`Ardupilot (pdf) <CanberraUAV-workshop/Part1 - APM.pdf>`, :download:`Ardupilot (pptx) <CanberraUAV-workshop/Part1 - APM.pptx>`
+
 :download:`Ground Control Station (pdf) <CanberraUAV-workshop/Part 2 - GCS.pdf>`, :download:`Ground Control Station (pptx) <CanberraUAV-workshop/Part 2 - GCS.pptx>`
+
 :download:`Communications (pdf) <CanberraUAV-workshop/Part 3 - Comms.pdf>`, :download:`Communications (pptx) <CanberraUAV-workshop/Part 3 - Comms.pptx>`
 
