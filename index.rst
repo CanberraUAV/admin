@@ -1,11 +1,11 @@
-CanberraUAV Documentation 
+Index Page
 ==========================
 
-This is CanberraUAV's living documentation.
+This is CanberraUAV's public documentation. All written documentation (reports, presentations, etc) are stored here.
 
-These docs can be rendered with sphinx. They can be accessed as web page at https://canberrauav.readthedocs.org/ (or as a single pdf_document_). The sources are published at http://github.com/CanberraUAV/admin/.
+These docs can be rendered with sphinx. They can be accessed as web page at https://canberrauav.readthedocs.org/.
 
-.. _pdf_document: https://media.readthedocs.org/pdf/canberrauav/latest/canberrauav.pdf
+The sources are published at http://github.com/CanberraUAV/admin/.
 
 .. toctree::
    :maxdepth: 2
