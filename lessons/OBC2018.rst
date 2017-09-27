@@ -1,0 +1,33 @@
+.. _obc2018:
+
+2018 UAV Challenge
+==========================
+
+The 2018 UAV Challenge (Medical Express) was the 4th time CanberraUAV had entered the competition.
+
+Hardware/Software used
+------------------------
+
+TBA
+
+Procedures and Reference
+------------------------
+
+We also created the following documents for our own use at the competition (and practice flights):
+   
+The rules:
+
+ * TBA
+ 
+Deliverables:
+
+ * :download:`D1 (PDF) <OBC2018/2018 Deliverable 1.pdf>`
+ * TBA
+ * TBA
+ 
+ 
+After the Challenge
+-------------------
+
+TBA
+
